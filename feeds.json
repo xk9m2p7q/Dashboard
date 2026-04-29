@@ -1,68 +1,435 @@
 {
-  "updated": "2026-04-29T21:06:27.781664+00:00",
+  "updated": "2026-04-29T23:47:50.043820+00:00",
   "articles": [
     {
-      "title": "The EU Is the New Go-To Middle Power",
-      "link": "https://foreignpolicy.com/2026/04/29/eu-european-union-middle-powers-trade-agreements-geopolitics/",
-      "summary": "In a world of disorder, the bloc’s boring stability is suddenly attractive.",
+      "title": "Israeli troops seize aid vessels bound for Gaza",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-seize-aid-vessels-bound-gaza",
+      "summary": "Israeli troops seize aid vessels bound for Gaza\n\n    \n    \n\n        \n    \n                Israeli forces have begun seizing control of aid vessels bound for Gaza, far from its shore",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "11m ago",
+      "timestamp": 1777505737
+    },
+    {
+      "title": "EE UU eleva a 42 la cifra de buques iraníes que ha bloqueado en el estrecho de Ormuz",
+      "link": "https://www.elnacional.com/2026/04/ee-uu-eleva-a-42-la-cifra-de-buques-iranies-que-ha-bloqueado-en-el-estrecho-de-ormuz/",
+      "summary": "El bloqueo naval sobre los puertos iraníes se mantiene vigente desde el 13 de abril y, según EE UU, ha \"interrumpido\" casi en su totalidad el comercio de la república Islámica.\nThe post EE UU eleva a",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "15m ago",
+      "timestamp": 1777505534
+    },
+    {
+      "title": "Jorge Rodríguez sobre el alivio de sanciones: \"Ya se nota, hay una redinamización\"",
+      "link": "https://www.elnacional.com/2026/04/jorge-rodriguez-sobre-el-alivio-de-sanciones-ya-se-nota-hay-una-redinamizacion/",
+      "summary": "“Solamente han levantado 18 de las 1.861 sanciones que existen, y ya se nota. Se empieza a notar que hay una redinamización, hay un aceleramiento del desarrollo económico de Venezuela”, afirmó el pres",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "15m ago",
+      "timestamp": 1777505501
+    },
+    {
+      "title": "Trump says US considering reducing troops in Germany",
+      "link": "https://www.politico.com/news/2026/04/29/trump-us-reducing-troops-germany-00899352?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "There are 38,000 U.S. troops and personnel stationed in Germany, and cutting forces there would face opposition on Capitol Hill.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "22m ago",
+      "timestamp": 1777505090
+    },
+    {
+      "title": "EE UU acusa al gobernador de Sinaloa y a otros funcionarios mexicanos de narcotráfico y posesión de armas",
+      "link": "https://www.elnacional.com/2026/04/ee-uu-acusa-al-gobernador-de-sinaloa-y-a-otros-funcionarios-mexicanos-de-narcotrafico-y-posesion-de-armas/",
+      "summary": "El Departamento de Justicia alega que Rubén Rocha Moya fue elegido gobernador en noviembre de 2021 después de que los Chapitos lo ayudaran \"secuestrando e intimidando a sus rivales\", y ha permitido qu",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "30m ago",
+      "timestamp": 1777504611
+    },
+    {
+      "title": "Posponen hasta septiembre el juicio contra Nick Reiner por el asesinato de sus padres",
+      "link": "https://www.elnacional.com/2026/04/posponen-hasta-septiembre-el-juicio-contra-nick-reiner-por-el-asesinato-de-sus-padres/",
+      "summary": "La fiscalía del condado de Los Ángeles declaró este miércoles ante el tribunal que aún faltan los informes de autopsia de las víctimas y que no se le había entregado a la defensa casi dos terabytes de",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "33m ago",
+      "timestamp": 1777504465
+    },
+    {
+      "title": "Sofía Castillo: “En el jazz conseguí libertad”",
+      "link": "https://www.elnacional.com/2026/04/sofia-castillo-en-el-jazz-consegui-libertad-2/",
+      "summary": "The post Sofía Castillo: “En el jazz conseguí libertad” appeared first on EL NACIONAL.",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "37m ago",
+      "timestamp": 1777504215
+    },
+    {
+      "title": "¿Cuántos arrestos de trabajadores de la prensa se registró en lo que va de 2026?",
+      "link": "https://www.elnacional.com/2026/04/espacio-publico-registro-29-detenciones-de-trabajadores-de-la-prensa-en-lo-que-va-de-2026/",
+      "summary": "Del total de detenidos, 22 fueron periodistas, seis particulares (infociudadanos o activistas) y un trabajador público.\nThe post ¿Cuántos arrestos de trabajadores de la prensa se registró en lo que va",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "38m ago",
+      "timestamp": 1777504168
+    },
+    {
+      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "time": "57m ago",
+      "timestamp": 1777502959
+    },
+    {
+      "title": "Ultra-Orthodox protests over draft law spread across Israel",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ultra-orthodox-protests-over-draft-law-spread-across-israel-0",
+      "summary": "Ultra-Orthodox protests over draft law spread across Israel\n\n    \n    \n\n        \n    \n                Ultra-Orthodox Jews have staged protests across Israel against military conscri",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777502192
+    },
+    {
+      "title": "Israeli military intercepts Gaza-bound aid vessel off Greek coast",
+      "link": "https://www.middleeasteye.net/news/israeli-military-intercepts-gaza-bound-aid-vessel-greek-coast",
+      "summary": "Israeli military intercepts Gaza-bound aid vessel off Greek coast\n\n    \n    \n\n          \n      \n      \n        Submitted by \nTamara Turki\n on \nWed, 04/29/2026 - 23:20",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777502064
+    },
+    {
+      "title": "Carney ‘strong’ in year one, now must deliver on promises in Canada",
+      "link": "https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss",
+      "summary": "Canada&#039;s prime minister has used Trump&#039;s attacks on allies and others to refocus Ottawa&#039;s foreign policy.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777501996
+    },
+    {
+      "title": "Vivir dos años en EEUU no garantiza la residencia: la estafa viral de abogados hechos con Inteligencia Artificial",
+      "link": "https://efectococuyo.com/cocuyo-chequea/falso-residencia-estadounidense-facil/",
+      "summary": "Abogados denuncian que estafadores usan inteligencia artificial para ofrecer falsas Green Cards y pedir dinero a migrantes.\nThe post Vivir dos años en EEUU no garantiza la residencia: la estafa viral",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "1h ago",
+      "timestamp": 1777500305
+    },
+    {
+      "title": "Putin, Trump discuss Iran war, Ukraine ceasefire in call",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-trump-discuss-iran-war-ukraine-ceasefire-call",
+      "summary": "Putin, Trump discuss Iran war, Ukraine ceasefire in call\n\n    \n    \n\n        \n    \n                Russian President Vladimir Putin and US President Donald Trump held a phone call i",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777500272
+    },
+    {
+      "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
+      "summary": "Organisers of a Gaza-bound aid mission say their vessels are being intercepted by Israeli military speedboats.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777499948
+    },
+    {
+      "title": "CIDH otorga medidas cautelares en favor de abogado argentino detenido en Venezuela",
+      "link": "https://efectococuyo.com/internacionales/cidh-otorga-medidas-cautelares-en-favor-de-abogado-argentino-detenido-en-venezuela/",
+      "summary": "Consideran que el abogado se encuentra en una situación de \"gravedad y urgencia\"\nThe post CIDH otorga medidas cautelares en favor de abogado argentino detenido en Venezuela appeared first on Efecto C",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "1h ago",
+      "timestamp": 1777499793
+    },
+    {
+      "title": "El Rey evita invitar personalmente a Delcy Rodríguez a la Cumbre Iberoamerica y sólo pide a Venezuela representación al más alto nivel",
+      "link": "https://www.elmundo.es/espana/2026/04/29/69f24c03e85ece141c8b45a6.html",
+      "summary": "Se han elaborado dos tipos de invitaciones según la situación en la región: nominales o por países&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "1h ago",
+      "timestamp": 1777499660
+    },
+    {
+      "title": "Tribunal estadounidense no confirmó que Maduro es colombiano, como dijo Blanca Rosa Mármol",
+      "link": "https://efectococuyo.com/cocuyo-chequea/blanca-marmol-maduro-colombiano-falso-ny/",
+      "summary": "El caso se basa en rumores antiguos y montajes fotográficos que han sido desmentidos sistemáticamente durante 13 años\nThe post Tribunal estadounidense no confirmó que Maduro es colombiano, como dijo",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "1h ago",
+      "timestamp": 1777499419
+    },
+    {
+      "title": "Israel intercepts Global Sumud boats, demands activists halt their mission",
+      "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
+      "summary": "Seven out of 58 vessels captured by Israel near Crete as flotilla aims to deliver aid to Gaza under blockade.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777499183
+    },
+    {
+      "title": "¿Sabes cuáles películas y series la rompen en Netflix Venezuela esta semana?",
+      "link": "https://efectococuyo.com/solaz/sabes-cuales-peliculas-y-series-la-rompen-en-netflix-venezuela-esta-semana/",
+      "summary": "En la primera posición de largometrajes aparece Ápex, thriller de supervivencia que está estelarizado por la galardonada actriz Charlize Theron\nThe post ¿Sabes cuáles películas y series la rompen en",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "2h ago",
+      "timestamp": 1777498870
+    },
+    {
+      "title": "Gaza-bound aid ship intercepted by Israeli forces",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-bound-aid-ship-intercepted-israeli-forces",
+      "summary": "Gaza-bound aid ship intercepted by Israeli forces \n\n    \n    \n\n        \n    \n                Organisers of a humanitarian vessel heading to Gaza said Israeli military speedboats app",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777498767
+    },
+    {
+      "title": "Where Is Iran’s Enriched Uranium?",
+      "link": "https://foreignpolicy.com/2026/04/29/iran-nuclear-program-iaea-grossi-isfahan-enriched-uranium-us-war-hegseth-caine/",
+      "summary": "The U.N. nuclear watchdog suspects that roughly half of Tehran’s stockpile is still at its Isfahan facility.",
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "10h ago"
+      "time": "2h ago",
+      "timestamp": 1777498733
+    },
+    {
+      "title": "‘Resign Immediately’: Democrats Grill Hegseth on Iran War",
+      "link": "https://foreignpolicy.com/2026/04/29/hegseth-testimony-congress-hasc-iran-war-trump-defense/",
+      "summary": "Congressional Democrats fought with the U.S. defense secretary over the war and military spending in a rare public hearing.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "time": "2h ago",
+      "timestamp": 1777498685
+    },
+    {
+      "title": "Ocho horas con Aldama",
+      "link": "https://www.elmundo.es/espana/2026/04/29/69f2689ffc6c83fb6f8b45c1.html",
+      "summary": "Como en una película, el delincuente confeso del sanchismo nos dio la mano para colarnos con él en las entrañas más negras del poder. Fue conmovedor cuando explicó que incluso Ábalos tenía sus límites",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2h ago",
+      "timestamp": 1777498451
+    },
+    {
+      "title": "Key Trio’s Return to Training Boosts Barcelona’s End-of-Season Morale",
+      "link": "https://www.moroccoworldnews.com/2026/04/289294/key-trios-return-to-training-boosts-barcelonas-end-of-season-morale/",
+      "summary": "Barcelona three key players, Raphinha, Marc Bernal and Andreas Christensen joined the squad’s training today after being sidelined with injuries, the team stated on their official website.\nThe post Ke",
+      "source": "Morocco World News",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777498370
+    },
+    {
+      "title": "UAE quits OPEC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss",
+      "summary": "The UAE announced it’s withdrawing from OPEC on May 1st.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777498222
+    },
+    {
+      "title": "Morocco Reiterates Support for Mali’s Stability After Deadly Attacks",
+      "link": "https://www.moroccoworldnews.com/2026/04/289284/morocco-reiterates-support-for-malis-stability-after-deadly-attacks/",
+      "summary": "Morocco reiterated today its support for the stability, sovereignty, and national unity of Mali, as the West African country reels from a wave of coordinated attacks that killed its defense minister a",
+      "source": "Morocco World News",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497611
+    },
+    {
+      "title": "Hakimi absent jusqu'à trois semaines en raison d'une blessure aux ischio-jambiers",
+      "link": "https://www.yabiladi.com/articles/details/193526/hakimi-absent-jusqu-a-trois-semaines.html",
+      "summary": "Le défenseur international marocain du Paris Saint-Germain, Achraf Hakimi, sera absent des terrains pour une période estimée entre deux semaines et demie et trois semaines. Cette indisponibilité fait",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497540
+    },
+    {
+      "title": "Casablanca Hosts Launch of Maghreb Regional Office to Boost Arab-African Real Estate Cooperation",
+      "link": "https://www.moroccoworldnews.com/2026/04/289288/casablanca-hosts-launch-of-maghreb-regional-office-to-boost-arab-african-real-estate-cooperation/",
+      "summary": "In a move aimed at strengthening regional economic ties, the Arab Union of Construction and Real Estate Development has launched its Maghreb regional office in Casablanca, positioning Morocco as a str",
+      "source": "Morocco World News",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497461
+    },
+    {
+      "title": "Espace : Le Maroc adhère aux Accords d’Artemis, lancés en 2020 par l’administration Trump",
+      "link": "https://www.yabiladi.com/articles/details/193530/espace-maroc-adhere-accords-d-artemis.html",
+      "summary": "La coopération entre le Maroc et les États-Unis franchit une nouvelle étape décisive. «Aujourdhui, nous sommes ravis de voir notre alliance sétendre à lespace», a déclaré mercredi à Rabat le secrétair",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497360
+    },
+    {
+      "title": "Trump calls UAE exit from Opec ‘great’, says it could lower prices",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-calls-uae-exit-opec-great-says-it-could-lower-prices",
+      "summary": "Trump calls UAE exit from Opec ‘great’, says it could lower prices\n\n    \n    \n\n        \n    \n                US President Donald Trump praised the UAE's decision to leave Opec, call",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497344
+    },
+    {
+      "title": "Flick to Sign New Barcelona Contract",
+      "link": "https://www.moroccoworldnews.com/2026/04/289287/flick-to-sign-new-barcelona-contract/",
+      "summary": "Hansi Flick is reportedly set to sign a new contract with Barcelona as soon as the team officially wins the La Liga title.\nThe post Flick to Sign New Barcelona Contract appeared first on Morocco World",
+      "source": "Morocco World News",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497283
+    },
+    {
+      "title": "India Rethinks Energy Security Amid War",
+      "link": "https://foreignpolicy.com/2026/04/29/india-energy-security-iran-war-uae-green-technology/",
+      "summary": "As New Delhi feels the crunch, diplomacy in Abu Dhabi hints at expanding green cooperation.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "time": "2h ago",
+      "timestamp": 1777497220
+    },
+    {
+      "title": "Remontada Wins: Union Yaacoub El Mansour Deepen Wydad’s Struggles",
+      "link": "https://www.moroccoworldnews.com/2026/04/289283/remontada-wins-union-yaacoub-el-mansour-deepen-wydads-struggles/",
+      "summary": "Rabat – Wydad Casablanca fell after a (2-1) home defeat to Union Yaacoub El Mansour in Matchday 17 of the Moroccan league. USYM returned to Rabat with all three points, keeping their hopes up to conti",
+      "source": "Morocco World News",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497079
+    },
+    {
+      "title": "Mali : Le Maroc appelle à «casser l’alliance entre le séparatisme et les groupes terroristes»",
+      "link": "https://www.yabiladi.com/articles/details/193528/mali-maroc-appelle-casser-l-alliance.html",
+      "summary": "Le ministre des Affaires étrangères, Nasser Bourita, a abordé ce mercredi à Rabat, lors dune déclaration à la presse, la situation préoccupante au Mali. «Le Royaume du Maroc a constaté une connivence",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777497000
+    },
+    {
+      "title": "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
+      "link": "https://www.aljazeera.com/sports/2026/4/29/arsenal-cruelly-denied-penalty-by-var-in-champions-league-tie-at-atletico?traffic_source=rss",
+      "summary": "Arsenal scored one penalty, but VAR controversially denied them another in a 1-1 semifinal draw at Atletico Madrid.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777496928
+    },
+    {
+      "title": "\"Los ministros le cogían el teléfono a Koldo porque era un hombre del presidente\": Aldama dispara una y otra vez contra Sánchez",
+      "link": "https://www.elmundo.es/espana/2026/04/29/69f26995e9cf4a4c1d8b4578.html",
+      "summary": "El empresario afirma que el presidente del Gobierno está \"en el número uno del escalafón\" de la trama corrupta y que era conocedor de su actividad&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2h ago",
+      "timestamp": 1777496328
+    },
+    {
+      "title": "Aldama inunda del Supremo de detalles demoledores sobre sobornos \"protegidos\" por Sánchez y financiación ilegal del PSOE",
+      "link": "https://www.elmundo.es/espana/2026/04/29/69f2526cfc6c8379748b4590.html",
+      "summary": "El empresario declara que le pidieron que se encargara de recaudar las mordidas en efectivo, que se hacían llegar al partido camufladas de donaciones&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2h ago",
+      "timestamp": 1777496310
+    },
+    {
+      "title": "¿Por qué Aldama es creíble? Nunca fue el 'Pequeño Nicolás' que quería el PSOE",
+      "link": "https://www.elmundo.es/espana/2026/04/29/69f231a7e4d4d8f57a8b4572.html",
+      "summary": "La aparición del empresario en operaciones con Ábalos o su interlocución con altos cargos del Gobierno y de la Guardia Civil desmonta que sea un gran farsante&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2h ago",
+      "timestamp": 1777496292
+    },
+    {
+      "title": "New Florida map boosts Republican seats amid national redistricting fight",
+      "link": "https://www.aljazeera.com/news/2026/4/29/new-florida-map-boosts-republican-seats-amid-national-redistricting-fight?traffic_source=rss",
+      "summary": "Florida has become latest state to redraw map, as national electoral landscape transforms before midterm elections.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777496192
     },
     {
       "title": "GITEX Future Health Africa: Morocco Pitches Itself as Africa’s Health Hub",
       "link": "https://www.moroccoworldnews.com/2026/04/289273/gitex-future-health-africa-morocco-pitches-itself-as-africas-health-hub/",
-      "summary": "<p>Morocco is stepping up its push to position itself as a regional hub for health innovation, as officials and industry leaders gathered on Tuesday ahead of the first edition of GITEX Future Health A",
+      "summary": "Morocco is stepping up its push to position itself as a regional hub for health innovation, as officials and industry leaders gathered on Tuesday ahead of the first edition of GITEX Future Health Afri",
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "11m ago"
+      "time": "2h ago",
+      "timestamp": 1777496114
     },
     {
-      "title": "The Taiwan Evacuation Trap",
-      "link": "https://foreignpolicy.com/2026/04/29/taiwan-china-us-war-invasion-crisis-evacuation-civilians/",
-      "summary": "Washington has no good options for evacuating Americans in a crisis.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "time": "12h ago"
+      "title": "Las víctimas colaterales del fiasco del alquiler: \"Nos han dado esperanza y ahora estamos en manos de los jueces\"",
+      "link": "https://www.elmundo.es/economia/vivienda/2026/04/29/69f20b5ce4d4d849758b4570.html",
+      "summary": "El fracaso de la medida, que ha sido efectiva durante apenas 30 días, deja en el aire el futuro de millones de inquilinos en España&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2h ago",
+      "timestamp": 1777496075
     },
     {
-      "title": "CAF Reschedules First Leg of AS FAR-Sundowns Champions League Final",
-      "link": "https://www.moroccoworldnews.com/2026/04/289275/caf-reschedules-first-leg-of-as-far-sundowns-champions-league-final/",
-      "summary": "<p>CAF has officially changed the date of the first leg of the 2025-26 CAF Champions League final, giving both finalists an updated roadmap. </p>\n<p>The post <a href=\"https://www.moroccoworldnews.com/",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "12m ago"
-    },
-    {
-      "title": "On the Radar: A Border Dispute Creates Criminal Opportunity",
-      "link": "https://insightcrime.org/news/on-the-radar-border-dispute-creates-criminal-opportunity/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/on-the-radar-border-dispute-creates-criminal-opportunity/\">On the Radar: A Border Dispute Creates Criminal Opportunity</a></p>\n<figure><img alt=\"\" class=\"atta",
-      "source": "InSight Crime",
-      "region": "latam",
-      "tag": "latam",
-      "time": "13d ago"
-    },
-    {
-      "title": "Aligning the U.S. and Canadian Defense Industrial Bases",
-      "link": "https://warontherocks.com/cogs-of-war/aligning-the-us-and-canadian-defense-industrial-bases/",
-      "summary": "<p>The United States and Canada are both racing to rebuild their defense industrial bases, recognizing that future conflicts will be determined not only by military capability, but by the ability to p",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "13h ago"
-    },
-    {
-      "title": "Western Withdrawal, Jihadist Expansion: How the Sahel Became Ground Zero for Global Terrorism",
-      "link": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
-      "summary": "<p>On April 25, armed groups launched near-simultaneous attacks against military installations and key strategic sites across Mali. Claimed by Jama&#8217;at Nusrat al-Islam wal-Muslimin, a jihadist gr",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "13h ago"
+      "title": "Elon Musk se debate entre la candidez y la ira en su segundo día de juicio: “¡Sin mí, OpenAI no existiría!”",
+      "link": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
+      "summary": "En la vista, el multimillonario se presentó como un hombre bueno que quiere salvar a la humanidad de los especuladores de la inteligencia artificial, pero se mostró enfadado ante las preguntas de los",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2h ago",
+      "timestamp": 1777495984
     },
     {
       "title": "Trump, Putin talk about each other’s wars in Wednesday phone call",
@@ -71,196 +438,8 @@
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "19m ago"
-    },
-    {
-      "title": "Is Mexico Running out of Kingpins?",
-      "link": "https://insightcrime.org/news/is-mexico-running-out-of-kingpins/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/is-mexico-running-out-of-kingpins/\">Is Mexico Running out of Kingpins?</a></p>\n<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-pos",
-      "source": "InSight Crime",
-      "region": "latam",
-      "tag": "latam",
-      "time": "1d ago"
-    },
-    {
-      "title": "The Mountaintop Mirage: Why Xi’s Military Purges Cannot Produce the Force He Wants",
-      "link": "https://warontherocks.com/the-mountaintop-mirage-why-xis-military-purges-cannot-produce-the-force-he-wants/",
-      "summary": "<p>During the 1979 Sino-Vietnamese War, a 26-year-old company commander&#8217;s unit was pinned down by a fortified hilltop. After frontal assaults failed, the junior officer made an extraordinary req",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "1d ago"
-    },
-    {
-      "title": "The Strange Rise and Fall of Russia’s Crowd Sourced Defense Industry",
-      "link": "https://warontherocks.com/the-strange-rise-and-fall-of-russias-crowd-sourced-defense-industry/",
-      "summary": "<p>In the early days of the full-scale invasion of Ukraine in February 2022, much that could go wrong did for the Russian military. As one volunteer organization called KatyaValya recalled:We called a",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "1d ago"
-    },
-    {
-      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-      "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "time": "1h ago"
-    },
-    {
-      "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
-      "link": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT activity.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "time": "1h ago"
-    },
-    {
-      "title": "Google Translate Adds AI Pronunciation Training as It Expands into Language Learning",
-      "link": "https://www.moroccoworldnews.com/2026/04/289263/google-translate-adds-ai-pronunciation-training-as-it-expands-into-language-learning/",
-      "summary": "<p>Google Translate is moving beyond simple translation, introducing a new artificial intelligence feature designed to help users improve their pronunciation as the platform marks 20 years since its l",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "Christopher Landau’s Rabat Visit Drains the Last Oxygen From the Polisario’s Lungs",
-      "link": "https://www.moroccoworldnews.com/2026/04/289252/christopher-landaus-rabat-visit-drains-the-last-oxygen-from-the-polisarios-lungs/",
-      "summary": "<p>US Deputy Secretary of State Christopher Landau, standing shoulder to shoulder with Moroccan Foreign Minister Nasser Bourita after what both described as an excellent and frank meeting, delivered a",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "FIFA’s New Rule Strengthens Morocco’s Post-AFCON Case at CAS",
-      "link": "https://www.moroccoworldnews.com/2026/04/289232/fifas-new-rule-strengthens-moroccos-post-afcon-case-at-cas/",
-      "summary": "<p>FIFA’s new red card rule for protest walk-offs could have major implications for Morocco’s legal battle against Senegal at the CAS over the 2025 AFCON final.</p>\n<p>The post <a href=\"https://www.mo",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "5 Takeaways from 2025’s Cocaine Seizure Data",
-      "link": "https://insightcrime.org/news/5-takeaways-from-2025s-cocaine-seizure-data/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/5-takeaways-from-2025s-cocaine-seizure-data/\">5 Takeaways from 2025’s Cocaine Seizure Data</a></p>\n<figure><img alt=\"5 Takeaways cocaine seizures\" class=\"atta",
-      "source": "InSight Crime",
-      "region": "latam",
-      "tag": "latam",
-      "time": "1h ago"
-    },
-    {
-      "title": "US Federal Reserve officials poised to dissent on rate cuts demanded by Trump",
-      "link": "https://www.politico.com/news/2026/04/29/fed-rates-powell-warsh-inflation-00898525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The extraordinary move would mean that Warsh will have his work cut out for him if he wants to deliver on Trump's demands for lower borrowing costs.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "1h ago"
-    },
-    {
-      "title": "Trump says Iran ‘has to say we give up’ to reach deal",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-say-we-give-reach-deal",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-say-we-give-reach-deal\" rel=\"bookmark\">\n<",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "Karim Khan describes threats from David Cameron and Lindsay Graham in new interview",
-      "link": "https://www.middleeasteye.net/news/karim-khan-describes-threats-and-pressure-david-cameron-lindsay-graham-new-interview",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/karim-khan-describes-threats-and-pressure-david-cameron-lindsay-graham-new-interview\" rel=\"boo",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "Iran accuses Bahrain of rights violations over citizenship revocations",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-bahrain-rights-violations-over-citizenship-revocations",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-bahrain-rights-violations-over-citizenship-revoc",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "Palestine football appeals Fifa decision to do nothing about Israeli clubs in illegal settlements",
-      "link": "https://www.middleeasteye.net/news/palestinian-football-appeals-fifa-decision-do-nothing-about-israeli-clubs-illegal-settlements",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/palestinian-football-appeals-fifa-decision-do-nothing-about-israeli-clubs-illegal-settlements\"",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago"
-    },
-    {
-      "title": "Iran says US blockade not disrupting oil supply",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-say-we-give-reach-deal-0",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-has-say-we-give-reach-deal-0\" rel=\"bookmark\">",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "21m ago"
-    },
-    {
-      "title": "Confronting the Past and Present, Lessons from Chornobyl",
-      "link": "https://warontherocks.com/confronting-the-past-and-present-lessons-from-chornobyl/",
-      "summary": "<p>Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks&#160;members. Each Monday, we bring you a",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "2d ago"
-    },
-    {
-      "title": "From Slogan to Standard: How the Pentagon Should Define Affordable Mass",
-      "link": "https://warontherocks.com/cogs-of-war/from-slogan-to-standard-how-the-pentagon-should-define-affordable-mass/",
-      "summary": "<p>The term &#8220;affordable mass&#8221; entered public defense discourse in 2021 as a munitions concept, which the Air Force adopted in 2023 to describe its effort to field large numbers of lower-co",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "2d ago"
-    },
-    {
-      "title": "Beijing’s United Front and the Quiet Transfer of Western Technology",
-      "link": "https://warontherocks.com/beijings-united-front-and-the-quiet-transfer-of-western-technology/",
-      "summary": "<p>The military modernization and technological ambitions of the People&#8217;s Republic of China dominate headlines in Washington. Hypersonic missiles, AI breakthroughs, and an expanding navy are the",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "2d ago"
-    },
-    {
-      "title": "UIR, US Embassy Host Career Day to Connect Students with Global Opportunities",
-      "link": "https://www.moroccoworldnews.com/2026/04/289247/uir-us-embassy-host-career-day-to-connect-students-with-global-opportunities/",
-      "summary": "<p>The International University of Rabat (UIR), in partnership with the US Embassy in Morocco, hosted a Career Day today, bringing together students, professionals, and institutional partners to explo",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "2h ago"
-    },
-    {
-      "title": "Trump’s War Is Damaging U.S. Arms Exports to Allies",
-      "link": "https://foreignpolicy.com/2026/04/29/trump-iran-war-allies-exports-arms/",
-      "summary": "Deals are being canceled as stockpiles run short.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "time": "2h ago"
-    },
-    {
-      "title": "Can South Africa’s Apartheid-Era Negotiator Chart a Smooth Course in the U.S.?",
-      "link": "https://foreignpolicy.com/2026/04/29/south-africa-ambassador-us-roelf-meyer-bilateral-relations-trump/",
-      "summary": "Pretoria stakes high hopes on its controversial pick for ambassador to Washington.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "time": "2h ago"
+      "time": "3h ago",
+      "timestamp": 1777495602
     },
     {
       "title": "Where Is Pakistan Again?",
@@ -269,52 +448,8 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "33m ago"
-    },
-    {
-      "title": "Stranded whale ferried out of German waters in barge",
-      "link": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss",
-      "summary": "The final operation to save the whale is being closely followed, after the failure of earlier attempts.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "time": "3h ago"
-    },
-    {
-      "title": "Magyar targets May deal to unlock €10B of EU funds for Hungary",
-      "link": "https://www.politico.eu/article/peter-magyar-ursula-von-der-leyen-may-deal-unlock-eu-funds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "“Negotiations are progressing very well,” Magyar says after meeting Commission President Ursula von der Leyen, with a follow-up meeting penciled in for late May.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "3h ago"
-    },
-    {
-      "title": "The Global Economic Impact from the Iran Conflict",
-      "link": "https://foreignpolicy.com/2026/04/29/gopinath-foreign-policy-live-fpl-agrawal-iran-war-hormuz-blockade-global-economic-impact-oil-gas/",
-      "summary": "Gita Gopinath on how countries can make themselves more resilient.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "time": "3h ago"
-    },
-    {
-      "title": "Human Geography: The Strategic Edge in a Complex World",
-      "link": "https://warontherocks.com/human-geography-the-strategic-edge-in-a-complex-world/",
-      "summary": "<p>In 2024, Judd Devermont wrote, &#8220;Human Geography Is Mission-Critical,&#8221; where he argued that the United States should focus on behaviors and attitudes informed by human geography to craft",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "3h ago"
-    },
-    {
-      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "time": "41m ago"
+      "time": "3h ago",
+      "timestamp": 1777494765
     },
     {
       "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
@@ -323,52 +458,198 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "41m ago"
+      "time": "3h ago",
+      "timestamp": 1777494288
     },
     {
-      "title": "Former US Officials Fault Pentagon Silence Over Deadly Iran School Strike",
-      "link": "https://www.moroccoworldnews.com/2026/04/289266/former-us-officials-fault-pentagon-silence-over-deadly-iran-school-strike/",
-      "summary": "<p>Five former US officials, including a senior military lawyer, have criticized the Pentagon for failing to disclose details about a deadly strike on a school in Iran, calling the lack of transparenc",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "42m ago"
+      "title": "Fit for Purpose? Assessing American Alliances",
+      "link": "https://www.stimson.org/2026/fit-for-purpose-assessing-american-alliances/",
+      "summary": "America’s network of alliances is often seen as one of its most valuable assets. But is it fit for purpose in a new era?\nThe post Fit for Purpose? Assessing American Alliances appeared first on Stimso",
+      "source": "Stimson Center",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3h ago",
+      "timestamp": 1777493963
     },
     {
-      "title": "Trump says Iran is 'choking like a stuffed pig', as he mulls extending blockade",
-      "link": "https://www.middleeasteye.net/news/further-strikes-planned-trump-rejects-iranian-proposal-lift-us-blockade-strait-hormuz",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/further-strikes-planned-trump-rejects-iranian-proposal-lift-us-blockade-strait-hormuz\" rel=\"bo",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "42m ago"
+      "title": "Toda la munición de Victor de Aldama",
+      "link": "https://elpais.com/videos/2026-04-29/toda-la-municion-de-victor-de-aldama.html",
+      "summary": "El comisionista ha sostenido que, si había una organización criminal, el número uno era Pedro Sánchez y después estaban Abalos, Koldo y él mismo",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "3h ago",
+      "timestamp": 1777493258
     },
     {
-      "title": "Morocco Becomes 64th Country to Sign NASA’s Artemis Accords",
-      "link": "https://www.moroccoworldnews.com/2026/04/289268/morocco-becomes-64th-country-to-sign-nasas-artemis-accords/",
-      "summary": "<p>Morocco signed the Artemis Accords on Wednesday in Rabat, becoming the 64th country and the fifth in Africa to join the US-led framework governing civil space exploration.</p>\n<p>The post <a href=\"",
-      "source": "Morocco World News",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "43m ago"
-    },
-    {
-      "title": "Iran officials skip Fifa congress after airport incident in Canada",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-officials-skip-fifa-congress-after-airport-incident-canada",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/iran-officials-skip-fifa-congress-after-airport-incident-cana",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "44m ago"
-    },
-    {
-      "title": "Madagascar detains French national over alleged plot to stir unrest",
-      "link": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
-      "summary": "Malagasy prosecuters used a Whatsapp group as evidence for the detained individuals alleged crimes.",
+      "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+      "link": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT activity.",
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "4h ago"
+      "time": "3h ago",
+      "timestamp": 1777492315
+    },
+    {
+      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+      "link": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "time": "3h ago",
+      "timestamp": 1777492314
+    },
+    {
+      "title": "US Federal Reserve officials poised to dissent on rate cuts demanded by Trump",
+      "link": "https://www.politico.com/news/2026/04/29/fed-rates-powell-warsh-inflation-00898525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "The extraordinary move would mean that Warsh will have his work cut out for him if he wants to deliver on Trump's demands for lower borrowing costs.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "4h ago",
+      "timestamp": 1777490615
+    },
+    {
+      "title": "5 Takeaways from 2025’s Cocaine Seizure Data",
+      "link": "https://insightcrime.org/news/5-takeaways-from-2025s-cocaine-seizure-data/",
+      "summary": "5 Takeaways from 2025’s Cocaine Seizure Data\n\nAmid record production levels, the cocaine business is entering a new age, driven by diversifying markets, global networks, and new technology.\nThe post 5",
+      "source": "InSight Crime",
+      "region": "latam",
+      "tag": "latam",
+      "time": "4h ago",
+      "timestamp": 1777489950
+    },
+    {
+      "title": "Camila, una enfermera venezolana, ya tiene permiso de trabajo y residencia provisional: “Estoy impactada y contenta”",
+      "link": "https://elpais.com/espana/2026-04-29/camila-una-enfermera-venezolana-ya-tiene-permiso-de-trabajo-y-residencia-provisional-estoy-impactada-y-contenta.html",
+      "summary": "Los migrantes empiezan a recibir las primeras solicitudes admitidas a trámite de la regularización extraordinaria",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "4h ago",
+      "timestamp": 1777489614
+    },
+    {
+      "title": "Cabello insiste a la oposición: ¿Para qué quieren elecciones mañana? ¿Para que no reconozcan el resultado?",
+      "link": "https://efectococuyo.com/politica/cabello-insiste-oposicion-elecciones-manana-no-reconozcan-resultado/",
+      "summary": "Cabello convocó al fin de la primera fase de la peregrinación en Caracas este 30 de abril\nThe post Cabello insiste a la oposición: ¿Para qué quieren elecciones mañana? ¿Para que no reconozcan el resu",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "5h ago",
+      "timestamp": 1777487503
+    },
+    {
+      "title": "Aldama carga sin pruebas contra Sánchez: “Si hay una jerarquía, está en el escalafón uno”",
+      "link": "https://elpais.com/espana/2026-04-29/aldama-carga-sin-pruebas-contra-sanchez-si-hay-una-jerarquia-esta-en-el-escalafon-uno.html",
+      "summary": "El comisionista asegura que llevó al Ministerio de Transportes mordidas en efectivo de hasta 250.000 euros",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "5h ago",
+      "timestamp": 1777487441
+    },
+    {
+      "title": "Trump’s War Is Damaging U.S. Arms Exports to Allies",
+      "link": "https://foreignpolicy.com/2026/04/29/trump-iran-war-allies-exports-arms/",
+      "summary": "Deals are being canceled as stockpiles run short.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "time": "5h ago",
+      "timestamp": 1777486970
+    },
+    {
+      "title": "Entre 2025 y lo que va de 2026, Espacio Público registra 329 violaciones a la libertad de expresión",
+      "link": "https://efectococuyo.com/la-humanidad/entre-2025-y-lo-que-va-de-2026-espacio-publico-registra-329-violaciones-a-la-libertad-de-expresion/",
+      "summary": "La intimidación se posicionó como el tipo de agresión más frecuente con 79 casos (33,19 %), seguida por la censura con 63 casos (26,47 %). Otras modalidades registradas fueron el hostigamiento judici",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "5h ago",
+      "timestamp": 1777486868
+    },
+    {
+      "title": "Barbacid siguió recaudando fondos de donantes durante mes y medio aunque sabía que su estudio del cáncer de páncreas estaba retirado",
+      "link": "https://elpais.com/ciencia/2026-04-29/barbacid-siguio-recaudando-fondos-de-donantes-durante-mes-y-medio-a-pesar-de-saber-que-su-estudio-del-cancer-de-pancreas-estaba-retirado.html",
+      "summary": "La Fundación Cris estudia qué hacer con los 3,6 millones recaudados tras una campaña mediática que ensalzó los resultados obtenidos en 45 ratones",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "5h ago",
+      "timestamp": 1777486502
+    },
+    {
+      "title": "Can South Africa’s Apartheid-Era Negotiator Chart a Smooth Course in the U.S.?",
+      "link": "https://foreignpolicy.com/2026/04/29/south-africa-ambassador-us-roelf-meyer-bilateral-relations-trump/",
+      "summary": "Pretoria stakes high hopes on its controversial pick for ambassador to Washington.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "time": "5h ago",
+      "timestamp": 1777485984
+    },
+    {
+      "title": "Japan’s Tentative Entry Into a Shifting Global Arms Market",
+      "link": "https://www.stimson.org/2026/japans-tentative-entry-into-a-shifting-global-arms-market/",
+      "summary": "How the relaxation of Japanese arms export controls intersects with an evolving global arms trade marked by rising demand, emerging technologies, and shifting international partnerships. \nThe post Jap",
+      "source": "Stimson Center",
+      "region": "academic",
+      "tag": "academic",
+      "time": "5h ago",
+      "timestamp": 1777485266
+    },
+    {
+      "title": "Magyar targets May deal to unlock €10B of EU funds for Hungary",
+      "link": "https://www.politico.eu/article/peter-magyar-ursula-von-der-leyen-may-deal-unlock-eu-funds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "“Negotiations are progressing very well,” Magyar says after meeting Commission President Ursula von der Leyen, with a follow-up meeting penciled in for late May.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "6h ago",
+      "timestamp": 1777484724
+    },
+    {
+      "title": "Human Geography: The Strategic Edge in a Complex World",
+      "link": "https://warontherocks.com/human-geography-the-strategic-edge-in-a-complex-world/",
+      "summary": "In 2024, Judd Devermont wrote, &#8220;Human Geography Is Mission-Critical,&#8221; where he argued that the United States should focus on behaviors and attitudes informed by human geography to craft be",
+      "source": "War on the Rocks",
+      "region": "global",
+      "tag": "global",
+      "time": "6h ago",
+      "timestamp": 1777483858
+    },
+    {
+      "title": "Nador : Le projet DoubleTree by Hilton lancé à la lagune de Marchica",
+      "link": "https://www.yabiladi.com/articles/details/193516/nador-projet-doubletree-hilton-lance.html",
+      "summary": "Le programme de développement de la lagune de Marchica à Nador a franchi une nouvelle étape avec le lancement dun projet DoubleTree by Hilton Hotel & Residences à Atalayoun.",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "6h ago",
+      "timestamp": 1777483800
+    },
+    {
+      "title": "Ramadan et Aïd : Les dépenses des Marocains augmentent de 40% (Visa)",
+      "link": "https://www.yabiladi.com/articles/details/193513/ramadan-depenses-marocains-augmentent-visa.html",
+      "summary": "Les dépenses au Maroc ont fortement augmenté pendant le mois de ramadan et lAïd al-Fitr, avec une hausse de 40% sur les cartes Visa Premium par rapport à lannée précédente. Cette tendance est stimulée",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "6h ago",
+      "timestamp": 1777483200
+    },
+    {
+      "title": "Washington réaffirme sa «reconnaissance de la souveraineté du Maroc sur le Sahara»",
+      "link": "https://www.yabiladi.com/articles/details/193512/washington-reaffirme-reconnaissance-souverainete-maroc.html",
+      "summary": "Les États-Unis ont réaffirmé, ce mercredi, leur «reconnaissance de la souveraineté du Maroc sur le Sahara» et leur soutien à linitiative marocaine dautonomie comme «l’unique base dune solution juste e",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "6h ago",
+      "timestamp": 1777482900
     },
     {
       "title": "Mamdani would ask King Charles to return crown jewel to India",
@@ -377,16 +658,18 @@
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "4h ago"
+      "time": "6h ago",
+      "timestamp": 1777482146
     },
     {
-      "title": "The Boss in the Shadows: Rosalinda González Valencia’s Role in the CJNG",
-      "link": "https://insightcrime.org/news/boss-in-shadows-rosalinda-gonzalez-valencias-role-in-cjng/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/boss-in-shadows-rosalinda-gonzalez-valencias-role-in-cjng/\">The Boss in the Shadows: Rosalinda González Valencia&#8217;s Role in the CJNG</a></p>\n<figure><img",
-      "source": "InSight Crime",
-      "region": "latam",
-      "tag": "latam",
-      "time": "5d ago"
+      "title": "Begoña Gómez denuncia a Vito Quiles por una agresión en un restaurante de Madrid",
+      "link": "https://elpais.com/espana/2026-04-29/begona-gomez-anuncia-que-denunciara-a-vito-quiles-por-una-agresion-en-una-cafeteria.html",
+      "summary": "El agitador ultra abordó a la esposa de Pedro Sánchez en el interior del local, según fuentes de La Moncloa",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "6h ago",
+      "timestamp": 1777481306
     },
     {
       "title": "New images show suspect taking selfies before Washington press dinner shooting",
@@ -395,7 +678,8 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "5h ago"
+      "time": "7h ago",
+      "timestamp": 1777478760
     },
     {
       "title": "Récupérer les superprofits de TotalEnergies : oui, mais comment ?",
@@ -404,61 +688,48 @@
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "5h ago"
+      "time": "7h ago",
+      "timestamp": 1777478290
     },
     {
-      "title": "Pentagon official: Iran war has cost the US $25B",
-      "link": "https://www.politico.com/news/2026/04/29/hegseth-iran-war-cost-00898174?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The figure is the most specific price tag the administration has provided on the U.S. military conflict.",
-      "source": "POLITICO Europe",
+      "title": "North Africa Regional Outlook: April 29, 2026",
+      "link": "https://www.stimson.org/2026/north-africa-regional-outlook-april-29-2026/",
+      "summary": "From large-scale coordinated attacks shaking Mali to mounting global energy volatility—highlighted by Goldman Sachs warnings of oil nearing $120—the Iran war is straining emerging markets and disrupti",
+      "source": "Stimson Center",
+      "region": "academic",
+      "tag": "academic",
+      "time": "7h ago",
+      "timestamp": 1777478209
+    },
+    {
+      "title": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
+      "link": "https://www.spiegel.de/international/germany/an-interview-with-german-chancellor-friedrich-merz-i-am-dissatisfied-with-the-prevailing-atmosphere-in-germany-a-1d4346f0-4635-4925-bab0-dc9b057bc25c#ref=rss",
+      "summary": "In a wide ranging interview with DER SPIEGEL, German Chancellor Friedrich Merz speaks about his relationship with Trump, the immense challenges facing Germany and the dangers of the AfD.",
+      "source": "Der Spiegel",
       "region": "europe",
       "tag": "eu",
-      "time": "5h ago"
-    },
-    {
-      "title": "Rosalinda González Valencia, alias ‘La Jefa’",
-      "link": "https://insightcrime.org/mexico-organized-crime-news/rosalinda-gonzalez-valencia-alias-la-jefa/",
-      "summary": "<p><a href=\"https://insightcrime.org/mexico-organized-crime-news/rosalinda-gonzalez-valencia-alias-la-jefa/\">Rosalinda González Valencia, alias ‘La Jefa’</a></p>\n<figure><img alt=\"Rosalinda González V",
-      "source": "InSight Crime",
-      "region": "latam",
-      "tag": "latam",
-      "time": "6d ago"
+      "time": "8h ago",
+      "timestamp": 1777474620
     },
     {
       "title": "Who Is ‘El Jardinero,’ the CJNG Power Broker Arrested in Mexico?",
       "link": "https://insightcrime.org/news/el-jardinero-latest-cjng-commander-arrested-mexico/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/el-jardinero-latest-cjng-commander-arrested-mexico/\">Who Is ‘El Jardinero,’ the CJNG Power Broker Arrested in Mexico?</a></p>\n<figure><img alt=\"\" class=\"attac",
+      "summary": "Who Is ‘El Jardinero,’ the CJNG Power Broker Arrested in Mexico?\n\nThe capture in Mexico of an influential Jalisco Cartel New Generation boss known as El Jardinero marks a major inflection point for th",
       "source": "InSight Crime",
       "region": "latam",
       "tag": "latam",
-      "time": "6h ago"
+      "time": "8h ago",
+      "timestamp": 1777474521
     },
     {
-      "title": "Kyiv asks Israel to seize ship allegedly smuggling grain from occupied Ukraine",
-      "link": "https://www.politico.eu/article/kyiv-wants-israel-to-arrest-cargo-ship-allegedly-smuggling-grain-from-occupied-part-of-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Israel rejects allegations that they are not treating the issue seriously.",
-      "source": "POLITICO Europe",
-      "region": "europe",
+      "title": "Aldama calcula que pagó comisiones de entre 3,5 y cuatro millones de euros a Ábalos y Koldo",
+      "link": "https://www.lavanguardia.com/politica/20260429/11525700/aldama-calcula-que-pago-comisiones-3-5-cuatro-millones-euros-abalos-koldo.html",
+      "summary": "El comisionista asegura que pretendía comprar unos terrenos de la Sepi en el centro de Madrid pero que Koldo le pidió que retirará la oferta “porque Begoña Gómez los quería para ella”&nbsp;&nbsp;",
+      "source": "La Vanguardia",
+      "region": "spain",
       "tag": "eu",
-      "time": "6h ago"
-    },
-    {
-      "title": "The InSight Take: Does Kinahan’s Arrest Mark a New Chapter?",
-      "link": "https://insightcrime.org/news/the-insight-take-does-kinahans-arrest-mark-a-new-chapter/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/the-insight-take-does-kinahans-arrest-mark-a-new-chapter/\">The InSight Take: Does Kinahan’s Arrest Mark a New Chapter?</a></p>\n<figure><img alt=\"\" class=\"atta",
-      "source": "InSight Crime",
-      "region": "latam",
-      "tag": "latam",
-      "time": "7d ago"
-    },
-    {
-      "title": "German finance minister doesn’t rule out  emergency borrowing as ‘Trump’s irresponsible war’ bites",
-      "link": "https://www.politico.eu/article/germany-finance-minister-lars-klingbeil-emergency-borrowing-donald-trump-war-iran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "An emergency declaration would allow the German government to get around constitutional debt limits.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "7h ago"
+      "time": "9h ago",
+      "timestamp": 1777471657
     },
     {
       "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
@@ -467,43 +738,590 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "8h ago"
+      "time": "10h ago",
+      "timestamp": 1777467717
     },
     {
-      "title": "War Is Killing Ukraine’s Oligarchy",
-      "link": "https://foreignpolicy.com/2026/04/29/ukraine-oligarchs-war-corruption/",
-      "summary": "The fight against Russia is accomplishing what years of struggle against corruption couldn’t.",
-      "source": "Foreign Policy",
+      "title": "Juicio por el caso mascarillas | Aldama reconoce las mordidas a Ábalos y Koldo: “Les llegué a pagar entre tres y cuatro millones”",
+      "link": "https://www.lavanguardia.com/politica/20260429/11524537/juicio-caso-mascarillas-declaraciones-abalos-koldo-aldama-en-directo.html",
+      "summary": "El juicio a José Luis Ábalos, Koldo García y Víctor de Aldama por presuntos amaños en contratos de mascarillas a cambio de comisiones encara su cuarta semana",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "10h ago",
+      "timestamp": 1777467194
+    },
+    {
+      "title": "El PSOE pedirá amparo al Supremo ante las “injurias y calumnias” de Aldama contra Sánchez",
+      "link": "https://www.lavanguardia.com/politica/20260429/11525670/psoe-pedira-amparo-supremo-injurias-calumnias-aldama-sanchez.html",
+      "summary": "Los socialistas muestran su irritación y replican en un comunicado que “no existe financiación ilegal” en su partido: “Solo existen las mentiras de Aldama”",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "11h ago",
+      "timestamp": 1777465391
+    },
+    {
+      "title": "Chilled ambitions: How the Iran war is foiling Europe’s LNG plans",
+      "link": "https://ecfr.eu/article/chilled-ambitions-how-the-iran-war-is-foiling-europes-lng-plans/",
+      "summary": "Iranian strikes on Qatar’s LNG infrastructure are complicating Brussels’ plans to ditch Russian gas, handing Washington and Moscow fresh leverage",
+      "source": "ECFR",
+      "region": "europe",
+      "tag": "eu",
+      "time": "11h ago",
+      "timestamp": 1777465093
+    },
+    {
+      "title": "Aldama: “Llevé dinero a Ábalos, me dijeron que era para financiar al PSOE y que el presidente lo sabía”",
+      "link": "https://www.lavanguardia.com/politica/20260429/11525538/aldama-me-dijeron-parte-ese-dinero-financiacion-partido-presidente-sabia.html",
+      "summary": "El acusado explica que la “ruleta” de corrupción empezó con el interés de José Luis Abalos de lograr dinero de empresarios a cambio de adjudicaciones para su interés particular y para el PSOE",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "13h ago",
+      "timestamp": 1777459391
+    },
+    {
+      "title": "El Gobierno prevé pleitos tras decaer el decreto de los alquileres",
+      "link": "https://www.lavanguardia.com/politica/20260429/11525412/gobierno-admite-haber-pleitos-confia-tribunales-esten-favor-derecho-vivienda.html",
+      "summary": "El ministro Bustinduy quiere retomar negociaciones con Junts y PNV para que apoyen la prórroga de alquiler",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "15h ago",
+      "timestamp": 1777450399
+    },
+    {
+      "title": "Aligning the U.S. and Canadian Defense Industrial Bases",
+      "link": "https://warontherocks.com/cogs-of-war/aligning-the-us-and-canadian-defense-industrial-bases/",
+      "summary": "The United States and Canada are both racing to rebuild their defense industrial bases, recognizing that future conflicts will be determined not only by military capability, but by the ability to prod",
+      "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "8h ago"
+      "time": "15h ago",
+      "timestamp": 1777449654
     },
     {
-      "title": "Trump's image on US passports sparks backlash as critics decry 'vanity project'",
-      "link": "https://www.middleeasteye.net/trending/trump-passport-design-sparks-backlash-critics-decry-vanity-project",
-      "summary": "<article class=\"trending default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/trending/trump-passport-design-sparks-backlash-critics-decry-vanity-project\" rel=\"bookmark\">\n<sp",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "8m ago"
+      "title": "Sánchez trata de aplacar la irritación del PNV, que le advierte: “¿Quiere compañía o no?”",
+      "link": "https://www.lavanguardia.com/politica/20260429/11525379/sanchez-trata-aplacar-irritacion-pnv-le-advierte-quiere-compania.html",
+      "summary": "El presidente del Gobierno intenta limar asperezas y agradece las “posiciones constructivas” de los nacionalistas vascos: “Por supuesto que quiero su buena compañía”",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "16h ago",
+      "timestamp": 1777447926
     },
     {
-      "title": "New Venezuelan Mining Law Obscures Old Corruption Problems",
-      "link": "https://insightcrime.org/news/new-venezuelan-mining-law-obscures-old-corruption-problems/",
-      "summary": "<p><a href=\"https://insightcrime.org/news/new-venezuelan-mining-law-obscures-old-corruption-problems/\">New Venezuelan Mining Law Obscures Old Corruption Problems</a></p>\n<figure><img alt=\"\" class=\"att",
+      "title": "Western Withdrawal, Jihadist Expansion: How the Sahel Became Ground Zero for Global Terrorism",
+      "link": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
+      "summary": "On April 25, armed groups launched near-simultaneous attacks against military installations and key strategic sites across Mali. Claimed by Jama&#8217;at Nusrat al-Islam wal-Muslimin, a jihadist group",
+      "source": "War on the Rocks",
+      "region": "global",
+      "tag": "global",
+      "time": "16h ago",
+      "timestamp": 1777447834
+    },
+    {
+      "title": "The Real Threat to Taiwan",
+      "link": "https://www.foreignaffairs.com/china/real-threat-taiwan",
+      "summary": "America Is preparing for the wrong kind of crisis",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "19h ago",
+      "timestamp": 1777435200
+    },
+    {
+      "title": "How the War Saved the Iranian Regime",
+      "link": "https://www.foreignaffairs.com/iran/how-war-saved-iranian-regime",
+      "summary": "The unintended consequences of the U.S.-Israeli assault.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "19h ago",
+      "timestamp": 1777435200
+    },
+    {
+      "title": "The Transatlantic MAGA Fantasy",
+      "link": "https://www.foreignaffairs.com/europe/transatlantic-maga-fantasy",
+      "summary": "How Trump misread Europe.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "19h ago",
+      "timestamp": 1777435200
+    },
+    {
+      "title": "The Sovereignty Paradox: Why GCC Security Integration Remains Elusive",
+      "link": "https://www.stimson.org/2026/the-sovereignty-paradox-why-gcc-security-integration-remains-elusive/",
+      "summary": "The Iran war, instead of encouraging more cooperation, appears to have caused the opposite as evidenced by the UAE’s imminent exit from OPEC and OPEC+.\nThe post The Sovereignty Paradox: Why GCC Securi",
+      "source": "Stimson Center",
+      "region": "academic",
+      "tag": "academic",
+      "time": "1d ago",
+      "timestamp": 1777409188
+    },
+    {
+      "title": "To fight Russia, Europe needs Ukraine",
+      "link": "https://www.economist.com/international/2026/04/28/to-fight-russia-europe-needs-ukraine",
+      "summary": "It is risky to let Ukraine into the EU. It’s more dangerous to keep it out",
+      "source": "The Economist",
+      "region": "global",
+      "tag": "global",
+      "time": "1d ago",
+      "timestamp": 1777407889
+    },
+    {
+      "title": "Is Mexico Running out of Kingpins?",
+      "link": "https://insightcrime.org/news/is-mexico-running-out-of-kingpins/",
+      "summary": "Is Mexico Running out of Kingpins?\n\nThe capture of Audias Flores Silva, alias “El Jardinero,” reflects how Mexico’s strategy of targeting drug kingpins continues to fragment major crime groups and res",
       "source": "InSight Crime",
       "region": "latam",
       "tag": "latam",
-      "time": "9d ago"
+      "time": "1d ago",
+      "timestamp": 1777397748
     },
     {
-      "title": "Hedging Is the New Normal",
-      "link": "https://foreignpolicy.com/2026/04/29/hedging-strategy-geopolitics-international-affairs-global-order/",
-      "summary": "For the foreseeable future, successful statecraft will depend on hedging.",
-      "source": "Foreign Policy",
+      "title": "Mythos, automatización y concentración de la ciberseguridad",
+      "link": "https://www.realinstitutoelcano.org/comentarios/mythos-automatizacion-y-concentracion-de-la-ciberseguridad/",
+      "summary": "El software como columna vertebral de la economía Los sistemas energéticos, sanitarios, financieros y de defensa de los Estados modernos descansan sobre capas de código. El error de actualización de C",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "time": "1d ago",
+      "timestamp": 1777385272
+    },
+    {
+      "title": "The Mountaintop Mirage: Why Xi’s Military Purges Cannot Produce the Force He Wants",
+      "link": "https://warontherocks.com/the-mountaintop-mirage-why-xis-military-purges-cannot-produce-the-force-he-wants/",
+      "summary": "During the 1979 Sino-Vietnamese War, a 26-year-old company commander&#8217;s unit was pinned down by a fortified hilltop. After frontal assaults failed, the junior officer made an extraordinary reques",
+      "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "9h ago"
+      "time": "1d ago",
+      "timestamp": 1777361431
+    },
+    {
+      "title": "The Strange Rise and Fall of Russia’s Crowd Sourced Defense Industry",
+      "link": "https://warontherocks.com/the-strange-rise-and-fall-of-russias-crowd-sourced-defense-industry/",
+      "summary": "In the early days of the full-scale invasion of Ukraine in February 2022, much that could go wrong did for the Russian military. As one volunteer organization called KatyaValya recalled:We called all",
+      "source": "War on the Rocks",
+      "region": "global",
+      "tag": "global",
+      "time": "1d ago",
+      "timestamp": 1777360550
+    },
+    {
+      "title": "Let Iran Defeat Itself",
+      "link": "https://www.foreignaffairs.com/iran/let-iran-defeat-itself",
+      "summary": "America should end the war but keep up the pressure.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "1d ago",
+      "timestamp": 1777348800
+    },
+    {
+      "title": "The Disposable Oligarchs",
+      "link": "https://www.foreignaffairs.com/united-states/disposable-oligarchs",
+      "summary": "Why wealthy elites come to regret their bargains with authoritarians.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "1d ago",
+      "timestamp": 1777348800
+    },
+    {
+      "title": "The EU’s Technocratic Trap in Libya: How Brussels Is Ceding the Mediterranean",
+      "link": "https://www.stimson.org/2026/the-eus-technocratic-trap-in-libya-how-brussels-is-ceding-the-mediterranean/",
+      "summary": "How EU technocratic policy in Libya erodes influence, enabling rival powers to shape the country’s political and security landscape.\nThe post The EU’s Technocratic Trap in Libya: How Brussels Is Cedin",
+      "source": "Stimson Center",
+      "region": "academic",
+      "tag": "academic",
+      "time": "2d ago",
+      "timestamp": 1777319301
+    },
+    {
+      "title": "Assessing American Alliances Interactive Map Guide & FAQ",
+      "link": "https://www.stimson.org/2026/assessing-american-alliances-interactive-map-guide-faq/",
+      "summary": "Thank you for taking the time to look at our interactive map on the United States’ alliance network. Above you will find a video guide on how to navigate the map that includes various insights from th",
+      "source": "Stimson Center",
+      "region": "academic",
+      "tag": "academic",
+      "time": "2d ago",
+      "timestamp": 1777318097
+    },
+    {
+      "title": "Confronting the Past and Present, Lessons from Chornobyl",
+      "link": "https://warontherocks.com/confronting-the-past-and-present-lessons-from-chornobyl/",
+      "summary": "Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks&#160;members. Each Monday, we bring you a cu",
+      "source": "War on the Rocks",
+      "region": "global",
+      "tag": "global",
+      "time": "2d ago",
+      "timestamp": 1777308376
+    },
+    {
+      "title": "The War Room newsletter: The best generals in history",
+      "link": "https://www.economist.com/international/2026/04/27/the-war-room-newsletter-the-best-generals-in-history",
+      "summary": "Richard Cockett, a senior editor, analyses what makes good generalship—and ranks his top three",
+      "source": "The Economist",
+      "region": "global",
+      "tag": "global",
+      "time": "2d ago",
+      "timestamp": 1777299529
+    },
+    {
+      "title": "Ten Years after the End of the One-Child Policy: A Visit to Ground Zero of China's Aging Population",
+      "link": "https://www.spiegel.de/international/world/ten-years-after-the-end-of-the-one-child-policy-a-visit-to-ground-zero-of-chinas-aging-population-a-7b669939-a8f8-4af5-9b77-ac9f08bb691d#ref=rss",
+      "summary": "Ten years ago, China brought the one-child policy to an end. In Rudong, the city where the policy was originally tested, 40 percent of residents are over the age of 60 - a preview of what is to come.",
+      "source": "Der Spiegel",
+      "region": "europe",
+      "tag": "eu",
+      "time": "2d ago",
+      "timestamp": 1777293300
+    },
+    {
+      "title": "Alto el fuego en el Líbano: cuando todos sacan algo",
+      "link": "https://www.realinstitutoelcano.org/comentarios/alto-el-fuego-en-el-libano-cuando-todos-sacan-algo/",
+      "summary": "Si sólo se atiende a las declaraciones oficiales y a los titulares de muchos medios de comunicación interesados, parecería que lo que se ha alcanzado la pasada semana en el Líbano es un acuerdo de paz",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "time": "2d ago",
+      "timestamp": 1777280400
+    },
+    {
+      "title": "Detecting a “dirty bomb”: How Europeans can combat radiological threats",
+      "link": "https://ecfr.eu/article/detecting-a-dirty-bomb-how-europeans-can-combat-radiological-threats/",
+      "summary": "The Iran war is a reminder Europeans should move quickly to install a monitoring network that could identify a “dirty bomb”.",
+      "source": "ECFR",
+      "region": "europe",
+      "tag": "eu",
+      "time": "2d ago",
+      "timestamp": 1777279428
+    },
+    {
+      "title": "The Iran War’s Threat to Turkey",
+      "link": "https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey",
+      "summary": "Even on the sidelines, Ankara faces blowback.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "2d ago",
+      "timestamp": 1777262400
+    },
+    {
+      "title": "The Boss in the Shadows: Rosalinda González Valencia’s Role in the CJNG",
+      "link": "https://insightcrime.org/news/boss-in-shadows-rosalinda-gonzalez-valencias-role-in-cjng/",
+      "summary": "The Boss in the Shadows: Rosalinda González Valencia&#8217;s Role in the CJNG\n\nRosalinda González Valencia, alias \"La Jefa,\" was involved in illicit activities long before meeting her husband, alias \"",
+      "source": "InSight Crime",
+      "region": "latam",
+      "tag": "latam",
+      "time": "5d ago",
+      "timestamp": 1777051826
+    },
+    {
+      "title": "Surviving Chaos",
+      "link": "https://ecfr.eu/podcasts/episode/surviving-chaos/",
+      "summary": "Mark Leonard introduces his new book Surviving Chaos: Geopolitics When the Rules Fail. He is joined by Carl Bildt, Ivan Krastev, Gideon Rachman and Helle Thorning-Schmidt to unpack how capital, climat",
+      "source": "ECFR",
+      "region": "europe",
+      "tag": "eu",
+      "time": "5d ago",
+      "timestamp": 1777007760
+    },
+    {
+      "title": "Rosalinda González Valencia, alias ‘La Jefa’",
+      "link": "https://insightcrime.org/mexico-organized-crime-news/rosalinda-gonzalez-valencia-alias-la-jefa/",
+      "summary": "Rosalinda González Valencia, alias ‘La Jefa’\n\nRosalinda Gonzalez Valencia, alias “La Jefa,” was an important financial operator for the Jalisco Cartel New Generation (Cartel Jalisco Nueva Generación -",
+      "source": "InSight Crime",
+      "region": "latam",
+      "tag": "latam",
+      "time": "6d ago",
+      "timestamp": 1776961515
+    },
+    {
+      "title": "Lost in processing: Why ‘Made in Europe’ needs an Africa strategy",
+      "link": "https://ecfr.eu/article/lost-in-processing-why-made-in-europe-needs-an-africa-strategy/",
+      "summary": "The EU’s new Industrial Accelerator Act is missing the key ingredient needed for acceleration—a reliable supply of processed minerals. For this, Europeans should turn to African countries and offer th",
+      "source": "ECFR",
+      "region": "europe",
+      "tag": "eu",
+      "time": "6d ago",
+      "timestamp": 1776957616
+    },
+    {
+      "title": "Chinamaxxing: Beijing’s new source of soft power",
+      "link": "https://ecfr.eu/article/chinamaxxing-beijings-new-source-of-soft-power/",
+      "summary": "China is trending on Western social media. While rooted in disillusionment with America, the trend is making it far easier for Beijing to build soft power among Europe’s youth",
+      "source": "ECFR",
+      "region": "europe",
+      "tag": "eu",
+      "time": "6d ago",
+      "timestamp": 1776952702
+    },
+    {
+      "title": "Europe’s defence startups face even bigger hurdles than America’s",
+      "link": "https://www.economist.com/international/2026/04/23/europes-defence-startups-face-even-bigger-hurdles-than-americas",
+      "summary": "They must contend with a fragmented market and hesitant customers",
+      "source": "The Economist",
+      "region": "global",
+      "tag": "global",
+      "time": "6d ago",
+      "timestamp": 1776949760
+    },
+    {
+      "title": "There is no better spur to military innovation than war",
+      "link": "https://www.economist.com/international/2026/04/23/there-is-no-better-spur-to-military-innovation-than-war",
+      "summary": "Defence firms in Ukraine make new weapons much faster and cheaper than most Western companies",
+      "source": "The Economist",
+      "region": "global",
+      "tag": "global",
+      "time": "6d ago",
+      "timestamp": 1776949760
+    },
+    {
+      "title": "La reconfiguración del comercio mundial y el papel de la Unión Europea",
+      "link": "https://www.realinstitutoelcano.org/analisis/la-reconfiguracion-del-comercio-mundial-y-el-papel-de-la-union-europea/",
+      "summary": "Mensajes clave Análisis Tanto el comercio mundial como su gobernanza se está reconfigurando. Y la UE, el principal actor del comercio internacional, poco a poco –y a regañadientes– se está adaptando a",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "time": "6d ago",
+      "timestamp": 1776943415
+    },
+    {
+      "title": "The InSight Take: Does Kinahan’s Arrest Mark a New Chapter?",
+      "link": "https://insightcrime.org/news/the-insight-take-does-kinahans-arrest-mark-a-new-chapter/",
+      "summary": "The InSight Take: Does Kinahan’s Arrest Mark a New Chapter?\n\nThe arrest of Daniel Kinahan in Dubai has renewed focus on one of Europe’s most influential drug traffickers and the global reach of the Ki",
+      "source": "InSight Crime",
+      "region": "latam",
+      "tag": "latam",
+      "time": "7d ago",
+      "timestamp": 1776882842
+    },
+    {
+      "title": "¿Transición hegemónica o reequilibrio estratégico? América Latina ante un mundo alterado",
+      "link": "https://www.realinstitutoelcano.org/analisis/transicion-hegemonica-o-reequilibrio-estrategico-america-latina-ante-un-mundo-alterado/",
+      "summary": "Mensajes clave Análisis Desde la última intervención de la “era del garrote” (Big Stick) en Nicaragua, en 1926, que terminó en 1933 con el anuncio de la política del Buen Vecino (Good Neighbor), EEUU",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "time": "7d ago",
+      "timestamp": 1776848400
+    },
+    {
+      "title": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
+      "link": "https://www.spiegel.de/international/world/terror-records-in-german-hands-isis-and-the-bureaucracy-of-evil-a-b4ce77d2-774b-4ad5-8c8c-8cb2943e6737#ref=rss",
+      "summary": "DER SPIEGEL has learned that German authorities have obtained detailed membership lists kept by the terror group Islamic State. Some suspected terrorists are apparently still living in Germany.",
+      "source": "Der Spiegel",
+      "region": "europe",
+      "tag": "eu",
+      "time": "7d ago",
+      "timestamp": 1776847560
+    },
+    {
+      "title": "A dangerous blind spot in Donald Trump’s Iran war strategy",
+      "link": "https://www.economist.com/international/2026/04/21/a-dangerous-blind-spot-in-donald-trumps-iran-war-strategy",
+      "summary": "America sets too little store by foreigners’ beliefs and values. It’s a costly mistake, each time",
+      "source": "The Economist",
+      "region": "global",
+      "tag": "global",
+      "time": "8d ago",
+      "timestamp": 1776805975
+    },
+    {
+      "title": "Radev’s way: What Europe can expect from Bulgaria’s new political constellation",
+      "link": "https://ecfr.eu/article/radevs-way-what-europe-can-expect-from-bulgarias-new-political-constellation/",
+      "summary": "Bulgarians have overwhelmingly voted for Rumen Radev’s Progressive Bulgaria party to take power. Radev has espoused the benefits of EU membership, but Europeans should be wary of his pro-Russia rhetor",
+      "source": "ECFR",
+      "region": "europe",
+      "tag": "eu",
+      "time": "8d ago",
+      "timestamp": 1776783236
+    },
+    {
+      "title": "Por qué España apuesta por una mayor relación con China",
+      "link": "https://www.realinstitutoelcano.org/comentarios/por-que-espana-apuesta-por-una-mayor-relacion-con-china/",
+      "summary": "La cuarta visita en cuatro años del presidente del gobierno español, Pedro Sánchez, a Pekín ha vuelto a suscitar recelos tanto en Europa como al otro lado del Atlántico. En un contexto marcado por el",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "time": "8d ago",
+      "timestamp": 1776762000
+    },
+    {
+      "title": "The War in Ukraine: As Russian Losses Mount, Signing Bonuses for Recruits Are Skyrocketing",
+      "link": "https://www.spiegel.de/international/world/the-war-in-ukraine-as-russian-losses-mount-signing-bonuses-for-recruits-are-skyrocketing-a-b1c752f6-0edb-4304-a24b-2869730b4248#ref=rss",
+      "summary": "It is becoming increasingly difficult for Russian officials to meet the recruitment quotas set by Moscow. In response, bonuses are rising and standards are plummeting, as DER SPIEGEL has learned.",
+      "source": "Der Spiegel",
+      "region": "europe",
+      "tag": "eu",
+      "time": "8d ago",
+      "timestamp": 1776759480
+    },
+    {
+      "title": "Albania ante los ciberataques de Irán: ciberseguridad y transparencia como condiciones de integración europea",
+      "link": "https://www.realinstitutoelcano.org/comentarios/albania-ante-los-ciberataques-de-iran-ciberseguridad-y-transparencia-como-condiciones-de-integracion-europea/",
+      "summary": "Introducción[1] El 10 de marzo de 2026, un ciberataque por parte del grupo Homeland Justice, apoyado por el Estado iraní, comprometió el sistema de correo electrónico del parlamento albanés. El parlam",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "time": "9d ago",
+      "timestamp": 1776693600
+    },
+    {
+      "title": "Anduril, Palantir and SpaceX are changing how America wages war",
+      "link": "https://www.economist.com/international/2026/04/20/anduril-palantir-and-spacex-are-changing-how-america-wages-war",
+      "summary": "The Trump administration is cosying up to a new clique of “neo-primes”",
+      "source": "The Economist",
+      "region": "global",
+      "tag": "global",
+      "time": "9d ago",
+      "timestamp": 1776673591
+    },
+    {
+      "title": "Defense in Orbit: Germany Goes Big in the Military Space Race",
+      "link": "https://www.spiegel.de/international/germany/defense-in-orbit-germany-goes-big-in-the-military-space-race-a-0b1f15e2-740e-4c8b-b759-52d8a49fab31#ref=rss",
+      "summary": "Berlin was long content to ignore space as a military frontier. But now, the Merz government is investing 35 billion euros in an array of new systems. The race for lucrative contracts has begun.",
+      "source": "Der Spiegel",
+      "region": "europe",
+      "tag": "eu",
+      "time": "14d ago",
+      "timestamp": 1776261600
+    },
+    {
+      "title": "Trump's Blockade: The Lights Are Going Out in Cuba",
+      "link": "https://www.spiegel.de/international/world/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+      "summary": "U.S. President Donald Trump is forcing Cuba to its knees. Power outages are the norm and people are having trouble making ends meet. Many say, though, that the problems are homemade.",
+      "source": "Der Spiegel",
+      "region": "europe",
+      "tag": "eu",
+      "time": "15d ago",
+      "timestamp": 1776179400
+    },
+    {
+      "title": "Inside the dramatic turnaround that made Colombia’s second city a model for water management.",
+      "link": "https://www.americasquarterly.org/inside-the-dramatic-turnaround-that-made-colombias-second-city-a-model-for-water-management/",
+      "summary": "MEDELLÍN— For much of the 20th century, the Medellín River was an open sewer, collecting the untreated human and industrial waste of the Aburrá Valley. Stretching through the valley’s center, Medellín",
+      "source": "Americas Quarterly",
+      "region": "latam",
+      "tag": "latam",
+      "time": "2385d ago",
+      "timestamp": 1571439708
+    },
+    {
+      "title": "The Bio-Pharma Industry and Society",
+      "link": "https://www.csis.org/events/bio-pharma-industry-and-society",
+      "summary": "The Bio-Pharma Industry and Society\n\n  \n    Listing Summary\n              Please join the CSIS Global Health Policy Center on March 17, from 10:00am – 11:30am, for an exploration of how private bio-ph",
+      "source": "CSIS",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3709d ago",
+      "timestamp": 1457037393
+    },
+    {
+      "title": "The FY2017 Defense Budget and Strategic Outlook",
+      "link": "https://www.csis.org/events/fy2017-defense-budget-and-strategic-outlook",
+      "summary": "The FY2017 Defense Budget and Strategic Outlook\n\n  \n    Listing Summary\n              Please join the CSIS International Security Program for a half-day Defense360 conference on the recently released",
+      "source": "CSIS",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3712d ago",
+      "timestamp": 1456771709
+    },
+    {
+      "title": "2016 U.S.-Japan Security Seminar",
+      "link": "https://www.csis.org/events/2016-us-japan-security-seminar",
+      "summary": "2016 U.S.-Japan Security Seminar\n\n  \n    Listing Summary\n              Michael J. Green interviews JIIA President Yoshiji Nogami\n\n          \nDrupal Admin\nFri, 02/26/2016 - 12:54\n\n\n  \n    Featured Imag",
+      "source": "CSIS",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3715d ago",
+      "timestamp": 1456509272
+    },
+    {
+      "title": "The Future of the Grid—A View from ARPA-E",
+      "link": "https://www.csis.org/events/future-grid-view-arpa-e",
+      "summary": "The Future of the Grid—A View from ARPA-E\n\n  \n    Listing Summary\n              The CSIS Energy and National Security Program is pleased to invite you to a discussion with Ellen Williams, Director of",
+      "source": "CSIS",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3716d ago",
+      "timestamp": 1456427703
+    },
+    {
+      "title": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC",
+      "link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+      "summary": "Statesmen's Forum: Wang Yi, Minister of Foreign Affairs, PRC\n\n  \n    Listing Summary\n              Please watch the live webcast of a discussion on Chinese foreign policy and US-China Relations",
+      "source": "CSIS",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3722d ago",
+      "timestamp": 1455920006
+    },
+    {
+      "title": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences",
+      "link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "summary": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences \n\n  \n    Listing Summary\n              Please join us for a discussion on China’s initiative to promote Interne",
+      "source": "CSIS",
+      "region": "academic",
+      "tag": "academic",
+      "time": "3725d ago",
+      "timestamp": 1455641383
+    },
+    {
+      "title": "Disrupt Latin America",
+      "link": "https://www.americasquarterly.org/disrupt-latin-america/",
+      "summary": "Microfinance revolutionized the financial services sector in Latin America over 40 years ago. Millions of individuals who were excluded from traditional financial institutions obtained access to a var",
+      "source": "Americas Quarterly",
+      "region": "latam",
+      "tag": "latam",
+      "time": "4010d ago",
+      "timestamp": 1431032062
+    },
+    {
+      "title": "Argentina’s Debt: A Conflict of Principles",
+      "link": "https://www.americasquarterly.org/argentinas-debt-a-conflict-of-principles/",
+      "summary": "The reverberations of Argentina’s loss in NML Capital Ltd. vs. Republic of Argentina continue. The conflict stems from a 2012 decision by United States District Court for the Southern District of New",
+      "source": "Americas Quarterly",
+      "region": "latam",
+      "tag": "latam",
+      "time": "4103d ago",
+      "timestamp": 1423005377
+    },
+    {
+      "title": "Mexico’s Foreign Policy Agenda in Central America",
+      "link": "https://www.americasquarterly.org/mexicos-foreign-policy-agenda-in-central-america/",
+      "summary": "In the past decade, Mexico has made strengthening ties with Latin America a top priority, reorienting its gaze from north to south. This is the product of two factors: criticism that Mexico was ignori",
+      "source": "Americas Quarterly",
+      "region": "latam",
+      "tag": "latam",
+      "time": "4103d ago",
+      "timestamp": 1423004925
+    },
+    {
+      "title": "Venezuela’s Post-Chávez Foreign Policy",
+      "link": "https://www.americasquarterly.org/venezuelas-post-chavez-foreign-policy/",
+      "summary": "President Nicolás Maduro inherited a dramatically changed country—and economic situation—when he came to power following Chávez’ death from cancer in 2013. Within a year of Maduro’s election in March",
+      "source": "Americas Quarterly",
+      "region": "latam",
+      "tag": "latam",
+      "time": "4103d ago",
+      "timestamp": 1423004620
+    },
+    {
+      "title": "Cuba and the Summits of the Americas",
+      "link": "https://www.americasquarterly.org/cuba-and-the-summits-of-the-americas/",
+      "summary": "In the coming months, the United States is going to face a tough choice: either alter its policy toward Cuba or face the virtual collapse of its diplomacy in Latin America. The upcoming Summit of the",
+      "source": "Americas Quarterly",
+      "region": "latam",
+      "tag": "latam",
+      "time": "4193d ago",
+      "timestamp": 1415183695
     }
-  ]
+  ],
+  "failed_sources": [],
+  "total": 132
 }
