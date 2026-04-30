@@ -1,6 +1,26 @@
 {
-  "updated": "2026-04-30T08:21:39.935005+00:00",
+  "updated": "2026-04-30T08:28:00.681432+00:00",
   "articles": [
+    {
+      "title": "El chavismo en campaña, otra vez",
+      "link": "https://efectococuyo.com/opinion/el-chavismo-en-campana-otra-vez/",
+      "summary": "\"El cerebro de esta estratagema no es otro que el presidente de la Asamblea Nacional, Jorge Rodríguez\"\nThe post El chavismo en campaña, otra vez appeared first on Efecto Cocuyo.",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "2m ago",
+      "timestamp": 1777537500
+    },
+    {
+      "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en el juicio del Supremo tras las acusaciones de Aldama",
+      "link": "https://elpais.com/espana/2026-04-30/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
+      "summary": "El comisionista trató de implicar al presidente del Gobierno y apuntar a una financiación ilegal del PSOE",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "2m ago",
+      "timestamp": 1777537481
+    },
     {
       "title": "Un fallo técnico en la bolsa española arroja pérdidas superiores al 5% para el Ibex que no son reales",
       "link": "https://www.elmundo.es/economia/dinero-inversion/2026/04/30/69f30f3ee85ece661a8b456f.html",
@@ -8,18 +28,8 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "7m ago",
+      "time": "13m ago",
       "timestamp": 1777536833
-    },
-    {
-      "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en el juicio del Supremo tras las acusaciones de Aldama",
-      "link": "https://elpais.com/espana/2026-04-30/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
-      "summary": "El comisionista trató de implicar al presidente del Gobierno  y apuntar a una financiación ilegal del PSOE",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "time": "8m ago",
-      "timestamp": 1777536760
     },
     {
       "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
@@ -28,17 +38,27 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "10m ago",
+      "time": "16m ago",
       "timestamp": 1777536637
     },
     {
-      "title": "Incidencias técnicas en el índice Ibex muestran de forma errónea una caída de más del 5%",
+      "title": "Zaragoza goalkeeper given 13-game ban after derby punch provoked brawl",
+      "link": "https://www.aljazeera.com/sports/2026/4/30/zaragoza-goalkeeper-given-13-game-ban-after-derby-punch-provoked-brawl?traffic_source=rss",
+      "summary": "Esteban Andrada banned for 13 matches and teammate Dani Tasende for two after pitch melee in La Liga 2.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "17m ago",
+      "timestamp": 1777536620
+    },
+    {
+      "title": "Incidencias técnicas en el índice Ibex han mostrado una caída del 5% durante parte de la sesión",
       "link": "https://cincodias.elpais.com/mercados-financieros/2026-04-30/incidencias-tecnicas-en-el-indice-ibex-muestran-de-forma-erronea-una-caida-de-casi-1000-puntos.html",
-      "summary": "La operativa de la Bolsa, la compra y venta de acciones, sí funciona con normalidad, según BME",
+      "summary": "La incidencia en BME se ha solucionado en torno a las 10:15 horas, pero la operativa de la Bolsa, la compra y venta de acciones, ha funcionado con normalidad",
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "16m ago",
+      "time": "22m ago",
       "timestamp": 1777536301
     },
     {
@@ -48,7 +68,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "17m ago",
+      "time": "23m ago",
       "timestamp": 1777536217
     },
     {
@@ -58,7 +78,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "21m ago",
+      "time": "27m ago",
       "timestamp": 1777536003
     },
     {
@@ -68,7 +88,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "50m ago",
+      "time": "56m ago",
       "timestamp": 1777534235
     },
     {
@@ -78,7 +98,7 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "50m ago",
+      "time": "56m ago",
       "timestamp": 1777534216
     },
     {
@@ -88,7 +108,7 @@
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "53m ago",
+      "time": "59m ago",
       "timestamp": 1777534037
     },
     {
@@ -148,7 +168,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1777530178
     },
     {
@@ -202,16 +222,6 @@
       "timestamp": 1777527020
     },
     {
-      "title": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
-      "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
-      "summary": "Several European leaders have called for a discussion on using the bloc&#039;s mutual assistance clause amid US tensions.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777526635
-    },
-    {
       "title": "Trump claims Putin offered to help with Iran's enriched uranium",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-putin-offered-help-irans-enriched-uranium",
       "summary": "Trump claims Putin offered to help with Iran's enriched uranium\n\n    \n    \n\n        \n    \n                US President Donald Trump on Wednesday said that Russian President Vladimir",
@@ -238,7 +248,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1777522980
     },
     {
@@ -438,7 +448,7 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "9h ago",
+      "time": "10h ago",
       "timestamp": 1777501338
     },
     {
@@ -658,7 +668,7 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1777494288
     },
     {
@@ -702,23 +712,13 @@
       "timestamp": 1777489383
     },
     {
-      "title": "Cabello insiste a la oposición: ¿Para qué quieren elecciones mañana? ¿Para que no reconozcan el resultado?",
-      "link": "https://efectococuyo.com/politica/cabello-insiste-oposicion-elecciones-manana-no-reconozcan-resultado/",
-      "summary": "Cabello convocó al fin de la primera fase de la peregrinación en Caracas este 30 de abril\nThe post Cabello insiste a la oposición: ¿Para qué quieren elecciones mañana? ¿Para que no reconozcan el resu",
-      "source": "Efecto Cocuyo",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "13h ago",
-      "timestamp": 1777487503
-    },
-    {
       "title": "Trump’s War Is Damaging U.S. Arms Exports to Allies",
       "link": "https://foreignpolicy.com/2026/04/29/trump-iran-war-allies-exports-arms/",
       "summary": "Deals are being canceled as stockpiles run short.",
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "13h ago",
+      "time": "14h ago",
       "timestamp": 1777486970
     },
     {
@@ -788,7 +788,7 @@
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "19h ago",
+      "time": "20h ago",
       "timestamp": 1777465391
     },
     {
@@ -1168,7 +1168,7 @@
       "source": "The Economist",
       "region": "global",
       "tag": "global",
-      "time": "9d ago",
+      "time": "10d ago",
       "timestamp": 1776673591
     },
     {
@@ -1310,17 +1310,77 @@
       "tag": "latam",
       "time": "4193d ago",
       "timestamp": 1415183695
+    },
+    {
+      "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
+      "link": "https://www.arabnews.com/node/2635410/middle-east",
+      "summary": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’",
+      "source": "Arab News",
+      "region": "mena",
+      "tag": "mena",
+      "time": "",
+      "timestamp": 0
+    },
+    {
+      "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
+      "link": "https://www.arabnews.com/node/2635409/middle-east",
+      "summary": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani",
+      "source": "Arab News",
+      "region": "mena",
+      "tag": "mena",
+      "time": "",
+      "timestamp": 0
+    },
+    {
+      "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
+      "link": "https://www.arabnews.com/node/2635408/world",
+      "summary": "MADRID: The Middle East conflict will have “immediate repercussions” for European Union security with an increased threat of terrorism, serious and organized crime as well as violent extremism and cyb",
+      "source": "Arab News",
+      "region": "mena",
+      "tag": "mena",
+      "time": "",
+      "timestamp": 0
+    },
+    {
+      "title": "Trump fires homeland security chief Kristi Noem",
+      "link": "https://www.arabnews.com/node/2635407/world",
+      "summary": "WASHINGTON: US President Donald Trump on Thursday fired Kristi Noem as head of the Department of Homeland Security, the agency responsible for carrying out his sweeping immigration crackdown.\n\tAccordi",
+      "source": "Arab News",
+      "region": "mena",
+      "tag": "mena",
+      "time": "",
+      "timestamp": 0
+    },
+    {
+      "title": "Israel decided to kill Khamenei in November, defense minister says",
+      "link": "https://www.arabnews.com/node/2635406/middle-east",
+      "summary": "JERUSALEM: Israel took the decision to kill Iran’s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defense Minister Israel Katz said on Thu",
+      "source": "Arab News",
+      "region": "mena",
+      "tag": "mena",
+      "time": "",
+      "timestamp": 0
+    },
+    {
+      "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
+      "link": "https://www.arabnews.com/node/2635405/middle-east",
+      "summary": "LONDON: Emmanuel Macron on Thursday called on Israel and Iran not to embroil Lebanon in the conflict sweeping the Middle East.\n\n\tThe French president made his plea as panic swept through Beirut after",
+      "source": "Arab News",
+      "region": "mena",
+      "tag": "mena",
+      "time": "",
+      "timestamp": 0
     }
   ],
   "failed_sources": [],
-  "total": 131,
+  "total": 137,
   "economic": {
     "oil": null,
     "gas": null,
     "rates": {
       "EUR": 0.8543,
       "GBP": 0.7402,
-      "MAD": 0,
+      "MAD": 0.0,
       "date": "2026-04-29"
     }
   },
