@@ -1,15 +1,15 @@
 {
-  "updated": "2026-04-30T08:57:04.810636+00:00",
+  "updated": "2026-04-30T09:00:40.586134+00:00",
   "articles": [
     {
-      "title": "Juicio por la trama de las mascarillas, en directo | Koldo García asegura que Jésica chantajeaba a Ábalos con publicar “cosas personales”",
+      "title": "Juicio por la trama de las mascarillas, en directo | Koldo García asegura que Jésica Rodríguez chantajeaba a Ábalos con publicar “cosas personales”",
       "link": "https://elpais.com/espana/2026-04-30/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
-      "summary": "El comisionista trató de implicar al presidente del Gobierno y apuntar a una financiación ilegal del PSOE",
+      "summary": "El juicio continúa este jueves en el Supremo con las declaraciones del exministro de Transportes y su exasesor",
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "3m ago",
-      "timestamp": 1777539203
+      "time": "4m ago",
+      "timestamp": 1777539341
     },
     {
       "title": "Expectativas salariales en Venezuela: ¿habrá un aumento significativo este Primero de Mayo?",
@@ -18,18 +18,8 @@
       "source": "El Nacional",
       "region": "venezuela",
       "tag": "latam",
-      "time": "11m ago",
+      "time": "15m ago",
       "timestamp": 1777538700
-    },
-    {
-      "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
-      "link": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss",
-      "summary": "With shipping disrupted by US-Iran tensions, Islamabad activates overland corridor to move stranded cargo into Iran.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "11m ago",
-      "timestamp": 1777538691
     },
     {
       "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
@@ -38,7 +28,7 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "12m ago",
+      "time": "15m ago",
       "timestamp": 1777538649
     },
     {
@@ -48,7 +38,7 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "20m ago",
+      "time": "24m ago",
       "timestamp": 1777538150
     },
     {
@@ -58,7 +48,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "21m ago",
+      "time": "25m ago",
       "timestamp": 1777538100
     },
     {
@@ -68,7 +58,7 @@
       "source": "El Nacional",
       "region": "venezuela",
       "tag": "latam",
-      "time": "26m ago",
+      "time": "30m ago",
       "timestamp": 1777537800
     },
     {
@@ -78,7 +68,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "31m ago",
+      "time": "35m ago",
       "timestamp": 1777537500
     },
     {
@@ -88,7 +78,7 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "31m ago",
+      "time": "35m ago",
       "timestamp": 1777537500
     },
     {
@@ -98,7 +88,7 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "33m ago",
+      "time": "37m ago",
       "timestamp": 1777537354
     },
     {
@@ -108,7 +98,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "34m ago",
+      "time": "37m ago",
       "timestamp": 1777537347
     },
     {
@@ -118,7 +108,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "46m ago",
+      "time": "49m ago",
       "timestamp": 1777536620
     },
     {
@@ -128,7 +118,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "51m ago",
+      "time": "55m ago",
       "timestamp": 1777536301
     },
     {
@@ -138,7 +128,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "52m ago",
+      "time": "56m ago",
       "timestamp": 1777536217
     },
     {
@@ -148,7 +138,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "56m ago",
+      "time": "1h ago",
       "timestamp": 1777536003
     },
     {
@@ -218,7 +208,7 @@
       "source": "Middle East Eye",
       "region": "mena",
       "tag": "mena",
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1777532375
     },
     {
@@ -230,6 +220,16 @@
       "tag": "mena",
       "time": "2h ago",
       "timestamp": 1777531350
+    },
+    {
+      "title": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
+      "link": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss",
+      "summary": "Iran&#039;s Mehdi Taj-led delegation turns back at Toronto airport due to &#039;unacceptable behaviour of immigration officials&#039;.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777530178
     },
     {
       "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
@@ -258,7 +258,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1777528800
     },
     {
@@ -332,13 +332,53 @@
       "timestamp": 1777521700
     },
     {
+      "title": "El PSOE ofrecerá a Junts y PNV medidas fiscales para los arrendadores",
+      "link": "https://www.lavanguardia.com/economia/20260430/11525944/vivienda-ofrece-junts-pnv-rebajas-irpf-caseros-congelen-alquiler.html",
+      "summary": "El Gobierno reactiva la regulación de contratos temporales buscando un pacto transversal",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "5h ago",
+      "timestamp": 1777521600
+    },
+    {
+      "title": "¿Qué pasará con los 2,7 millones de personas pendientes de la renovación del alquiler?",
+      "link": "https://www.lavanguardia.com/economia/20260430/11525689/que-pasara-2-7-millones-personas-pendientes-renovacion-alquiler.html",
+      "summary": "La anulación en el Congreso de los Diputados del decreto ley del Gobierno que permitía prorrogar dos años los contratos de arrendamiento en España ha dejado en el limbo a propietarios e inquilinos que",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "5h ago",
+      "timestamp": 1777521600
+    },
+    {
+      "title": "Aldama: ocho horas de “confesión” para hacer caer a Ábalos y Koldo",
+      "link": "https://www.lavanguardia.com/politica/20260430/11525978/aldama-ocho-horas-confesion-caer-abalos-koldo.html",
+      "summary": "El comisionista reconoce las “mordidas” e intenta implicar a Sánchez en la trama&nbsp;",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "5h ago",
+      "timestamp": 1777521600
+    },
+    {
+      "title": "El catálogo de acusaciones de Aldama para salpicar a Pedro Sánchez",
+      "link": "https://www.lavanguardia.com/politica/20260430/11525828/ocho-intentos-aldama-salpicar-pedro-sanchez.html",
+      "summary": "El comisionista mencionó un varias ocasiones al presidente del Gobierno durante su declaración, que se alargó siete horas y media",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "5h ago",
+      "timestamp": 1777521600
+    },
+    {
       "title": "The New Resource Curse",
       "link": "https://www.foreignaffairs.com/united-states/new-resource-curse",
       "summary": "Critical minerals will scramble geopolitics.",
       "source": "Foreign Affairs",
       "region": "academic",
       "tag": "academic",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1777521600
     },
     {
@@ -348,7 +388,7 @@
       "source": "Foreign Affairs",
       "region": "academic",
       "tag": "academic",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1777521600
     },
     {
@@ -408,7 +448,7 @@
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1777514400
     },
     {
@@ -418,7 +458,7 @@
       "source": "El Nacional",
       "region": "venezuela",
       "tag": "latam",
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1777514351
     },
     {
@@ -468,7 +508,7 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1777510800
     },
     {
@@ -490,6 +530,16 @@
       "tag": "latam",
       "time": "10h ago",
       "timestamp": 1777500305
+    },
+    {
+      "title": "El periodismo es otra cosa",
+      "link": "https://www.lavanguardia.com/opinion/20260430/11525997/periodismo-cosa.html",
+      "summary": "Vito Quiles es un alborotador que va armado con un micrófono y asalta con sus preguntas a políticos",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "time": "10h ago",
+      "timestamp": 1777500300
     },
     {
       "title": "Cidh otorga medidas cautelares en favor de abogado argentino detenido en Venezuela",
@@ -628,7 +678,7 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1777496310
     },
     {
@@ -638,7 +688,7 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1777496292
     },
     {
@@ -768,7 +818,7 @@
       "source": "Der Spiegel",
       "region": "europe",
       "tag": "eu",
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1777474620
     },
     {
@@ -782,26 +832,6 @@
       "timestamp": 1777474521
     },
     {
-      "title": "Aldama calcula que pagó comisiones de entre 3,5 y cuatro millones de euros a Ábalos y Koldo",
-      "link": "https://www.lavanguardia.com/politica/20260429/11525700/aldama-calcula-que-pago-comisiones-3-5-cuatro-millones-euros-abalos-koldo.html",
-      "summary": "El comisionista asegura que pretendía comprar unos terrenos de la Sepi en el centro de Madrid pero que Koldo le pidió que retirará la oferta “porque Begoña Gómez los quería para ella”&nbsp;&nbsp;",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "time": "18h ago",
-      "timestamp": 1777471657
-    },
-    {
-      "title": "El PSOE pedirá amparo al Supremo ante las “injurias y calumnias” de Aldama contra Sánchez",
-      "link": "https://www.lavanguardia.com/politica/20260429/11525670/psoe-pedira-amparo-supremo-injurias-calumnias-aldama-sanchez.html",
-      "summary": "Los socialistas muestran su irritación y replican en un comunicado que “no existe financiación ilegal” en su partido: “Solo existen las mentiras de Aldama”",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "time": "20h ago",
-      "timestamp": 1777465391
-    },
-    {
       "title": "Chilled ambitions: How the Iran war is foiling Europe’s LNG plans",
       "link": "https://ecfr.eu/article/chilled-ambitions-how-the-iran-war-is-foiling-europes-lng-plans/",
       "summary": "Iranian strikes on Qatar’s LNG infrastructure are complicating Brussels’ plans to ditch Russian gas, handing Washington and Moscow fresh leverage",
@@ -812,26 +842,6 @@
       "timestamp": 1777465093
     },
     {
-      "title": "Aldama: “Llevé dinero a Ábalos, me dijeron que era para financiar al PSOE y que el presidente lo sabía”",
-      "link": "https://www.lavanguardia.com/politica/20260429/11525538/aldama-me-dijeron-parte-ese-dinero-financiacion-partido-presidente-sabia.html",
-      "summary": "El acusado explica que la “ruleta” de corrupción empezó con el interés de José Luis Abalos de lograr dinero de empresarios a cambio de adjudicaciones para su interés particular y para el PSOE",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "time": "22h ago",
-      "timestamp": 1777459391
-    },
-    {
-      "title": "El Gobierno prevé pleitos tras decaer el decreto de los alquileres",
-      "link": "https://www.lavanguardia.com/politica/20260429/11525412/gobierno-admite-haber-pleitos-confia-tribunales-esten-favor-derecho-vivienda.html",
-      "summary": "El ministro Bustinduy quiere retomar negociaciones con Junts y PNV para que apoyen la prórroga de alquiler",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "time": "1d ago",
-      "timestamp": 1777450399
-    },
-    {
       "title": "Aligning the U.S. and Canadian Defense Industrial Bases",
       "link": "https://warontherocks.com/cogs-of-war/aligning-the-us-and-canadian-defense-industrial-bases/",
       "summary": "The United States and Canada are both racing to rebuild their defense industrial bases, recognizing that future conflicts will be determined not only by military capability, but by the ability to prod",
@@ -840,16 +850,6 @@
       "tag": "global",
       "time": "1d ago",
       "timestamp": 1777449654
-    },
-    {
-      "title": "Sánchez trata de aplacar la irritación del PNV, que le advierte: “¿Quiere compañía o no?”",
-      "link": "https://www.lavanguardia.com/politica/20260429/11525379/sanchez-trata-aplacar-irritacion-pnv-le-advierte-quiere-compania.html",
-      "summary": "El presidente del Gobierno intenta limar asperezas y agradece las “posiciones constructivas” de los nacionalistas vascos: “Por supuesto que quiero su buena compañía”",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "time": "1d ago",
-      "timestamp": 1777447926
     },
     {
       "title": "Western Withdrawal, Jihadist Expansion: How the Sahel Became Ground Zero for Global Terrorism",
@@ -998,7 +998,7 @@
       "source": "Elcano Institute",
       "region": "academic",
       "tag": "academic",
-      "time": "2d ago",
+      "time": "3d ago",
       "timestamp": 1777280400
     },
     {
@@ -1108,7 +1108,7 @@
       "source": "Elcano Institute",
       "region": "academic",
       "tag": "academic",
-      "time": "7d ago",
+      "time": "8d ago",
       "timestamp": 1776848400
     },
     {
@@ -1148,7 +1148,7 @@
       "source": "Elcano Institute",
       "region": "academic",
       "tag": "academic",
-      "time": "8d ago",
+      "time": "9d ago",
       "timestamp": 1776762000
     },
     {
