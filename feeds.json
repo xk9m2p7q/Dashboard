@@ -1,16 +1,6 @@
 {
-  "updated": "2026-04-30T08:28:00.681432+00:00",
+  "updated": "2026-04-30T08:35:31.501197+00:00",
   "articles": [
-    {
-      "title": "El chavismo en campaña, otra vez",
-      "link": "https://efectococuyo.com/opinion/el-chavismo-en-campana-otra-vez/",
-      "summary": "\"El cerebro de esta estratagema no es otro que el presidente de la Asamblea Nacional, Jorge Rodríguez\"\nThe post El chavismo en campaña, otra vez appeared first on Efecto Cocuyo.",
-      "source": "Efecto Cocuyo",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "2m ago",
-      "timestamp": 1777537500
-    },
     {
       "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en el juicio del Supremo tras las acusaciones de Aldama",
       "link": "https://elpais.com/espana/2026-04-30/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
@@ -19,17 +9,57 @@
       "region": "spain",
       "tag": "eu",
       "time": "2m ago",
-      "timestamp": 1777537481
+      "timestamp": 1777537951
     },
     {
-      "title": "Un fallo técnico en la bolsa española arroja pérdidas superiores al 5% para el Ibex que no son reales",
-      "link": "https://www.elmundo.es/economia/dinero-inversion/2026/04/30/69f30f3ee85ece661a8b456f.html",
-      "summary": "Solo afectaría a la cotización del índice y no a las compañías. Los futuros reflejan una caída del 1%&nbsp;Leer",
+      "title": "El PSOE se lanza contra los medios por \"dar pábulo a las mentiras\" de Aldama",
+      "link": "https://www.elmundo.es/espana/2026/04/30/69f31157e4d4d8d91a8b45aa.html",
+      "summary": "\"Sólo habla y no tiene ninguna prueba. Es un delincuente mentiroso: mientes y estás en la calle; dices la verdad y estás en la cárcel\"&nbsp;Leer",
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "13m ago",
-      "timestamp": 1777536833
+      "time": "2m ago",
+      "timestamp": 1777537912
+    },
+    {
+      "title": "Micro TDH: Me siento capaz de tomar mejores decisiones",
+      "link": "https://www.elnacional.com/2026/04/micro-tdh-me-siento-capaz-de-tomar-mejores-decisiones/",
+      "summary": "El cantante merideño de 27 años vive una nueva etapa, una con mayor libertad. Había olvidado lo que se sentía ser el dueño absoluto de su carrera tras años trabajando con disqueras. Esa independencia",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "4m ago",
+      "timestamp": 1777537800
+    },
+    {
+      "title": "BMCI : BNP Paribas cède ses parts à Holmarcom Finance Company",
+      "link": "https://www.yabiladi.com/articles/details/193542/bmci-paribas-cede-parts-holmarcom.html",
+      "summary": "BNP Paribas et Holmarcom Finance Company se sont accordés sur la cession par le groupe français à HFC de toute sa participation majoritaire de 67% dans la Banque marocaine pour le commerce et l’indust",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "9m ago",
+      "timestamp": 1777537500
+    },
+    {
+      "title": "El chavismo en campaña, otra vez",
+      "link": "https://efectococuyo.com/opinion/el-chavismo-en-campana-otra-vez/",
+      "summary": "\"El cerebro de esta estratagema no es otro que el presidente de la Asamblea Nacional, Jorge Rodríguez\"\nThe post El chavismo en campaña, otra vez appeared first on Efecto Cocuyo.",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "9m ago",
+      "timestamp": 1777537500
+    },
+    {
+      "title": "Un fallo técnico en la bolsa española arrojaba pérdidas superiores al 5% para el Ibex durante poco más de una hora",
+      "link": "https://www.elmundo.es/economia/dinero-inversion/2026/04/30/69f30f3ee85ece661a8b456f.html",
+      "summary": "El cálculo de la variación sobre el selectivo se difundió mal durante la primera hora y 15 minutos de la sesión de este jueves. El fallo técnico ya está solucionado&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "11m ago",
+      "timestamp": 1777537354
     },
     {
       "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
@@ -38,18 +68,8 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "16m ago",
+      "time": "23m ago",
       "timestamp": 1777536637
-    },
-    {
-      "title": "Zaragoza goalkeeper given 13-game ban after derby punch provoked brawl",
-      "link": "https://www.aljazeera.com/sports/2026/4/30/zaragoza-goalkeeper-given-13-game-ban-after-derby-punch-provoked-brawl?traffic_source=rss",
-      "summary": "Esteban Andrada banned for 13 matches and teammate Dani Tasende for two after pitch melee in La Liga 2.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "17m ago",
-      "timestamp": 1777536620
     },
     {
       "title": "Incidencias técnicas en el índice Ibex han mostrado una caída del 5% durante parte de la sesión",
@@ -58,7 +78,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "22m ago",
+      "time": "29m ago",
       "timestamp": 1777536301
     },
     {
@@ -68,7 +88,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "23m ago",
+      "time": "30m ago",
       "timestamp": 1777536217
     },
     {
@@ -78,7 +98,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "27m ago",
+      "time": "34m ago",
       "timestamp": 1777536003
     },
     {
@@ -88,7 +108,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "56m ago",
+      "time": "1h ago",
       "timestamp": 1777534235
     },
     {
@@ -98,7 +118,7 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "56m ago",
+      "time": "1h ago",
       "timestamp": 1777534216
     },
     {
@@ -108,7 +128,7 @@
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "59m ago",
+      "time": "1h ago",
       "timestamp": 1777534037
     },
     {
@@ -218,8 +238,18 @@
       "source": "Middle East Eye",
       "region": "mena",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1777527020
+    },
+    {
+      "title": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
+      "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
+      "summary": "Several European leaders have called for a discussion on using the bloc&#039;s mutual assistance clause amid US tensions.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "3h ago",
+      "timestamp": 1777526635
     },
     {
       "title": "Trump claims Putin offered to help with Iran's enriched uranium",
@@ -318,7 +348,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1777519801
     },
     {
@@ -328,7 +358,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1777519801
     },
     {
@@ -388,7 +418,7 @@
       "source": "El Nacional",
       "region": "venezuela",
       "tag": "latam",
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1777512591
     },
     {
@@ -430,16 +460,6 @@
       "tag": "latam",
       "time": "7h ago",
       "timestamp": 1777510200
-    },
-    {
-      "title": "Delcy Rodríguez insiste en que se suspendan 1.081 sanciones y denuncia \"asfixia financiera\" en Venezuela",
-      "link": "https://www.elnacional.com/2026/04/delcy-rodriguez-insiste-en-que-se-suspendan-1-081-sanciones-y-denuncia-asfixia-financiera-en-venezuela/",
-      "summary": "La funcionaria dirigió un mensaje directo al mandatario estadounidense Donald Trump y a los gobiernos europeos, solicitando el \"cese completo del bloqueo\" y la eliminación de cada una de las medidas v",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "7h ago",
-      "timestamp": 1777510177
     },
     {
       "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
@@ -518,7 +538,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1777498370
     },
     {
@@ -602,16 +622,6 @@
       "timestamp": 1777497000
     },
     {
-      "title": "\"Los ministros le cogían el teléfono a Koldo porque era un hombre del presidente\": Aldama dispara una y otra vez contra Sánchez",
-      "link": "https://www.elmundo.es/espana/2026/04/29/69f26995e9cf4a4c1d8b4578.html",
-      "summary": "El empresario afirma que el presidente del Gobierno está \"en el número uno del escalafón\" de la trama corrupta y que era conocedor de su actividad&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "time": "11h ago",
-      "timestamp": 1777496328
-    },
-    {
       "title": "Aldama inunda el Supremo de detalles demoledores sobre sobornos \"protegidos\" por Sánchez y financiación ilegal del PSOE",
       "link": "https://www.elmundo.es/espana/2026/04/29/69f2526cfc6c8379748b4590.html",
       "summary": "El empresario declara que le pidieron que se encargara de recaudar las mordidas en efectivo, que se hacían llegar al partido camufladas de donaciones&nbsp;Leer",
@@ -658,7 +668,7 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1777494765
     },
     {
@@ -738,7 +748,7 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "14h ago",
+      "time": "15h ago",
       "timestamp": 1777483858
     },
     {
@@ -1310,79 +1320,80 @@
       "tag": "latam",
       "time": "4193d ago",
       "timestamp": 1415183695
-    },
-    {
-      "title": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy",
-      "link": "https://www.arabnews.com/node/2635410/middle-east",
-      "summary": "CAIRO: Egyptian President Abdel Fattah El-Sisi said Thursday his country was in an economic “state of near-emergency” as a result of the Middle East war, warning of runaway inflation.\n\tThe Arab world’",
-      "source": "Arab News",
-      "region": "mena",
-      "tag": "mena",
-      "time": "",
-      "timestamp": 0
-    },
-    {
-      "title": "How Israel’s ‘buffer zone’ plan could redraw the map of southern Lebanon",
-      "link": "https://www.arabnews.com/node/2635409/middle-east",
-      "summary": "BEIRUT: Lebanon faces what officials described as “one of the most dangerous moments in recent memory” after Hezbollah launched attacks on Israeli forces from areas both south and north of the Litani",
-      "source": "Arab News",
-      "region": "mena",
-      "tag": "mena",
-      "time": "",
-      "timestamp": 0
-    },
-    {
-      "title": "Europol warns Iran crisis raises threat of terror, extremism and cyberattacks",
-      "link": "https://www.arabnews.com/node/2635408/world",
-      "summary": "MADRID: The Middle East conflict will have “immediate repercussions” for European Union security with an increased threat of terrorism, serious and organized crime as well as violent extremism and cyb",
-      "source": "Arab News",
-      "region": "mena",
-      "tag": "mena",
-      "time": "",
-      "timestamp": 0
-    },
-    {
-      "title": "Trump fires homeland security chief Kristi Noem",
-      "link": "https://www.arabnews.com/node/2635407/world",
-      "summary": "WASHINGTON: US President Donald Trump on Thursday fired Kristi Noem as head of the Department of Homeland Security, the agency responsible for carrying out his sweeping immigration crackdown.\n\tAccordi",
-      "source": "Arab News",
-      "region": "mena",
-      "tag": "mena",
-      "time": "",
-      "timestamp": 0
-    },
-    {
-      "title": "Israel decided to kill Khamenei in November, defense minister says",
-      "link": "https://www.arabnews.com/node/2635406/middle-east",
-      "summary": "JERUSALEM: Israel took the decision to kill Iran’s Supreme Leader Ali Khamenei in November and was planning to carry out the operation around six months later, Defense Minister Israel Katz said on Thu",
-      "source": "Arab News",
-      "region": "mena",
-      "tag": "mena",
-      "time": "",
-      "timestamp": 0
-    },
-    {
-      "title": "Macron calls on Israel, Iran and Hezbollah to prevent Lebanon being embroiled in conflict",
-      "link": "https://www.arabnews.com/node/2635405/middle-east",
-      "summary": "LONDON: Emmanuel Macron on Thursday called on Israel and Iran not to embroil Lebanon in the conflict sweeping the Middle East.\n\n\tThe French president made his plea as panic swept through Beirut after",
-      "source": "Arab News",
-      "region": "mena",
-      "tag": "mena",
-      "time": "",
-      "timestamp": 0
     }
   ],
   "failed_sources": [],
-  "total": 137,
+  "total": 132,
   "economic": {
     "oil": null,
     "gas": null,
     "rates": {
-      "EUR": 0.8543,
-      "GBP": 0.7402,
-      "MAD": 0.0,
-      "date": "2026-04-29"
+      "EUR": 0.8556,
+      "GBP": 0.7412,
+      "MAD": 9.25,
+      "date": "Thu, 30 Ap"
     }
   },
-  "events": []
+  "events": [
+    {
+      "label": "EU Parliament session",
+      "date": "2026-05-04",
+      "days": 3,
+      "region": "europe"
+    },
+    {
+      "label": "Ukraine: Ceasefire talks",
+      "date": "2026-06-01",
+      "days": 31,
+      "region": "europe"
+    },
+    {
+      "label": "Venezuela: OAS review",
+      "date": "2026-06-15",
+      "days": 45,
+      "region": "venezuela"
+    },
+    {
+      "label": "EU Council Summit",
+      "date": "2026-06-19",
+      "days": 49,
+      "region": "europe"
+    },
+    {
+      "label": "NATO Summit (The Hague)",
+      "date": "2026-06-24",
+      "days": 54,
+      "region": "global"
+    },
+    {
+      "label": "Iran: Presidential term",
+      "date": "2026-07-28",
+      "days": 88,
+      "region": "mena"
+    },
+    {
+      "label": "Morocco: Throne Day",
+      "date": "2026-07-30",
+      "days": 90,
+      "region": "morocco"
+    },
+    {
+      "label": "Spain: Budget vote",
+      "date": "2026-09-01",
+      "days": 123,
+      "region": "spain"
+    },
+    {
+      "label": "UN General Assembly",
+      "date": "2026-09-15",
+      "days": 137,
+      "region": "global"
+    },
+    {
+      "label": "COP30 (Belem, Brazil)",
+      "date": "2026-11-09",
+      "days": 192,
+      "region": "global"
+    }
+  ]
 }
