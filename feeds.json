@@ -1,105 +1,365 @@
 {
-  "updated": "2026-04-30T00:10:06.325261+00:00",
+  "updated": "2026-04-30T08:21:39.935005+00:00",
   "articles": [
     {
-      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+      "title": "Un fallo técnico en la bolsa española arroja pérdidas superiores al 5% para el Ibex que no son reales",
+      "link": "https://www.elmundo.es/economia/dinero-inversion/2026/04/30/69f30f3ee85ece661a8b456f.html",
+      "summary": "Solo afectaría a la cotización del índice y no a las compañías. Los futuros reflejan una caída del 1%&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "7m ago",
+      "timestamp": 1777536833
+    },
+    {
+      "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en el juicio del Supremo tras las acusaciones de Aldama",
+      "link": "https://elpais.com/espana/2026-04-30/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
+      "summary": "El comisionista trató de implicar al presidente del Gobierno  y apuntar a una financiación ilegal del PSOE",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "8m ago",
+      "timestamp": 1777536760
+    },
+    {
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "14m ago",
-      "timestamp": 1777506884
+      "time": "10m ago",
+      "timestamp": 1777536637
     },
     {
-      "title": "Israeli troops seize aid vessels bound for Gaza",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-troops-seize-aid-vessels-bound-gaza",
-      "summary": "Israeli troops seize aid vessels bound for Gaza\n\n    \n    \n\n        \n    \n                Israeli forces have begun seizing control of aid vessels bound for Gaza, far from its shore",
-      "source": "Middle East Eye",
+      "title": "Incidencias técnicas en el índice Ibex muestran de forma errónea una caída de más del 5%",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-04-30/incidencias-tecnicas-en-el-indice-ibex-muestran-de-forma-erronea-una-caida-de-casi-1000-puntos.html",
+      "summary": "La operativa de la Bolsa, la compra y venta de acciones, sí funciona con normalidad, según BME",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "16m ago",
+      "timestamp": 1777536301
+    },
+    {
+      "title": "Vídeo | El juicio de Kitchen, en directo: El inspector jefe Morocho vuelve a declarar ante el tribunal",
+      "link": "https://elpais.com/espana/2026-04-30/video-el-juicio-de-kitchen-en-directo-el-inspector-jefe-morocho-vuelve-a-declarar-ante-el-tribunal.html",
+      "summary": "El principal investigador de Gürtel responderá este jueves a la mayoría de defensas",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "17m ago",
+      "timestamp": 1777536217
+    },
+    {
+      "title": "Rockets defeat Lakers in Reaves’s return, force Game 6 in NBA playoffs",
+      "link": "https://www.aljazeera.com/sports/2026/4/30/rockets-defeat-lakers-in-reavess-return-force-game-6-in-nba-playoffs?traffic_source=rss",
+      "summary": "Despite the return of star Austin Reaves, the LA Lakers were defeated by Houston Rockets in Game 5 of their series.",
+      "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "33m ago",
-      "timestamp": 1777505737
+      "time": "21m ago",
+      "timestamp": 1777536003
     },
     {
-      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-      "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
-      "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
-      "source": "BBC World",
+      "title": "Iran war: What’s happening on day 62 as Trump asks Iran to ‘give up’?",
+      "link": "https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up?traffic_source=rss",
+      "summary": "Trump says the US blockade of Iranian ports is working, urging Tehran to &#039;give up&#039; amid tensions.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "50m ago",
+      "timestamp": 1777534235
+    },
+    {
+      "title": "Correcting Course in the Indo‑Pacific",
+      "link": "https://warontherocks.com/correcting-course-in-the-indo-pacific/",
+      "summary": "Last month, President Donald Trump hosted Japanese Prime Minister Sanae Takaichi for a visit that captured both the promise and the shortcomings of America&#8217;s Indo&#8209;Pacific strategy.In some",
+      "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "35m ago",
-      "timestamp": 1777505602
+      "time": "50m ago",
+      "timestamp": 1777534216
     },
     {
-      "title": "EE UU eleva a 42 la cifra de buques iraníes que ha bloqueado en el estrecho de Ormuz",
-      "link": "https://www.elnacional.com/2026/04/ee-uu-eleva-a-42-la-cifra-de-buques-iranies-que-ha-bloqueado-en-el-estrecho-de-ormuz/",
-      "summary": "El bloqueo naval sobre los puertos iraníes se mantiene vigente desde el 13 de abril y, según EE UU, ha \"interrumpido\" casi en su totalidad el comercio de la república Islámica.\nThe post EE UU eleva a",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "37m ago",
-      "timestamp": 1777505534
-    },
-    {
-      "title": "Jorge Rodríguez sobre el alivio de sanciones: \"Ya se nota, hay una redinamización\"",
-      "link": "https://www.elnacional.com/2026/04/jorge-rodriguez-sobre-el-alivio-de-sanciones-ya-se-nota-hay-una-redinamizacion/",
-      "summary": "“Solamente han levantado 18 de las 1.861 sanciones que existen, y ya se nota. Se empieza a notar que hay una redinamización, hay un aceleramiento del desarrollo económico de Venezuela”, afirmó el pres",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "38m ago",
-      "timestamp": 1777505501
-    },
-    {
-      "title": "Trump says US considering reducing troops in Germany",
-      "link": "https://www.politico.com/news/2026/04/29/trump-us-reducing-troops-germany-00899352?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "There are 38,000 U.S. troops and personnel stationed in Germany, and cutting forces there would face opposition on Capitol Hill.",
+      "title": "May elections: The pollster’s verdict",
+      "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/may-elections-the-pollsters-verdict/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Presented by Amazon",
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
-      "time": "44m ago",
-      "timestamp": 1777505090
+      "time": "53m ago",
+      "timestamp": 1777534037
     },
     {
-      "title": "EE UU acusa al gobernador de Sinaloa y a otros funcionarios mexicanos de narcotráfico y posesión de armas",
-      "link": "https://www.elnacional.com/2026/04/ee-uu-acusa-al-gobernador-de-sinaloa-y-a-otros-funcionarios-mexicanos-de-narcotrafico-y-posesion-de-armas/",
-      "summary": "El Departamento de Justicia alega que Rubén Rocha Moya fue elegido gobernador en noviembre de 2021 después de que los Chapitos lo ayudaran \"secuestrando e intimidando a sus rivales\", y ha permitido qu",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "52m ago",
-      "timestamp": 1777504611
-    },
-    {
-      "title": "Posponen hasta septiembre el juicio contra Nick Reiner por el asesinato de sus padres",
-      "link": "https://www.elnacional.com/2026/04/posponen-hasta-septiembre-el-juicio-contra-nick-reiner-por-el-asesinato-de-sus-padres/",
-      "summary": "La fiscalía del condado de Los Ángeles declaró este miércoles ante el tribunal que aún faltan los informes de autopsia de las víctimas y que no se le había entregado a la defensa casi dos terabytes de",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "55m ago",
-      "timestamp": 1777504465
-    },
-    {
-      "title": "Sofía Castillo: “En el jazz conseguí libertad”",
-      "link": "https://www.elnacional.com/2026/04/sofia-castillo-en-el-jazz-consegui-libertad-2/",
-      "summary": "The post Sofía Castillo: “En el jazz conseguí libertad” appeared first on EL NACIONAL.",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "59m ago",
-      "timestamp": 1777504215
-    },
-    {
-      "title": "¿Cuántos arrestos de trabajadores de la prensa se registró en lo que va de 2026?",
-      "link": "https://www.elnacional.com/2026/04/espacio-publico-registro-29-detenciones-de-trabajadores-de-la-prensa-en-lo-que-va-de-2026/",
-      "summary": "Del total de detenidos, 22 fueron periodistas, seis particulares (infociudadanos o activistas) y un trabajador público.\nThe post ¿Cuántos arrestos de trabajadores de la prensa se registró en lo que va",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
+      "title": "Could the US-Iran war become a protracted ‘frozen’ conflict?",
+      "link": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss",
+      "summary": "In the absence of a permanent deal, the war between the US and Iran is becoming one of attrition despite huge costs.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
       "time": "1h ago",
-      "timestamp": 1777504168
+      "timestamp": 1777532587
+    },
+    {
+      "title": "Rethinking Corporate Risk and Alignment in an Era of Economic Statecraft",
+      "link": "https://warontherocks.com/rethinking-corporate-risk-and-alignment-in-an-era-of-economic-statecraft/",
+      "summary": "Editor&#8217;s note: This article is the eighth in an 11-part series examining how the United States should organize, lead, and integrate economic statecraft into strategy, defense practice, and the b",
+      "source": "War on the Rocks",
+      "region": "global",
+      "tag": "global",
+      "time": "1h ago",
+      "timestamp": 1777532442
+    },
+    {
+      "title": "La economía española se frena menos de lo esperado en el primer trimestre y crece un 0,6%, dos décimas menos",
+      "link": "https://www.elmundo.es/economia/macroeconomia/2026/04/30/69f2f709e4d4d883768b456f.html",
+      "summary": "El consumo de las familias y la inversión empresarial, en menor medida, son el motor de crecimiento&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "time": "1h ago",
+      "timestamp": 1777532432
+    },
+    {
+      "title": "Israeli air strikes, shelling pummel southern Lebanon",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-rain-down-southern-lebanon",
+      "summary": "Israeli air strikes, shelling pummel southern Lebanon \n\n    \n    \n\n        \n    \n                Israeli attacks continue on several towns and villages located in southern Lebanon,",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777532375
+    },
+    {
+      "title": "Israel says 175 activists arrested onboard Gaza-bound flotilla",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-175-activists-arrested-onboard-gaza-bound-flotilla",
+      "summary": "Israel says 175 activists arrested onboard Gaza-bound flotilla\n\n    \n    \n\n        \n    \n                Israel's foreign ministry said troops arrested around 175 activists onboard&",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777531350
+    },
+    {
+      "title": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
+      "link": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss",
+      "summary": "Iran&#039;s Mehdi Taj-led delegation turns back at Toronto airport due to &#039;unacceptable behaviour of immigration officials&#039;.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "1h ago",
+      "timestamp": 1777530178
+    },
+    {
+      "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
+      "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "time": "2h ago",
+      "timestamp": 1777529796
+    },
+    {
+      "title": "Morning update",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-519",
+      "summary": "Morning update\n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,\n\nTensions remain high between Iran and the US, with Axios reporting that President Don",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777529643
+    },
+    {
+      "title": "Quand Juan Carlos était disposé à céder Melilla à Hassan II [Document CIA]",
+      "link": "https://www.yabiladi.com/articles/details/53461/quand-juan-carlos-etait-dispose.html",
+      "summary": "En avril 1979, Juan Carlos était disposé à céder Melilla au Maroc et de confier Ceuta à la tutelle internationale. Cette disposition a fait l’objet d’un câble de l’ambassade américain, résumant une di",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777528800
+    },
+    {
+      "title": "Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border?",
+      "link": "https://www.aljazeera.com/features/2026/4/30/why-is-india-turning-to-crocodiles-and-snakes-to-fence-bangladesh-border?traffic_source=rss",
+      "summary": "India wants to  the border with Bangladesh badly — even if it takes venomous snakes or crocodiles.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777528705
+    },
+    {
+      "title": "Gaza-bound flotilla says hundreds stranded at sea following Israeli interception",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-bound-flotilla-says-hundreds-stranded-sea-following-israeli",
+      "summary": "Gaza-bound flotilla says hundreds stranded at sea following Israeli interception\n\n    \n    \n\n        \n    \n                The&nbsp;Global Sumud Flotilla indicated in a post on X th",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777527020
+    },
+    {
+      "title": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
+      "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
+      "summary": "Several European leaders have called for a discussion on using the bloc&#039;s mutual assistance clause amid US tensions.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "2h ago",
+      "timestamp": 1777526635
+    },
+    {
+      "title": "Trump claims Putin offered to help with Iran's enriched uranium",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-putin-offered-help-irans-enriched-uranium",
+      "summary": "Trump claims Putin offered to help with Iran's enriched uranium\n\n    \n    \n\n        \n    \n                US President Donald Trump on Wednesday said that Russian President Vladimir",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "3h ago",
+      "timestamp": 1777526161
+    },
+    {
+      "title": "Israeli navy seized 50 boats carrying 400 activists en route to Gaza: Report",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-navy-seized-50-boats-carrying-400-activists-en-route-gaza-report",
+      "summary": "Israeli navy seized 50 boats carrying 400 activists en route to Gaza: Report\n\n    \n    \n\n        \n    \n                The Israeli navy intercepted 50 vessels bound for Gaza carryin",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "time": "3h ago",
+      "timestamp": 1777524258
+    },
+    {
+      "title": "Sahara : Massad Boulos rencontre le chef de la MINURSO",
+      "link": "https://www.yabiladi.com/articles/details/193537/sahara-massad-boulos-rencontre-chef.html",
+      "summary": "Ce mercredi, Massad Boulos, conseiller spécial du président Donald Trump pour les affaires africaines et arabes, a rencontré Alexander Ivanko, représentant spécial du secrétaire général des Nations un",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "time": "3h ago",
+      "timestamp": 1777522980
+    },
+    {
+      "title": "Christchurch mass killer loses bid to overturn conviction",
+      "link": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss",
+      "summary": "White supremacist Brenton Tarrant's appeal is \"utterly devoid of merit\", a New Zealand court has ruled.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "time": "4h ago",
+      "timestamp": 1777522254
+    },
+    {
+      "title": "Why the ECB is in a tricky spot",
+      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/why-the-ecb-is-in-a-tricky-spot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "The European Central Bank&#160;will meet today and make a decision that depends heavily&#160;on events happening thousands of&#160;kilometers&#160;away.&#160; That’s&#160;because the&#160;war in Iran",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "4h ago",
+      "timestamp": 1777521900
+    },
+    {
+      "title": "For What AI Could Do to Democracies, Look to the Petrostates",
+      "link": "https://foreignpolicy.com/2026/04/30/petrostates-ai-democracies/",
+      "summary": "Societies will become richer, but history suggests that wealth may not be equally distributed.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "time": "4h ago",
+      "timestamp": 1777521700
+    },
+    {
+      "title": "The New Resource Curse",
+      "link": "https://www.foreignaffairs.com/united-states/new-resource-curse",
+      "summary": "Critical minerals will scramble geopolitics.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "4h ago",
+      "timestamp": 1777521600
+    },
+    {
+      "title": "What Drove Down America’s Fentanyl Deaths?",
+      "link": "https://www.foreignaffairs.com/china/what-drove-down-americas-fentanyl-deaths",
+      "summary": "China might have—but wouldn’t want Washington to know.",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "4h ago",
+      "timestamp": 1777521600
+    },
+    {
+      "title": "Die neue Arbeiterführerin Bärbel Bas",
+      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-neue-arbeiterfuhrerin-barbel-bas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Morgen ist der 1. Mai, und für Bärbel Bas ist es das wichtigste Heimspiel des Jahres. In Duisburg spricht sie als Arbeitsministerin und vor dem DGB. Die Harmonie in der schwarz-roten Koalition ist fas",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "4h ago",
+      "timestamp": 1777520230
+    },
+    {
+      "title": "El Gobierno se revuelve contra las “mentiras” de Aldama pero cree que no tendrán consecuencias porque no aporta ninguna prueba",
+      "link": "https://elpais.com/espana/2026-04-30/el-gobierno-se-revuelve-contra-las-mentiras-de-aldama-pero-cree-que-no-tendran-consecuencias-porque-no-aporta-ninguna-prueba.html",
+      "summary": "Diversos miembros del Ejecutivo y del PSOE, molestos por la actuación de la Fiscalía y del tribunal que permite apuntar sin pruebas al presidente del Gobierno",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "4h ago",
+      "timestamp": 1777519801
+    },
+    {
+      "title": "El Consejo Nacional de Ciencia fulminado por Trump ultimaba un informe sobre la creciente superioridad científica de China frente a EE UU",
+      "link": "https://elpais.com/ciencia/2026-04-30/el-consejo-nacional-de-ciencia-fulminado-por-trump-ultimaba-un-informe-sobre-la-creciente-superioridad-cientifica-de-china-frente-a-ee-uu.html",
+      "summary": "Tres consejeros despedidos alertan a EL PAÍS de que el republicano intenta apoderarse de una institución blindada por ley: “Esto no tiene precedentes”",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "time": "4h ago",
+      "timestamp": 1777519801
+    },
+    {
+      "title": "Russia’s sports comeback fuels anger in Ukraine",
+      "link": "https://www.politico.eu/article/russia-olympics-ukraine-sports-comeback-fuels-anger/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Ahead of a key meeting about curling, a top Ukrainian minister tells POLITICO he is \"deeply concerned\" about the trend toward readmission.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "6h ago",
+      "timestamp": 1777514520
+    },
+    {
+      "title": "UK’s diplomats left in disarray by Mandelson scandal",
+      "link": "https://www.politico.eu/article/uk-mandelson-scandal-keir-starmer-olly-robbins-diplomats-in-disarray/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Firing of chief Olly Robbins cut short a radical program to reform the once-prized Foreign, Commonwealth and Development Office.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "6h ago",
+      "timestamp": 1777514460
+    },
+    {
+      "title": "Politicians say the funniest things (to kids)",
+      "link": "https://www.politico.eu/article/politicians-say-the-funniest-things-to-kids/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "When politicians and diplomats are confronted with a group of children, they often don't know how to behave.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "time": "6h ago",
+      "timestamp": 1777514400
+    },
+    {
+      "title": "Delegación de la Casa Blanca llega este jueves a Caracas para sellar pactos en minería y energía",
+      "link": "https://www.elnacional.com/2026/04/delegacion-de-la-casa-blanca-viaja-a-caracas-para-sellar-pactos-en-mineria-y-energia/",
+      "summary": "Los acuerdos previstos se materializarían en memorandos de entendimiento sobre proyectos en petróleo, oro, aluminio y posiblemente carbón, aunque no implicarían un incremento inmediato de la producció",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "6h ago",
+      "timestamp": 1777514351
     },
     {
       "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
@@ -108,48 +368,68 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "1h ago",
-      "timestamp": 1777503570
+      "time": "6h ago",
+      "timestamp": 1777513420
     },
     {
-      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
-      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "time": "1h ago",
-      "timestamp": 1777502959
+      "title": "Murió un privado de libertad en el Zulia por falta de atención médica, denunció el OVP",
+      "link": "https://www.elnacional.com/2026/04/murio-un-privado-de-libertad-en-el-zulia-por-falta-de-atencion-medica-denuncio-el-ovp/",
+      "summary": "La ONG criticó la opacidad y la falta de respuestas oficiales sobre estos incidentes, subrayando que las condiciones de salud y seguridad en el sistema penitenciario venezolano ponen en riesgo la vida",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "6h ago",
+      "timestamp": 1777512591
     },
     {
-      "title": "Ultra-Orthodox protests over draft law spread across Israel",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ultra-orthodox-protests-over-draft-law-spread-across-israel-0",
-      "summary": "Ultra-Orthodox protests over draft law spread across Israel\n\n    \n    \n\n        \n    \n                Ultra-Orthodox Jews have staged protests across Israel against military conscri",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago",
-      "timestamp": 1777502192
+      "title": "Caracas complica situación de Racing y sigue tras la sombra de Botafogo",
+      "link": "https://www.elnacional.com/2026/04/caracas-complica-situacion-de-racing-y-sigue-tras-la-sombra-de-botafogo/",
+      "summary": "Ambos equipos tuvieron un par de jugadas más para irse arriba, pero a Caracas le costó definir, mientras que el club argentino se encontró con el portero Benítez, figura de la noche.\nThe post Caracas",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "7h ago",
+      "timestamp": 1777511313
     },
     {
-      "title": "Israeli military intercepts Gaza-bound aid vessel off Greek coast",
-      "link": "https://www.middleeasteye.net/news/israeli-military-intercepts-gaza-bound-aid-vessel-greek-coast",
-      "summary": "Israeli military intercepts Gaza-bound aid vessel off Greek coast\n\n    \n    \n\n          \n      \n      \n        Submitted by \nTamara Turki\n on \nWed, 04/29/2026 - 23:20",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago",
-      "timestamp": 1777502064
+      "title": "Capriles: \"No estoy de acuerdo en que el Estado venezolano pague la defensa de Nicolás Maduro\"",
+      "link": "https://www.elnacional.com/2026/04/capriles-no-estoy-de-acuerdo-en-que-el-estado-venezolano-pague-la-defensa-de-nicolas-maduro/",
+      "summary": "“Estoy seguro que Nicolás Maduro y su entorno tienen capacidad económica para pagar a sus abogados”, dijo el parlamentario.\nThe post Capriles: &quot;No estoy de acuerdo en que el Estado venezolano pag",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "7h ago",
+      "timestamp": 1777511037
     },
     {
-      "title": "Carney ‘strong’ in year one, now must deliver on promises in Canada",
-      "link": "https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss",
-      "summary": "Canada&#039;s prime minister has used Trump&#039;s attacks on allies and others to refocus Ottawa&#039;s foreign policy.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "1h ago",
-      "timestamp": 1777501996
+      "title": "De un ajuste pírrico a una fórmula híbrida: incertidumbre sobre el anuncio «responsable»",
+      "link": "https://efectococuyo.com/economia/de-un-ajuste-pirrico-a-una-formula-hibrida-incertidumbre-sobre-el-anuncio/",
+      "summary": "El único instrumento con sustento legal es el “Cesta Ticket”. El  gobierno debe sopesar el impacto si anuncia un ajuste pírrico, lo deja “congelado” o sigue la vía de la compensación sin incidencia l",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "7h ago",
+      "timestamp": 1777510800
+    },
+    {
+      "title": "Trabajadores de Guayana sobre el 1 de mayo: “No aceptaremos chantajes de que no hay condiciones para un aumento salarial”",
+      "link": "https://www.elnacional.com/2026/04/trabajadores-de-guayana-sobre-1-de-mayo-no-aceptaremos-chantajes-de-que-no-hay-condiciones-para-un-aumento-salarial/",
+      "summary": "Este viernes se llevará a cabo una movilización desde la ‘Esquina caliente’ de Unare hasta el Centro Comercial Atlántico para exigir un salario mínimo que pueda costear la canasta básica alimentaria.",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "7h ago",
+      "timestamp": 1777510200
+    },
+    {
+      "title": "Delcy Rodríguez insiste en que se suspendan 1.081 sanciones y denuncia \"asfixia financiera\" en Venezuela",
+      "link": "https://www.elnacional.com/2026/04/delcy-rodriguez-insiste-en-que-se-suspendan-1-081-sanciones-y-denuncia-asfixia-financiera-en-venezuela/",
+      "summary": "La funcionaria dirigió un mensaje directo al mandatario estadounidense Donald Trump y a los gobiernos europeos, solicitando el \"cese completo del bloqueo\" y la eliminación de cada una de las medidas v",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "7h ago",
+      "timestamp": 1777510177
     },
     {
       "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
@@ -158,7 +438,7 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "1h ago",
+      "time": "9h ago",
       "timestamp": 1777501338
     },
     {
@@ -168,48 +448,18 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777500305
     },
     {
-      "title": "Putin, Trump discuss Iran war, Ukraine ceasefire in call",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-trump-discuss-iran-war-ukraine-ceasefire-call",
-      "summary": "Putin, Trump discuss Iran war, Ukraine ceasefire in call\n\n    \n    \n\n        \n    \n                Russian President Vladimir Putin and US President Donald Trump held a phone call i",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777500272
-    },
-    {
-      "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
-      "summary": "Organisers of a Gaza-bound aid mission say their vessels are being intercepted by Israeli military speedboats.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777499948
-    },
-    {
-      "title": "CIDH otorga medidas cautelares en favor de abogado argentino detenido en Venezuela",
+      "title": "Cidh otorga medidas cautelares en favor de abogado argentino detenido en Venezuela",
       "link": "https://efectococuyo.com/internacionales/cidh-otorga-medidas-cautelares-en-favor-de-abogado-argentino-detenido-en-venezuela/",
-      "summary": "Consideran que el abogado se encuentra en una situación de \"gravedad y urgencia\"\nThe post CIDH otorga medidas cautelares en favor de abogado argentino detenido en Venezuela appeared first on Efecto C",
+      "summary": "Consideran que el abogado se encuentra en una situación de \"gravedad y urgencia\"\nThe post Cidh otorga medidas cautelares en favor de abogado argentino detenido en Venezuela appeared first on Efecto C",
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777499793
-    },
-    {
-      "title": "El Rey evita invitar personalmente a Delcy Rodríguez a la Cumbre Iberoamerica y sólo pide a Venezuela representación al más alto nivel",
-      "link": "https://www.elmundo.es/espana/2026/04/29/69f24c03e85ece141c8b45a6.html",
-      "summary": "Se han elaborado dos tipos de invitaciones según la situación en la región: nominales o por países&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "time": "2h ago",
-      "timestamp": 1777499660
     },
     {
       "title": "Tribunal estadounidense no confirmó que Maduro es colombiano, como dijo Blanca Rosa Mármol",
@@ -218,18 +468,8 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777499419
-    },
-    {
-      "title": "Israel intercepts Global Sumud boats, demands activists halt their mission",
-      "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
-      "summary": "Seven out of 58 vessels captured by Israel near Crete as flotilla aims to deliver aid to Gaza under blockade.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777499183
     },
     {
       "title": "¿Sabes cuáles películas y series la rompen en Netflix Venezuela esta semana?",
@@ -238,18 +478,8 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777498870
-    },
-    {
-      "title": "Gaza-bound aid ship intercepted by Israeli forces",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-bound-aid-ship-intercepted-israeli-forces",
-      "summary": "Gaza-bound aid ship intercepted by Israeli forces \n\n    \n    \n\n        \n    \n                Organisers of a humanitarian vessel heading to Gaza said Israeli military speedboats app",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777498767
     },
     {
       "title": "Where Is Iran’s Enriched Uranium?",
@@ -258,7 +488,7 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777498733
     },
     {
@@ -268,18 +498,8 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777498685
-    },
-    {
-      "title": "Ocho horas con Aldama",
-      "link": "https://www.elmundo.es/espana/2026/04/29/69f2689ffc6c83fb6f8b45c1.html",
-      "summary": "Como en una película, el delincuente confeso del sanchismo nos dio la mano para colarnos con él en las entrañas más negras del poder. Fue conmovedor cuando explicó que incluso Ábalos tenía sus límites",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "time": "2h ago",
-      "timestamp": 1777498451
     },
     {
       "title": "Key Trio’s Return to Training Boosts Barcelona’s End-of-Season Morale",
@@ -288,18 +508,8 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "10h ago",
       "timestamp": 1777498370
-    },
-    {
-      "title": "UAE quits OPEC",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss",
-      "summary": "The UAE announced it’s withdrawing from OPEC on May 1st.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777498222
     },
     {
       "title": "Morocco Reiterates Support for Mali’s Stability After Deadly Attacks",
@@ -308,7 +518,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497611
     },
     {
@@ -318,7 +528,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497540
     },
     {
@@ -328,7 +538,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497461
     },
     {
@@ -338,18 +548,8 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497360
-    },
-    {
-      "title": "Trump calls UAE exit from Opec ‘great’, says it could lower prices",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-calls-uae-exit-opec-great-says-it-could-lower-prices",
-      "summary": "Trump calls UAE exit from Opec ‘great’, says it could lower prices\n\n    \n    \n\n        \n    \n                US President Donald Trump praised the UAE's decision to leave Opec, call",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777497344
     },
     {
       "title": "Flick to Sign New Barcelona Contract",
@@ -358,7 +558,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497283
     },
     {
@@ -368,7 +568,7 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497220
     },
     {
@@ -378,7 +578,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497079
     },
     {
@@ -388,18 +588,8 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "2h ago",
+      "time": "11h ago",
       "timestamp": 1777497000
-    },
-    {
-      "title": "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
-      "link": "https://www.aljazeera.com/sports/2026/4/29/arsenal-cruelly-denied-penalty-by-var-in-champions-league-tie-at-atletico?traffic_source=rss",
-      "summary": "Arsenal scored one penalty, but VAR controversially denied them another in a 1-1 semifinal draw at Atletico Madrid.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "3h ago",
-      "timestamp": 1777496928
     },
     {
       "title": "\"Los ministros le cogían el teléfono a Koldo porque era un hombre del presidente\": Aldama dispara una y otra vez contra Sánchez",
@@ -408,17 +598,17 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777496328
     },
     {
-      "title": "Aldama inunda del Supremo de detalles demoledores sobre sobornos \"protegidos\" por Sánchez y financiación ilegal del PSOE",
+      "title": "Aldama inunda el Supremo de detalles demoledores sobre sobornos \"protegidos\" por Sánchez y financiación ilegal del PSOE",
       "link": "https://www.elmundo.es/espana/2026/04/29/69f2526cfc6c8379748b4590.html",
       "summary": "El empresario declara que le pidieron que se encargara de recaudar las mordidas en efectivo, que se hacían llegar al partido camufladas de donaciones&nbsp;Leer",
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777496310
     },
     {
@@ -428,18 +618,8 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777496292
-    },
-    {
-      "title": "New Florida map boosts Republican seats amid national redistricting fight",
-      "link": "https://www.aljazeera.com/news/2026/4/29/new-florida-map-boosts-republican-seats-amid-national-redistricting-fight?traffic_source=rss",
-      "summary": "Florida has become latest state to redraw map, as national electoral landscape transforms before midterm elections.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "3h ago",
-      "timestamp": 1777496192
     },
     {
       "title": "GITEX Future Health Africa: Morocco Pitches Itself as Africa’s Health Hub",
@@ -448,7 +628,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777496114
     },
     {
@@ -458,28 +638,8 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777496075
-    },
-    {
-      "title": "Elon Musk se debate entre la candidez y la ira en su segundo día de juicio: “¡Sin mí, OpenAI no existiría!”",
-      "link": "https://elpais.com/tecnologia/2026-04-29/elon-musk-se-debate-entre-la-candidez-y-la-ira-en-su-segundo-dia-de-juicio-sin-mi-openai-no-existiria.html",
-      "summary": "En la vista, el multimillonario se presentó como un hombre bueno que quiere salvar a la humanidad de los especuladores de la inteligencia artificial, pero se mostró enfadado ante las preguntas de los",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "time": "3h ago",
-      "timestamp": 1777495984
-    },
-    {
-      "title": "Trump, Putin talk about each other’s wars in Wednesday phone call",
-      "link": "https://www.politico.com/news/2026/04/29/trump-putin-call-ukraine-iran-00899016?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Trump held out the possibility that his war in Iran could wind down “on a similar timetable” as Russia’s now four-year-long incursion in Ukraine.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "3h ago",
-      "timestamp": 1777495602
     },
     {
       "title": "Where Is Pakistan Again?",
@@ -488,7 +648,7 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777494765
     },
     {
@@ -498,7 +658,7 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "3h ago",
+      "time": "11h ago",
       "timestamp": 1777494288
     },
     {
@@ -508,7 +668,7 @@
       "source": "Stimson Center",
       "region": "academic",
       "tag": "academic",
-      "time": "3h ago",
+      "time": "12h ago",
       "timestamp": 1777493963
     },
     {
@@ -518,18 +678,8 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "4h ago",
+      "time": "12h ago",
       "timestamp": 1777493258
-    },
-    {
-      "title": "US Federal Reserve officials poised to dissent on rate cuts demanded by Trump",
-      "link": "https://www.politico.com/news/2026/04/29/fed-rates-powell-warsh-inflation-00898525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The extraordinary move would mean that Warsh will have his work cut out for him if he wants to deliver on Trump's demands for lower borrowing costs.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "4h ago",
-      "timestamp": 1777490615
     },
     {
       "title": "5 Takeaways from 2025’s Cocaine Seizure Data",
@@ -538,18 +688,18 @@
       "source": "InSight Crime",
       "region": "latam",
       "tag": "latam",
-      "time": "4h ago",
+      "time": "13h ago",
       "timestamp": 1777489950
     },
     {
-      "title": "Camila, una enfermera venezolana, ya tiene permiso de trabajo y residencia provisional: “Estoy impactada y contenta”",
-      "link": "https://elpais.com/espana/2026-04-29/camila-una-enfermera-venezolana-ya-tiene-permiso-de-trabajo-y-residencia-provisional-estoy-impactada-y-contenta.html",
-      "summary": "Los migrantes empiezan a recibir las primeras solicitudes admitidas a trámite de la regularización extraordinaria",
-      "source": "El Pais",
+      "title": "Feijóo, en Almería: “No queremos instaurar la Andalucía de los Ábalos y de la pandilla de Montero”",
+      "link": "https://www.lavanguardia.com/politica/20260429/11525973/feijoo-almeria-queremos-instaurar-andalucia-abalos-pandilla-montero.html",
+      "summary": "El líder del PP reta a Sánchez a tomar acciones tras las revelaciones de Aldama: “Si a esta hora no se ha querellado, entonces no era una inventada”",
+      "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "5h ago",
-      "timestamp": 1777489614
+      "time": "13h ago",
+      "timestamp": 1777489383
     },
     {
       "title": "Cabello insiste a la oposición: ¿Para qué quieren elecciones mañana? ¿Para que no reconozcan el resultado?",
@@ -558,18 +708,8 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "5h ago",
+      "time": "13h ago",
       "timestamp": 1777487503
-    },
-    {
-      "title": "Aldama carga sin pruebas contra Sánchez: “Si hay una jerarquía, está en el escalafón uno”",
-      "link": "https://elpais.com/espana/2026-04-29/aldama-carga-sin-pruebas-contra-sanchez-si-hay-una-jerarquia-esta-en-el-escalafon-uno.html",
-      "summary": "El comisionista asegura que llevó al Ministerio de Transportes mordidas en efectivo de hasta 250.000 euros",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "time": "5h ago",
-      "timestamp": 1777487441
     },
     {
       "title": "Trump’s War Is Damaging U.S. Arms Exports to Allies",
@@ -578,38 +718,8 @@
       "source": "Foreign Policy",
       "region": "global",
       "tag": "global",
-      "time": "5h ago",
+      "time": "13h ago",
       "timestamp": 1777486970
-    },
-    {
-      "title": "Entre 2025 y lo que va de 2026, Espacio Público registra 329 violaciones a la libertad de expresión",
-      "link": "https://efectococuyo.com/la-humanidad/entre-2025-y-lo-que-va-de-2026-espacio-publico-registra-329-violaciones-a-la-libertad-de-expresion/",
-      "summary": "La intimidación se posicionó como el tipo de agresión más frecuente con 79 casos (33,19 %), seguida por la censura con 63 casos (26,47 %). Otras modalidades registradas fueron el hostigamiento judici",
-      "source": "Efecto Cocuyo",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "5h ago",
-      "timestamp": 1777486868
-    },
-    {
-      "title": "Barbacid siguió recaudando fondos de donantes durante mes y medio aunque sabía que su estudio del cáncer de páncreas estaba retirado",
-      "link": "https://elpais.com/ciencia/2026-04-29/barbacid-siguio-recaudando-fondos-de-donantes-durante-mes-y-medio-a-pesar-de-saber-que-su-estudio-del-cancer-de-pancreas-estaba-retirado.html",
-      "summary": "La Fundación Cris estudia qué hacer con los 3,6 millones recaudados tras una campaña mediática que ensalzó los resultados obtenidos en 45 ratones",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "time": "5h ago",
-      "timestamp": 1777486502
-    },
-    {
-      "title": "Can South Africa’s Apartheid-Era Negotiator Chart a Smooth Course in the U.S.?",
-      "link": "https://foreignpolicy.com/2026/04/29/south-africa-ambassador-us-roelf-meyer-bilateral-relations-trump/",
-      "summary": "Pretoria stakes high hopes on its controversial pick for ambassador to Washington.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "time": "6h ago",
-      "timestamp": 1777485984
     },
     {
       "title": "Japan’s Tentative Entry Into a Shifting Global Arms Market",
@@ -618,18 +728,8 @@
       "source": "Stimson Center",
       "region": "academic",
       "tag": "academic",
-      "time": "6h ago",
+      "time": "14h ago",
       "timestamp": 1777485266
-    },
-    {
-      "title": "Magyar targets May deal to unlock €10B of EU funds for Hungary",
-      "link": "https://www.politico.eu/article/peter-magyar-ursula-von-der-leyen-may-deal-unlock-eu-funds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "“Negotiations are progressing very well,” Magyar says after meeting Commission President Ursula von der Leyen, with a follow-up meeting penciled in for late May.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "6h ago",
-      "timestamp": 1777484724
     },
     {
       "title": "Human Geography: The Strategic Edge in a Complex World",
@@ -638,68 +738,8 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "6h ago",
+      "time": "14h ago",
       "timestamp": 1777483858
-    },
-    {
-      "title": "Nador : Le projet DoubleTree by Hilton lancé à la lagune de Marchica",
-      "link": "https://www.yabiladi.com/articles/details/193516/nador-projet-doubletree-hilton-lance.html",
-      "summary": "Le programme de développement de la lagune de Marchica à Nador a franchi une nouvelle étape avec le lancement dun projet DoubleTree by Hilton Hotel & Residences à Atalayoun.",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "6h ago",
-      "timestamp": 1777483800
-    },
-    {
-      "title": "Ramadan et Aïd : Les dépenses des Marocains augmentent de 40% (Visa)",
-      "link": "https://www.yabiladi.com/articles/details/193513/ramadan-depenses-marocains-augmentent-visa.html",
-      "summary": "Les dépenses au Maroc ont fortement augmenté pendant le mois de ramadan et lAïd al-Fitr, avec une hausse de 40% sur les cartes Visa Premium par rapport à lannée précédente. Cette tendance est stimulée",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "6h ago",
-      "timestamp": 1777483200
-    },
-    {
-      "title": "Washington réaffirme sa «reconnaissance de la souveraineté du Maroc sur le Sahara»",
-      "link": "https://www.yabiladi.com/articles/details/193512/washington-reaffirme-reconnaissance-souverainete-maroc.html",
-      "summary": "Les États-Unis ont réaffirmé, ce mercredi, leur «reconnaissance de la souveraineté du Maroc sur le Sahara» et leur soutien à linitiative marocaine dautonomie comme «l’unique base dune solution juste e",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "time": "6h ago",
-      "timestamp": 1777482900
-    },
-    {
-      "title": "Mamdani would ask King Charles to return crown jewel to India",
-      "link": "https://www.politico.com/news/2026/04/29/mamdani-would-ask-king-charles-to-return-crown-jewel-to-india-00898523?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The mayor’s remarks fit into a standoff posture toward the royal family.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "7h ago",
-      "timestamp": 1777482146
-    },
-    {
-      "title": "Begoña Gómez denuncia a Vito Quiles por una agresión en un restaurante de Madrid",
-      "link": "https://elpais.com/espana/2026-04-29/begona-gomez-anuncia-que-denunciara-a-vito-quiles-por-una-agresion-en-una-cafeteria.html",
-      "summary": "El agitador ultra abordó a la esposa de Pedro Sánchez en el interior del local, según fuentes de La Moncloa",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "time": "7h ago",
-      "timestamp": 1777481306
-    },
-    {
-      "title": "Récupérer les superprofits de TotalEnergies : oui, mais comment ?",
-      "link": "https://www.politico.eu/article/recuperer-les-superprofits-de-totalenergies-oui-mais-comment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "TotalEnergies a annoncé un bénéfice net en hausse de 51%. Des profits que des ONG et une partie de la classe politique appellent à taxer et redistribuer.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "time": "8h ago",
-      "timestamp": 1777478290
     },
     {
       "title": "North Africa Regional Outlook: April 29, 2026",
@@ -708,7 +748,7 @@
       "source": "Stimson Center",
       "region": "academic",
       "tag": "academic",
-      "time": "8h ago",
+      "time": "16h ago",
       "timestamp": 1777478209
     },
     {
@@ -718,7 +758,7 @@
       "source": "Der Spiegel",
       "region": "europe",
       "tag": "eu",
-      "time": "9h ago",
+      "time": "17h ago",
       "timestamp": 1777474620
     },
     {
@@ -728,7 +768,7 @@
       "source": "InSight Crime",
       "region": "latam",
       "tag": "latam",
-      "time": "9h ago",
+      "time": "17h ago",
       "timestamp": 1777474521
     },
     {
@@ -738,18 +778,8 @@
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "10h ago",
+      "time": "18h ago",
       "timestamp": 1777471657
-    },
-    {
-      "title": "Juicio por el caso mascarillas | Aldama reconoce las mordidas a Ábalos y Koldo: “Les llegué a pagar entre tres y cuatro millones”",
-      "link": "https://www.lavanguardia.com/politica/20260429/11524537/juicio-caso-mascarillas-declaraciones-abalos-koldo-aldama-en-directo.html",
-      "summary": "El juicio a José Luis Ábalos, Koldo García y Víctor de Aldama por presuntos amaños en contratos de mascarillas a cambio de comisiones encara su cuarta semana",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "time": "11h ago",
-      "timestamp": 1777467194
     },
     {
       "title": "El PSOE pedirá amparo al Supremo ante las “injurias y calumnias” de Aldama contra Sánchez",
@@ -758,7 +788,7 @@
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "11h ago",
+      "time": "19h ago",
       "timestamp": 1777465391
     },
     {
@@ -768,7 +798,7 @@
       "source": "ECFR",
       "region": "europe",
       "tag": "eu",
-      "time": "11h ago",
+      "time": "20h ago",
       "timestamp": 1777465093
     },
     {
@@ -778,7 +808,7 @@
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "13h ago",
+      "time": "21h ago",
       "timestamp": 1777459391
     },
     {
@@ -788,7 +818,7 @@
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "15h ago",
+      "time": "1d ago",
       "timestamp": 1777450399
     },
     {
@@ -798,7 +828,7 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "16h ago",
+      "time": "1d ago",
       "timestamp": 1777449654
     },
     {
@@ -808,7 +838,7 @@
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
-      "time": "16h ago",
+      "time": "1d ago",
       "timestamp": 1777447926
     },
     {
@@ -818,18 +848,8 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "16h ago",
+      "time": "1d ago",
       "timestamp": 1777447834
-    },
-    {
-      "title": "The Real Threat to Taiwan",
-      "link": "https://www.foreignaffairs.com/china/real-threat-taiwan",
-      "summary": "America Is preparing for the wrong kind of crisis",
-      "source": "Foreign Affairs",
-      "region": "academic",
-      "tag": "academic",
-      "time": "20h ago",
-      "timestamp": 1777435200
     },
     {
       "title": "How the War Saved the Iranian Regime",
@@ -838,7 +858,7 @@
       "source": "Foreign Affairs",
       "region": "academic",
       "tag": "academic",
-      "time": "20h ago",
+      "time": "1d ago",
       "timestamp": 1777435200
     },
     {
@@ -848,7 +868,17 @@
       "source": "Foreign Affairs",
       "region": "academic",
       "tag": "academic",
-      "time": "20h ago",
+      "time": "1d ago",
+      "timestamp": 1777435200
+    },
+    {
+      "title": "The Real Threat to Taiwan",
+      "link": "https://www.foreignaffairs.com/china/real-threat-taiwan",
+      "summary": "America Is preparing for the wrong kind of crisis",
+      "source": "Foreign Affairs",
+      "region": "academic",
+      "tag": "academic",
+      "time": "1d ago",
       "timestamp": 1777435200
     },
     {
@@ -898,18 +928,8 @@
       "source": "War on the Rocks",
       "region": "global",
       "tag": "global",
-      "time": "1d ago",
+      "time": "2d ago",
       "timestamp": 1777361431
-    },
-    {
-      "title": "The Strange Rise and Fall of Russia’s Crowd Sourced Defense Industry",
-      "link": "https://warontherocks.com/the-strange-rise-and-fall-of-russias-crowd-sourced-defense-industry/",
-      "summary": "In the early days of the full-scale invasion of Ukraine in February 2022, much that could go wrong did for the Russian military. As one volunteer organization called KatyaValya recalled:We called all",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "1d ago",
-      "timestamp": 1777360550
     },
     {
       "title": "Let Iran Defeat Itself",
@@ -918,17 +938,7 @@
       "source": "Foreign Affairs",
       "region": "academic",
       "tag": "academic",
-      "time": "1d ago",
-      "timestamp": 1777348800
-    },
-    {
-      "title": "The Disposable Oligarchs",
-      "link": "https://www.foreignaffairs.com/united-states/disposable-oligarchs",
-      "summary": "Why wealthy elites come to regret their bargains with authoritarians.",
-      "source": "Foreign Affairs",
-      "region": "academic",
-      "tag": "academic",
-      "time": "1d ago",
+      "time": "2d ago",
       "timestamp": 1777348800
     },
     {
@@ -950,16 +960,6 @@
       "tag": "academic",
       "time": "2d ago",
       "timestamp": 1777318097
-    },
-    {
-      "title": "Confronting the Past and Present, Lessons from Chornobyl",
-      "link": "https://warontherocks.com/confronting-the-past-and-present-lessons-from-chornobyl/",
-      "summary": "Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for&#160;War on the Rocks&#160;members. Each Monday, we bring you a cu",
-      "source": "War on the Rocks",
-      "region": "global",
-      "tag": "global",
-      "time": "2d ago",
-      "timestamp": 1777308376
     },
     {
       "title": "The War Room newsletter: The best generals in history",
@@ -1002,16 +1002,6 @@
       "timestamp": 1777279428
     },
     {
-      "title": "The Iran War’s Threat to Turkey",
-      "link": "https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey",
-      "summary": "Even on the sidelines, Ankara faces blowback.",
-      "source": "Foreign Affairs",
-      "region": "academic",
-      "tag": "academic",
-      "time": "2d ago",
-      "timestamp": 1777262400
-    },
-    {
       "title": "The Boss in the Shadows: Rosalinda González Valencia’s Role in the CJNG",
       "link": "https://insightcrime.org/news/boss-in-shadows-rosalinda-gonzalez-valencias-role-in-cjng/",
       "summary": "The Boss in the Shadows: Rosalinda González Valencia&#8217;s Role in the CJNG\n\nRosalinda González Valencia, alias \"La Jefa,\" was involved in illicit activities long before meeting her husband, alias \"",
@@ -1028,7 +1018,7 @@
       "source": "ECFR",
       "region": "europe",
       "tag": "eu",
-      "time": "5d ago",
+      "time": "6d ago",
       "timestamp": 1777007760
     },
     {
@@ -1158,7 +1148,7 @@
       "source": "Der Spiegel",
       "region": "europe",
       "tag": "eu",
-      "time": "8d ago",
+      "time": "9d ago",
       "timestamp": 1776759480
     },
     {
@@ -1323,5 +1313,16 @@
     }
   ],
   "failed_sources": [],
-  "total": 132
+  "total": 131,
+  "economic": {
+    "oil": null,
+    "gas": null,
+    "rates": {
+      "EUR": 0.8543,
+      "GBP": 0.7402,
+      "MAD": 0,
+      "date": "2026-04-29"
+    }
+  },
+  "events": []
 }
