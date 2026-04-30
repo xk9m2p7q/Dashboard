@@ -1,15 +1,45 @@
 {
-  "updated": "2026-04-30T08:43:53.419483+00:00",
+  "updated": "2026-04-30T08:57:04.810636+00:00",
   "articles": [
     {
-      "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en el juicio del Supremo tras las acusaciones de Aldama",
+      "title": "Juicio por la trama de las mascarillas, en directo | Koldo García asegura que Jésica chantajeaba a Ábalos con publicar “cosas personales”",
       "link": "https://elpais.com/espana/2026-04-30/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
       "summary": "El comisionista trató de implicar al presidente del Gobierno y apuntar a una financiación ilegal del PSOE",
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "2m ago",
-      "timestamp": 1777538446
+      "time": "3m ago",
+      "timestamp": 1777539203
+    },
+    {
+      "title": "Expectativas salariales en Venezuela: ¿habrá un aumento significativo este Primero de Mayo?",
+      "link": "https://www.elnacional.com/2026/04/aumento-salarial-venezuela-primero-mayo/",
+      "summary": "La presidenta encargada Delcy Rodríguez ha prometido un ajuste \"responsable\" frente a un salario mínimo estancado en 130 bolívares. Mientras los trabajadores exigen ingresos que cubran la canasta bási",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "time": "11m ago",
+      "timestamp": 1777538700
+    },
+    {
+      "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
+      "link": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss",
+      "summary": "With shipping disrupted by US-Iran tensions, Islamabad activates overland corridor to move stranded cargo into Iran.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "11m ago",
+      "timestamp": 1777538691
+    },
+    {
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "time": "12m ago",
+      "timestamp": 1777538649
     },
     {
       "title": "El PSOE se lanza contra los medios por \"dar pábulo a las mentiras\" de Aldama",
@@ -18,7 +48,7 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "7m ago",
+      "time": "20m ago",
       "timestamp": 1777538150
     },
     {
@@ -28,7 +58,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "8m ago",
+      "time": "21m ago",
       "timestamp": 1777538100
     },
     {
@@ -38,7 +68,7 @@
       "source": "El Nacional",
       "region": "venezuela",
       "tag": "latam",
-      "time": "13m ago",
+      "time": "26m ago",
       "timestamp": 1777537800
     },
     {
@@ -48,7 +78,7 @@
       "source": "Yabiladi",
       "region": "morocco",
       "tag": "mena",
-      "time": "18m ago",
+      "time": "31m ago",
       "timestamp": 1777537500
     },
     {
@@ -58,7 +88,7 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "18m ago",
+      "time": "31m ago",
       "timestamp": 1777537500
     },
     {
@@ -68,18 +98,28 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "20m ago",
+      "time": "33m ago",
       "timestamp": 1777537354
     },
     {
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "time": "32m ago",
-      "timestamp": 1777536637
+      "title": "Myanmar’s blanket prison term reduction trims Aung San Suu Kyi’s sentence",
+      "link": "https://www.aljazeera.com/news/2026/4/30/myanmar-mass-prison-sentence-cut-trims-aung-san-suu-kyis-sentence?traffic_source=rss",
+      "summary": "The deposed elected leader has been granted two amnesties this month, but her remaining sentence remains unclear.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "34m ago",
+      "timestamp": 1777537347
+    },
+    {
+      "title": "Zaragoza goalkeeper given 13-game ban after derby punch provoked brawl",
+      "link": "https://www.aljazeera.com/sports/2026/4/30/zaragoza-goalkeeper-given-13-game-ban-after-derby-punch-provoked-brawl?traffic_source=rss",
+      "summary": "Esteban Andrada banned for 13 matches and teammate Dani Tasende for two after pitch melee in La Liga 2.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "time": "46m ago",
+      "timestamp": 1777536620
     },
     {
       "title": "Incidencias técnicas en el índice Ibex han mostrado una caída del 5% durante parte de la sesión",
@@ -88,7 +128,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "38m ago",
+      "time": "51m ago",
       "timestamp": 1777536301
     },
     {
@@ -98,7 +138,7 @@
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
-      "time": "39m ago",
+      "time": "52m ago",
       "timestamp": 1777536217
     },
     {
@@ -108,7 +148,7 @@
       "source": "Al Jazeera",
       "region": "mena",
       "tag": "mena",
-      "time": "43m ago",
+      "time": "56m ago",
       "timestamp": 1777536003
     },
     {
@@ -192,16 +232,6 @@
       "timestamp": 1777531350
     },
     {
-      "title": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada",
-      "link": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss",
-      "summary": "Iran&#039;s Mehdi Taj-led delegation turns back at Toronto airport due to &#039;unacceptable behaviour of immigration officials&#039;.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777530178
-    },
-    {
       "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
       "link": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
       "summary": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
@@ -232,16 +262,6 @@
       "timestamp": 1777528800
     },
     {
-      "title": "Why is India turning to crocodiles and snakes to ‘fence’ Bangladesh border?",
-      "link": "https://www.aljazeera.com/features/2026/4/30/why-is-india-turning-to-crocodiles-and-snakes-to-fence-bangladesh-border?traffic_source=rss",
-      "summary": "India wants to  the border with Bangladesh badly — even if it takes venomous snakes or crocodiles.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "2h ago",
-      "timestamp": 1777528705
-    },
-    {
       "title": "Gaza-bound flotilla says hundreds stranded at sea following Israeli interception",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-bound-flotilla-says-hundreds-stranded-sea-following-israeli",
       "summary": "Gaza-bound flotilla says hundreds stranded at sea following Israeli interception\n\n    \n    \n\n        \n    \n                The&nbsp;Global Sumud Flotilla indicated in a post on X th",
@@ -250,16 +270,6 @@
       "tag": "mena",
       "time": "3h ago",
       "timestamp": 1777527020
-    },
-    {
-      "title": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
-      "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
-      "summary": "Several European leaders have called for a discussion on using the bloc&#039;s mutual assistance clause amid US tensions.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "time": "3h ago",
-      "timestamp": 1777526635
     },
     {
       "title": "Trump claims Putin offered to help with Iran's enriched uranium",
@@ -278,7 +288,7 @@
       "source": "Middle East Eye",
       "region": "mena",
       "tag": "mena",
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1777524258
     },
     {
@@ -418,7 +428,7 @@
       "source": "BBC World",
       "region": "global",
       "tag": "global",
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1777513420
     },
     {
@@ -462,19 +472,9 @@
       "timestamp": 1777510800
     },
     {
-      "title": "Trabajadores de Guayana sobre el 1 de mayo: “No aceptaremos chantajes de que no hay condiciones para un aumento salarial”",
-      "link": "https://www.elnacional.com/2026/04/trabajadores-de-guayana-sobre-1-de-mayo-no-aceptaremos-chantajes-de-que-no-hay-condiciones-para-un-aumento-salarial/",
-      "summary": "Este viernes se llevará a cabo una movilización desde la ‘Esquina caliente’ de Unare hasta el Centro Comercial Atlántico para exigir un salario mínimo que pueda costear la canasta básica alimentaria.",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "time": "7h ago",
-      "timestamp": 1777510200
-    },
-    {
-      "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
+      "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war",
       "link": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Defence Secretary Pete Hegseth sparred with Democratic lawmakers during a nearly six-hour-long hearing, in his first time facing questions under oath since the start of the Iran war.",
+      "summary": "The hours-long hearing was the first time the US defence secretary had faced questions under oath since the conflict began.",
       "source": "BBC World",
       "region": "global",
       "tag": "global",
@@ -498,7 +498,7 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1777499793
     },
     {
@@ -508,7 +508,7 @@
       "source": "Efecto Cocuyo",
       "region": "venezuela",
       "tag": "latam",
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1777499419
     },
     {
@@ -648,7 +648,7 @@
       "source": "Morocco World News",
       "region": "morocco",
       "tag": "mena",
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1777496114
     },
     {
@@ -658,7 +658,7 @@
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1777496075
     },
     {
@@ -738,7 +738,7 @@
       "source": "Stimson Center",
       "region": "academic",
       "tag": "academic",
-      "time": "14h ago",
+      "time": "15h ago",
       "timestamp": 1777485266
     },
     {
@@ -758,7 +758,7 @@
       "source": "Stimson Center",
       "region": "academic",
       "tag": "academic",
-      "time": "16h ago",
+      "time": "17h ago",
       "timestamp": 1777478209
     },
     {
@@ -778,7 +778,7 @@
       "source": "InSight Crime",
       "region": "latam",
       "tag": "latam",
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1777474521
     },
     {
@@ -1008,7 +1008,7 @@
       "source": "ECFR",
       "region": "europe",
       "tag": "eu",
-      "time": "2d ago",
+      "time": "3d ago",
       "timestamp": 1777279428
     },
     {
@@ -1118,7 +1118,7 @@
       "source": "Der Spiegel",
       "region": "europe",
       "tag": "eu",
-      "time": "7d ago",
+      "time": "8d ago",
       "timestamp": 1776847560
     },
     {
@@ -1325,8 +1325,14 @@
   "failed_sources": [],
   "total": 132,
   "economic": {
-    "oil": null,
-    "gas": null,
+    "regional": {
+      "eur_mad": {
+        "value": 10.82,
+        "label": "EUR / MAD",
+        "sub": "Morocco dirham",
+        "date": "2026-04-30"
+      }
+    },
     "rates": {
       "EUR": 0.8556,
       "GBP": 0.7412,
