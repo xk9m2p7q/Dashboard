@@ -1,6 +1,325 @@
 {
-  "updated": "2026-05-09T20:11:12.841553+00:00",
+  "updated": "2026-05-09T22:31:14.053333+00:00",
   "articles": [
+    {
+      "title": "Última hora del brote de hantavirus, en directo | La ministra de Sanidad afirma que “está todo preparado” para la llegada del barco: “Es un operativo inédito”",
+      "link": "https://elpais.com/sociedad/2026-05-09/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+      "summary": "El barco con los pasajeros, todos asintomáticos, llegará a Canarias en torno a las 5.30 (hora local) y desembarcarán a las 8.00 | La mujer hospitalizada en Alicante que estuvo en contacto con una de l",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "6m ago",
+      "timestamp": 1778365385
+    },
+    {
+      "title": "Orgullo nacional: Vinotinto sub 17 femenina clasifica al Mundial después de 10 años",
+      "link": "https://www.elnacional.com/2026/05/orgullo-nacional-vinotinto-sub-17-femenina-clasifica-al-mundial-despues-de-10-anos/",
+      "summary": "El gol que permitió la victoria de las venezolanas se dio al minuto 24 del juego, cuando Andrea Suárez envió el balón al fondo de la red.\nThe post Orgullo nacional: Vinotinto sub 17 femenina clasifica",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "10m ago",
+      "timestamp": 1778365151
+    },
+    {
+      "title": "Canarias bloquea el desembarco: o dura sólo 24 horas, o no se hará",
+      "link": "https://www.elmundo.es/espana/2026/05/10/69ffafd2e85eceb2488b456d.html",
+      "summary": "A ocho horas de la llegada del buque a Tenerife, Canarias se niega a aceptar las condiciones del Gobierno central, y no hay permiso para el desembarco que observa medio mundo&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "12m ago",
+      "timestamp": 1778365030
+    },
+    {
+      "title": "Más de 100 personas enfermas con norovirus en un crucero que zarpó de Florida",
+      "link": "https://www.elnacional.com/2026/05/mas-de-100-personas-enfermas-con-norovirus-en-un-crucero-que-zarpo-de-florida/",
+      "summary": "102 pasajeros y 13 miembros de la tripulación del crucero Caribbean Princess, que se encuentra navegando cerca a las Bahamas, han reportado estar enfermos con el virus, que produce vómito y diarrea.\nT",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "22m ago",
+      "timestamp": 1778364423
+    },
+    {
+      "title": "Après l’attaque d’Es-Smara, le Polisario dénonce une offensive diplomatique en ménageant Washington",
+      "link": "https://www.yabiladi.com/articles/details/194262/apres-l-attaque-d-es-smara-polisario-denonce.html",
+      "summary": "Quelques jours après les condamnations internationales suscitées par les tirs visant des cibles civiles à Es-Smara, le Polisario contre-attaque sur le terrain politique et médiatique. Tout en dénonçan",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "31m ago",
+      "timestamp": 1778363880
+    },
+    {
+      "title": "Venezolanos en España condenaron el asesinato de Víctor Hugo Quero",
+      "link": "https://www.elnacional.com/2026/05/venezolanos-en-espana-condenan-el-asesinato-de-victor-hugo-quero/",
+      "summary": "Demandan \"una investigación independiente, transparente e imparcial sobre la muerte de Víctor Hugo Quero Navas\".\nThe post Venezolanos en España condenaron el asesinato de Víctor Hugo Quero appeared fi",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "32m ago",
+      "timestamp": 1778363863
+    },
+    {
+      "title": "Ben Gvir branded 'hangman of the century' over push for Palestinian executions",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ben-gvir-branded-hangman-century-over-push-palestinian-executions",
+      "summary": "Ben Gvir branded 'hangman of the century' over push for Palestinian executions\n\n    \n    \n\n        \n    \n                A human rights group, the Red Ribbons Campaign, has “condemned in the strongest",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "50m ago",
+      "timestamp": 1778362758
+    },
+    {
+      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
+      "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "52m ago",
+      "timestamp": 1778362623
+    },
+    {
+      "title": "Falleció Germán Vargas Lleras, ex vicepresidente colombiano",
+      "link": "https://www.elnacional.com/2026/05/fallecio-german-vargas-lleras-ex-vicepresidente-colombiano/",
+      "summary": "El político, nieto del expresidente liberal Carlos Lleras Restrepo (1966-1970), fue vicepresidente de Colombia entre 2014 y 2017, en el segundo mandato del presidente Juan Manuel Santos.\nThe post Fall",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "53m ago",
+      "timestamp": 1778362573
+    },
+    {
+      "title": "Brazil judge bars law that could reduce Bolsonaro’s 27-year prison sentence",
+      "link": "https://www.aljazeera.com/news/2026/5/9/brazil-judge-bars-law-that-could-reduce-bolsonaros-27-year-prison-sentence?traffic_source=rss",
+      "summary": "Supreme Court Justice Alexandre de Moraes suspends use of law to reduce prison sentences, pending further review.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "54m ago",
+      "timestamp": 1778362493
+    },
+    {
+      "title": "Delcy Rodríguez exige mano dura contra jueces que cobran por la amnistía",
+      "link": "https://efectococuyo.com/politica/delcy-rodriguez-exige-mano-dura-contra-jueces-que-cobran-por-la-amnistia/",
+      "summary": "La mandataria afirmó que desde enero tiene una \"visión distinta\" de Venezuela y que conoce \"más a profundidad los problemas\" del país \nThe post Delcy Rodríguez exige mano dura contra jueces que cobran",
+      "source": "Efecto Cocuyo",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1778361975
+    },
+    {
+      "title": "Lebanon says Israeli strikes killed 39",
+      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778361794
+    },
+    {
+      "title": "Delcy Rodríguez ordena investigar denuncias de cobros por la amnistía: “Eso debe cesar”",
+      "link": "https://www.elnacional.com/2026/05/delcy-rodriguez-ordena-investigar-denuncias-de-cobros-por-la-amnistia-eso-debe-cesar/",
+      "summary": "Familiares de presos políticos habían denunciado el pasado marzo cobros en dólares en algunos tribunales para entregarles la notificación que otorga la libertad plena a sus allegados como parte de la ",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1778361231
+    },
+    {
+      "title": "El mundo, pendiente de un puerto en Tenerife al que llega el crucero del brote de hantavirus: “No son pacientes ni son casos, son personas”",
+      "link": "https://elpais.com/sociedad/2026-05-09/el-mundo-pendiente-de-un-puerto-en-tenerife-al-que-llega-el-crucero-del-brote-de-hantavirus-no-son-pacientes-ni-son-casos-son-personas.html",
+      "summary": "Interior destina 325 guardias civiles y 33 policías en un operativo en el que hay 23 países implicados",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778361163
+    },
+    {
+      "title": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
+      "link": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+      "summary": "Israel continues to violate a &#039;ceasefire&#039; agreed to in October with hundreds more killed across the Strip.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778361043
+    },
+    {
+      "title": "39 in custody in Paris over banned far-right and anti-fascist marches",
+      "link": "https://www.lemonde.fr/en/france/article/2026/05/09/39-in-custody-in-paris-over-banned-far-right-and-anti-fascist-marches_6753293_7.html",
+      "summary": "They were among over 90 people detained for taking part in a group formed with the intention of committing willful group violence and carrying prohibited weapons, police said.",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778360333
+    },
+    {
+      "title": "Iran threatens to target 'American centres' if tankers are attacked",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-target-american-centres-if-tankers-are-attacked",
+      "summary": "Iran threatens to target 'American centres' if tankers are attacked\n\n    \n    \n\n        \n    \n                \nIran has warned it could target “American centres” across the region if its oil tankers c",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778360256
+    },
+    {
+      "title": "Descenso y evacuación exprés del MV Hondius ante el miedo mundial a otra pandemia: \"Es un dispositivo inédito pero se hará con las mayores garantías de seguridad\"",
+      "link": "https://www.elmundo.es/espana/2026/05/09/69ff8276e9cf4abd2c8b4593.html",
+      "summary": "Los pasajeros del 'MV Hondius' vuelan desde hoy mismo a sus países tras fondear en Tenerife. La UME se ocupará de los traslados al aeropuerto, con varios ministros en primera línea del desembarco&nbsp",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778359909
+    },
+    {
+      "title": "Narendra Modi invite le roi Mohammed VI au 4e sommet Inde-Afrique",
+      "link": "https://www.yabiladi.com/articles/details/194251/narendra-modi-invite-mohammed-sommet.html",
+      "summary": "L’ambassadeur de l’Inde au Maroc, Sanjay Rana, a remis au ministre des Affaires étrangères, Nasser Bourita, une invitation du Premier ministre indien Narendra Modi adressée au roi Mohammed VI pour par",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1778359560
+    },
+    {
+      "title": "Iran says ties with China will deepen after war, praises support",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ties-china-will-deepen-after-war-praises-support",
+      "summary": "Iran says ties with China will deepen after war, praises support\n\n    \n    \n\n        \n    \n                \nIran says it expects relations with China to expand significantly after the current conflict",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778359551
+    },
+    {
+      "title": "La Universidad Francisco Marroquín en Guatemala confirió el título honoris causa en Ciencias Sociales a Marcel Granier",
+      "link": "https://www.elnacional.com/2026/05/la-universidad-francisco-marroquin-en-guatemala-confirio-el-titulo-honoris-causa-en-ciencias-sociales-a-marcel-granier/",
+      "summary": "Durante la ceremonia participaron 216 graduandos, de un total de 265, de los cuales 101 se graduaron con honores.\nThe post La Universidad Francisco Marroquín en Guatemala confirió el título honoris ca",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1778359435
+    },
+    {
+      "title": "For the first time, Putin says he’s open to meeting Zelensky outside Russia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/for-the-first-time-putin-says-hes-open-to-meeting-zelensky-outside-russia?traffic_source=rss",
+      "summary": "Vladimir Putin changes tone, says for first time he will meet Zelenskyy in a third nation.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778359417
+    },
+    {
+      "title": "Sahara : Massad Boulos reçoit l’ambassadeur algérien",
+      "link": "https://www.yabiladi.com/articles/details/194252/sahara-massad-boulos-recoit-l-ambassadeur.html",
+      "summary": "Le conseiller spécial du président américain Donald Trump pour les affaires africaines et moyen-orientales, Massad Boulos, a rencontré samedi à Washington l’ambassadeur d’Algérie aux États-Unis, Sabri",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1778359140
+    },
+    {
+      "title": "Ben Gvir branded 'hangman of the century' over push for Palestinian executions",
+      "link": "https://www.middleeasteye.net/news/ben-gvir-branded-hangman-century-over-push-palestinian-executions",
+      "summary": "Ben Gvir branded 'hangman of the century' over push for Palestinian executions\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSat, 05/09/2026 - 21:29\n\n        \n      \n    \n ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778359139
+    },
+    {
+      "title": "¿Quién es el capitán del barco del brote de hantavirus?",
+      "link": "https://www.elnacional.com/2026/05/quien-es-el-capitan-del-barco-del-brote-de-hantavirus/",
+      "summary": "Formado para navegar entre icebergs y tormentas polares, el capitán del buque de expedición, Jan Dobrogowski, ha saltado a la conversación pública internaciona.\nThe post ¿Quién es el capitán del barco",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1778358900
+    },
+    {
+      "title": "Palestinian family says settlers forced them to exhume father’s body",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinian-family-says-settlers-forced-them-to-exhume-fathers-body?traffic_source=rss",
+      "summary": "A Palestinian family in Jenin says Israeli settlers forced them to exhume their father hours after his funeral.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1778358763
+    },
+    {
+      "title": "Three police officers killed in car bomb attack in northwest Pakistan",
+      "link": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
+      "summary": "Bomber and several fighters detonate explosives-laden vehicle near security post in Bannu, Khyber Pakhtunkhwa.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1778358577
+    },
+    {
+      "title": "Nasser Bourita représente le roi Mohammed VI à l’investiture du président de Djibouti",
+      "link": "https://www.yabiladi.com/articles/details/194250/nasser-bourita-represente-mohammed-l-investiture.html",
+      "summary": "Le ministre des Affaires étrangères, de la Coopération africaine et des Marocains résidant à létranger, Nasser Bourita, a représenté, samedi 9 mai, le roi Mohammed VI lors de la cérémonie dinvestiture",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1778358420
+    },
+    {
+      "title": "Should we be worried about the hantavirus outbreak?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/9/should-we-be-worried-about-the-hantavirus-outbreak?traffic_source=rss",
+      "summary": "The incident has drawn comparisons to the COVID-19 pandemic.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1778357587
+    },
     {
       "title": "Iran to play World Cup but demands guarantees from Fifa and hosts",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-play-world-cup-demands-guarantees-fifa-and-hosts",
@@ -9,7 +328,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "3m ago",
+      "time": "2h ago",
       "timestamp": 1778357171
     },
     {
@@ -20,30 +339,19 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "5m ago",
+      "time": "2h ago",
       "timestamp": 1778357068
     },
     {
-      "title": "Última hora del brote de hantavirus, en directo | Los ministros de Sanidad, Interior y Política Territorial y el jefe de la OMS dan una rueda de prensa desde Canarias",
-      "link": "https://elpais.com/sociedad/2026-05-09/ultima-hora-del-brote-de-hantavirus-en-directo.html",
-      "summary": "La mujer hospitalizada en Alicante que estuvo en contacto con una de las fallecidas por hantavirus da negativo en la PCR | La OMS: “Sé que estáis preocupados, pero esto no es otro covid-19” | Sánchez ",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
+      "title": "Venezuela’s Delcy Rodriguez heads to The Hague for land dispute case",
+      "link": "https://www.aljazeera.com/news/2026/5/9/venezuelas-delcy-rodriguez-heads-to-the-hague-for-land-dispute-case?traffic_source=rss",
+      "summary": "Trip to be first time Rodriguez has left Caribbean since Maduro abduction, will attend ICJ case on Guyana land dispute.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
       "tier": 1,
-      "time": "7m ago",
-      "timestamp": 1778356908
-    },
-    {
-      "title": "Lebanon says Israeli strikes killed 39",
-      "link": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "19m ago",
-      "timestamp": 1778356189
+      "time": "2h ago",
+      "timestamp": 1778356118
     },
     {
       "title": "'Integrity costs something': Eurovision winners want Israel out of the contest",
@@ -53,18 +361,18 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "27m ago",
+      "time": "2h ago",
       "timestamp": 1778355727
     },
     {
       "title": "Putin afirma que la guerra con Ucrania \"se acerca a su fin\"",
       "link": "https://www.elmundo.es/internacional/2026/05/09/69ff8ac8e4d4d807738b457a.html",
-      "summary": "&nbsp;Leer",
+      "summary": "Durante cuatro años del conflicto europeo más mortífero desde la Segunda Guerra Mundial, las fuerzas rusas no han logrado tomar por completo la región del Donbás, en el este de Ucrania&nbsp;Leer",
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "41m ago",
+      "time": "3h ago",
       "timestamp": 1778354892
     },
     {
@@ -75,41 +383,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "44m ago",
+      "time": "3h ago",
       "timestamp": 1778354715
-    },
-    {
-      "title": "MotoGP: Jorge Martín gana el sprint del Gran Premio de Francia y Marc Márquez sufre fractura",
-      "link": "https://www.elnacional.com/2026/05/motogp-jorge-martin-gana-el-sprint-del-gran-premio-de-francia-y-marc-marquez-sufre-fractura/",
-      "summary": "El madrileño se impuso a los italianos Francesco Bagnaia (Ducati), que había salido desde la pole position, y Marco Bezzecchi (Aprilia), actual líder del Mundial.\nThe post MotoGP: Jorge Martín gana el",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "46m ago",
-      "timestamp": 1778354621
-    },
-    {
-      "title": "Racionamientos, la pesadilla en una Venezuela que urge recuperar su red eléctrica",
-      "link": "https://www.elnacional.com/2026/05/racionamientos-la-pesadilla-en-una-venezuela-que-urge-recuperar-su-red-electrica/",
-      "summary": "Los apagones de varias horas y sin un cronograma oficial, según reclaman los afectados, regresaron en febrero pasado.\nThe post Racionamientos, la pesadilla en una Venezuela que urge recuperar su red e",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "48m ago",
-      "timestamp": 1778354478
-    },
-    {
-      "title": "Así será el delicado desembarco del crucero por mar, tierra y aire: \"Es una operación inédita\"",
-      "link": "https://www.elnacional.com/2026/05/asi-sera-el-delicado-desembarco-del-crucero-por-mar-tierra-y-aire-es-una-operacion-inedita/",
-      "summary": "Antes de proceder a la evacuación de los pasajeros, se realizarán una serie de evaluaciones para confirmar que continúan asintomáticos.\nThe post Así será el delicado desembarco del crucero por mar, ti",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "53m ago",
-      "timestamp": 1778354220
     },
     {
       "title": "Israeli settlers force Palestinian family to exhume and rebury their father",
@@ -119,19 +394,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "53m ago",
+      "time": "3h ago",
       "timestamp": 1778354179
-    },
-    {
-      "title": "Delcy Rodríguez anunció viaje fuera de Venezuela para \"defender la patria\"",
-      "link": "https://www.elnacional.com/2026/05/delcy-rodriguez-anuncio-viaje-fuera-de-venezuela-para-defender-la-patria/",
-      "summary": "Aunque no precisó el destino ni qué derechos defenderá, el viaje coincide con las audiencias ante la Corte Internacional de Justicia (CIJ) en La Haya, donde Venezuela y Guyana expresan sus argumentos ",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "56m ago",
-      "timestamp": 1778354019
     },
     {
       "title": "Finmin says economic recovery remains intact amid regional conflict, assures uninterrupted fuel supply",
@@ -141,7 +405,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "56m ago",
+      "time": "3h ago",
       "timestamp": 1778354006
     },
     {
@@ -152,52 +416,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "58m ago",
+      "time": "3h ago",
       "timestamp": 1778353902
-    },
-    {
-      "title": "Hallaron el cuerpo de Mateo Pérez Rueda, periodista en Antioquia y director de revista digital",
-      "link": "https://www.elnacional.com/2026/05/hallaron-el-cuerpo-de-mateo-perez-rueda-periodista-en-antioquia-y-director-de-revista-digital/",
-      "summary": "El joven de 25 años desapareció el martes pasado cuando \"realizaba labores periodísticas\" en una zona de disputa entre los municipios de Briceño y Yarumal entre el Clan del Golfo, la principal banda c",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1778353800
-    },
-    {
-      "title": "Defensa de Bolsonaro pide a corte suprema de Brasil anular su condena a 27 años",
-      "link": "https://www.elnacional.com/2026/05/defensa-de-bolsonaro-pide-a-corte-suprema-de-brasil-anular-su-condena-a-27-anos/",
-      "summary": "El líder ultraderechista, de 71 años, fue hallado culpable en septiembre de liderar una organización criminal que se conspiró para perpetuarse en el poder tras su derrota electoral en 2022 frente al a",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1778353740
-    },
-    {
-      "title": "Missing Singaporeans Located Near Mt. Dukono Crater Rim",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/missing-singaporeans-located-near-mt-dukono-crater-rim?traffic_source=rss",
-      "summary": "Indonesian authorities locate missing Singaporeans after Mount Dukono eruption.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1778353350
-    },
-    {
-      "title": "Ejecutivo madrileño insiste en \"presiones claras\" del gobierno mexicano por visita de Ayuso",
-      "link": "https://www.elnacional.com/2026/05/ejecutivo-madrileno-insiste-en-presiones-claras-del-gobierno-mexicano-por-visita-de-ayuso/",
-      "summary": "La consejera de Economía, Hacienda y Empleo, Rocío Albert, insistió este sábado en que Díaz Ayuso ha visto \"sometida\" y \"cercenada\" su libertad para promocionar el turismo de México y de España durant",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1778353168
     },
     {
       "title": "Israeli strikes kill four in Lebanon, raising Lebanon death toll to 23",
@@ -207,7 +427,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1778352562
     },
     {
@@ -218,7 +438,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1778352382
     },
     {
@@ -229,52 +449,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1778352241
-    },
-    {
-      "title": "Man City beat Brentford to close gap to Arsenal to two points in title race",
-      "link": "https://www.aljazeera.com/sports/2026/5/9/man-city-beat-brentford-to-close-gap-to-arsenal-to-two-points-in-title-race?traffic_source=rss",
-      "summary": "Manchester City score three in the second half of their Premier League match against Brentford to maintain title hopes.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1778352025
-    },
-    {
-      "title": "Oil chiefs warn Hormuz closure exposes fragility of global energy system",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-chiefs-warn-hormuz-closure-exposes-fragility-global-energy-system",
-      "summary": "Oil chiefs warn Hormuz closure exposes fragility of global energy system\n\n    \n    \n\n        \n    \n                \nSenior figures in the oil and gas industry say the war involving Iran is set to resh",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1778351967
-    },
-    {
-      "title": "Latmiya: Inside the Ashura rituals shaping Iran’s wartime narrative",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/latmiya-inside-ashura-rituals-shaping-irans-wartime-narrative",
-      "summary": "Latmiya: Inside the Ashura rituals shaping Iran’s wartime narrative\n\n    \n    \n\n        \n    \n                In darkened halls across&nbsp;Iran, hundreds of men dressed in black beat their chests in ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1778351026
-    },
-    {
-      "title": "Tucker Carlson’s pivot",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/9/tucker-carlsons-pivot?traffic_source=rss",
-      "summary": "From MAGA loyalist to antiwar dissident - is Tucker Carlson’s pivot sincere or a savvy reinvention?",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1778349688
     },
     {
       "title": "Greece conducts controlled blast of mystery naval drone explosives",
@@ -284,7 +460,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1778349646
     },
     {
@@ -295,7 +471,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1778349608
     },
     {
@@ -306,19 +482,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1778349600
-    },
-    {
-      "title": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
-      "link": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
-      "summary": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1778349018
     },
     {
       "title": "US escalates trade row with China over Iran war ahead of Trump-Xi summit",
@@ -328,30 +493,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1778348912
     },
     {
-      "title": "Parent company of Trump’s Truth Social site reports $400m loss this year",
-      "link": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss",
-      "summary": "Losses driven largely by depreciation of cryptocurrency assets as prices of digital currencies tumble.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
+      "title": "Feijóo irrumpe en el día de luto por los dos guardias civiles cargando contra el Gobierno",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-09/feijoo-irrumpe-en-el-dia-de-luto-por-los-dos-guardias-civiles-cargando-contra-el-gobierno.html",
+      "summary": "El presidente del PP pide la “retirada” de Marlaska por su “incompetencia” tras el accidente mortal de dos agentes que seguían a una narcolancha",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1778348831
-    },
-    {
-      "title": "Jewish settler attack wounds two Palestinian women in occupied West Bank",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-settler-attack-wounds-two-palestinian-women-occupied-west-bank",
-      "summary": "Jewish settler attack wounds two Palestinian women in occupied West Bank\n\n    \n    \n\n        \n    \n                \nIsraeli settlers have wounded two Palestinian women in an attack on communities sout",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1778348005
+      "time": "5h ago",
+      "timestamp": 1778347591
     },
     {
       "title": "Marka-i-Haq a 'defining landmark in the nation’s journey': ISPR",
@@ -361,30 +515,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1778347430
-    },
-    {
-      "title": "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/nowhere-left-to-go-gaza-residents-return-to-rubble-after-israeli-strike?traffic_source=rss",
-      "summary": "Al Jazeera’s Tareq Abu Azzoum reports from Al-Shati Refugee Camp after overnight Israeli airstrikes.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1778347293
-    },
-    {
-      "title": "Israeli attacks across Lebanon kill at least 23",
-      "link": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss",
-      "summary": "No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1778346451
     },
     {
       "title": "'Etched in history': PM Shehbaz says Pakistan cannot be 'intimidated or subdued' as nation marks Marka-i-Haq anniversary",
@@ -394,7 +526,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1778346431
     },
     {
@@ -405,7 +537,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1778346356
     },
     {
@@ -416,19 +548,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1778345518
-    },
-    {
-      "title": "Global oil stocks drop almost 270 million barrels since start of Iran war",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/global-oil-stocks-drop-almost-270-million-barrels-start-iran-war",
-      "summary": "Global oil stocks drop almost 270 million barrels since start of Iran war\n\n    \n    \n\n        \n    \n                \nGlobal oil inventories are falling sharply as the Israeli-US war on Iran constrains",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1778345006
     },
     {
       "title": "Israel to release activists from Gaza aid flotilla",
@@ -438,7 +559,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1778344504
     },
     {
@@ -449,7 +570,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1778342114
     },
     {
@@ -460,8 +581,19 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1778341504
+    },
+    {
+      "title": "Feijóo se compromete a \"desclasificar los documentos\" sobre la regularización de inmigrantes: \"Los españoles sabrán por qué y para qué se ha hecho\"",
+      "link": "https://www.elmundo.es/espana/2026/05/09/69ff5453e4d4d89f188b4577.html",
+      "summary": "\"Alegar secreto de Estado para ocultar el alcance es una tomadura de pelo que yo no pienso tolerar\", afirma el líder del PP&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "6h ago",
+      "timestamp": 1778341221
     },
     {
       "title": "EU countries prepare repatriation of hantavirus ship passengers",
@@ -471,18 +603,18 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1778340840
     },
     {
-      "title": "Israeli strike south of Beirut kills at least one despite ceasefire",
+      "title": "Israeli strikes in Lebanon kill at least 8 despite ceasefire",
       "link": "https://www.lemonde.fr/en/middle-east-crisis/article/2026/05/09/israeli-strikes-south-of-beirut-kill-at-least-one-despite-ceasefire_6753290_368.html",
-      "summary": "Lebanese official media reported three strikes, including one in the city of Nabatieh that killed a Syrian national. Hezbollah said it targeted northern Israel with a drone in response.",
+      "summary": "Lebanese official media reported multiple strikes, including one in the city of Nabatieh that killed a Syrian national. Hezbollah said it targeted northern Israel with drones in response.",
       "source": "Le Monde",
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1778340315
     },
     {
@@ -493,7 +625,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1778339640
     },
     {
@@ -504,7 +636,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1778339524
     },
     {
@@ -515,7 +647,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778338688
     },
     {
@@ -526,7 +658,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778338620
     },
     {
@@ -537,7 +669,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778338113
     },
     {
@@ -548,7 +680,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778337900
     },
     {
@@ -559,19 +691,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778337381
-    },
-    {
-      "title": "WHO chief reassures Tenerife residents ahead of arrival of virus-hit cruise ship",
-      "link": "https://www.bbc.com/news/articles/czr2vjmnlmpo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"This is not another Covid,\" Tedros Ghebreyesus tells islanders before MV Hondius docks on Sunday.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "5h ago",
-      "timestamp": 1778337084
     },
     {
       "title": "Lina Hilali première marocaine à la Coupe du Monde de patinage artistique sur roulettes en Allemagne",
@@ -581,7 +702,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778337000
     },
     {
@@ -592,7 +713,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1778336936
     },
     {
@@ -603,7 +724,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1778335608
     },
     {
@@ -614,7 +735,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1778335200
     },
     {
@@ -625,7 +746,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1778332680
     },
     {
@@ -636,7 +757,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1778332556
     },
     {
@@ -647,7 +768,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1778332054
     },
     {
@@ -658,7 +779,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1778331657
     },
     {
@@ -669,41 +790,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1778331497
     },
     {
-      "title": "El Gobierno aislará todas las zonas implicadas en el desembarco del ‘MV Hondius’ para evitar cualquier riesgo de contagio de hantavirus",
-      "link": "https://elpais.com/sociedad/2026-05-09/el-gobierno-aislara-todas-las-zonas-implicadas-en-el-desembarco-del-mv-hondius-para-evitar-cualquier-riesgo-de-contagio-de-hantavirus.html",
-      "summary": "Los ministros de Sanidad e Interior anuncian que el crucero llegará a Tenerife entre las 4.00 y las 6.00 de la madrugada del sábado al domingo, hora canaria",
+      "title": "Vox en Andalucía: “¡En una tarde, la Guardia Civil acaba con toda la mierda del narcotráfico! ¡En una tarde!”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-09/vox-en-andalucia-en-una-tarde-la-guardia-civil-acaba-con-toda-la-mierda-del-narcotrafico-en-una-tarde.html",
+      "summary": "Manuel Gavira justifica que su partido sea el único que no ha cancelado actos de campaña porque tiene que “señalar a los culpables” de las muertes de los dos guardias en Huelva",
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
-      "timestamp": 1778331374
-    },
-    {
-      "title": "Le Maroc est-il menacé par le Hantavirus ?",
-      "link": "https://www.yabiladi.com/articles/details/194205/maroc-est-il-menace-hantavirus.html",
-      "summary": "Un foyer dinfections à lHantavirus, détecté sur un navire de croisière, suscite linquiétude au Maroc, ravivant les craintes liées aux virus émergents. Cependant, le Dr Tayeb Hamdi, expert en santé, ra",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "7h ago",
-      "timestamp": 1778330760
-    },
-    {
-      "title": "L’Irlande appelle à renforcer les liens économiques avec le Maroc en tant que porte d'entrée vers l'Afrique",
-      "link": "https://www.yabiladi.com/articles/details/194232/l-irlande-appelle-renforcer-liens-economiques.html",
-      "summary": "Les leaders économiques et institutionnels irlandais ont plaidé vendredi pour un renforcement des relations économiques avec le Maroc, mettant en avant le royaume comme une destination dinvestissement",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "7h ago",
-      "timestamp": 1778329800
+      "time": "9h ago",
+      "timestamp": 1778330569
     },
     {
       "title": "Guardian reporter and colleagues detained and beaten by Somali police",
@@ -713,7 +812,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1778329679
     },
     {
@@ -724,7 +823,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1778329349
     },
     {
@@ -735,7 +834,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1778329325
     },
     {
@@ -746,19 +845,19 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1778329138
     },
     {
-      "title": "Multiplication des condamnations internationales de l'attaque du Polisario à Smara",
-      "link": "https://www.yabiladi.com/articles/details/194226/multiplication-condamnations-internationales-l-attaque-polisario.html",
-      "summary": "Les condamnations internationales se multiplient après lattaque du Front Polisario contre Smara, avec le Royaume-Uni, la Belgique, les Émirats arabes unis, la Jordanie, le Qatar, la République tchèque",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "7h ago",
-      "timestamp": 1778329020
+      "title": "Carta del director de la OMS para tranquilizar a los tinerfeños: “¡Esto no es otro Covid!”",
+      "link": "https://www.lavanguardia.com/vida/20260509/11534152/director-oms-tranquiliza-gente-tenerife-esto-covid.html",
+      "summary": "Tedros Adhanom Ghebreyesus, máximo responsable de la Organización Mundial de la Salud, se dirige directamente a los ciudadanos de la isla para explicar el protocolo de desembarco del MV Hondius y anun",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "10h ago",
+      "timestamp": 1778329094
     },
     {
       "title": "Putin leads scaled-down Victory Day celebration as temporary ceasefire holds",
@@ -768,7 +867,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1778328949
     },
     {
@@ -779,7 +878,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1778328761
     },
     {
@@ -790,18 +889,18 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1778328179
     },
     {
       "title": "French Socialists fracture over presidential primary",
       "link": "https://www.lemonde.fr/en/politics/article/2026/05/09/french-socialists-fracture-over-presidential-primary_6753284_5.html",
-      "summary": "Boris Vallaud, leader of the Socialists in the Assemblée Nationale, announced his resignation from the party leadership on Friday. He accused Socialist head Olivier Faure of pursuing 'a strategy of is",
+      "summary": "Boris Vallaud, leader of the Socialists in the Assemblée Nationale, announced his resignation on Friday. He accused Socialist head Olivier Faure of pursuing 'a strategy of isolation and deadlock' ahea",
       "source": "Le Monde",
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1778327704
     },
     {
@@ -812,8 +911,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1778326957
+    },
+    {
+      "title": "Los españoles serán los primeros evacuados del barco, que llegará entre las 4 y las 6 horas del domingo",
+      "link": "https://www.lavanguardia.com/vida/20260509/11534130/espanoles-seran-primeros-evacuados-barco-llegara-4-6-horas-domingo.html",
+      "summary": "Ni los pasajeros ni los equipos sanitarios y de repatriación tendrán contacto alguno con la población civil",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "11h ago",
+      "timestamp": 1778325151
     },
     {
       "title": "Trump says he ‘might’ move US troops to Poland from Germany",
@@ -823,7 +933,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "9h ago",
+      "time": "11h ago",
       "timestamp": 1778324254
     },
     {
@@ -834,41 +944,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "9h ago",
+      "time": "12h ago",
       "timestamp": 1778321850
-    },
-    {
-      "title": "Putin preside un desfile por el Día de la Victoria sin tanques y con el \"permiso\" de Zelenski: \"Luchamos contra todo el bloque de la OTAN\"",
-      "link": "https://www.elmundo.es/internacional/2026/05/09/69fef85ffc6c83d64e8b459e.html",
-      "summary": "Es la primera vez desde 2007 que se ha celebrado la parada del 9 de mayo en Moscú sin equipo pesado militar&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1778321233
-    },
-    {
-      "title": "Claves del brote de hantavirus: qué se sabe (y qué no) de la crisis sanitaria que ha despertado el fantasma de la pandemia",
-      "link": "https://elpais.com/sociedad/2026-05-09/claves-del-brote-de-hantavirus-que-se-sabe-y-que-no-de-la-crisis-sanitaria-que-ha-despertado-el-fantasma-de-la-pandemia.html",
-      "summary": "El crucero ‘MV Hondius’, donde se han registrado ocho casos vinculados al episodio infeccioso, llegará el domingo a Tenerife. Los extranjeros serán repatriados y los españoles, trasladados a Madrid y ",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1778321017
-    },
-    {
-      "title": "US economy persists through trade uncertainty",
-      "link": "https://www.lemonde.fr/en/economy/article/2026/05/09/us-economy-persists-through-trade-uncertainty_6753282_19.html",
-      "summary": "Even though growth and labor market figures are heading in the right direction, the Trump administration's erratic policies, particularly the president's ongoing trade war, have hindered economic acti",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1778320805
     },
     {
       "title": "El feminismo no cabe en la lógica del capital: Davos 2026",
@@ -878,7 +955,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1778320800
     },
     {
@@ -889,7 +966,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1778320390
     },
     {
@@ -900,8 +977,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1778319602
+    },
+    {
+      "title": "La mujer que tuvo contacto con una fallecida por el hantavirus hará cuarentena en el Clínic",
+      "link": "https://www.lavanguardia.com/vida/20260509/11534053/primer-contacto-catalunya-victima-hantavirus-vive-barcelona.html",
+      "summary": "La mujer, que no tiene síntomas, permanecerá aislada en una habitación del Clínic entre tres y seis semanas&nbsp;&nbsp;",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "13h ago",
+      "timestamp": 1778318223
     },
     {
       "title": "Europe seeks own digital-payment systems to bypass US giants, Visa and Mastercard",
@@ -911,8 +999,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "11h ago",
+      "time": "13h ago",
       "timestamp": 1778317320
+    },
+    {
+      "title": "Remiten para su análisis la muestra de una mujer ingresada en Alicante",
+      "link": "https://www.lavanguardia.com/local/valencia/20260509/11534039/remiten-analisis-muestra-mujer-ingresada-alicante-contacto-hantavirus.html",
+      "summary": "La muestra se registró en el Centro Nacional de Microbiología a las 3 horas de la madrugada y se prevé que los resultados de la PCR por Hantavirus estén disponibles entre 24 y 48 horas después.",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "14h ago",
+      "timestamp": 1778314194
     },
     {
       "title": "The unthinkable is becoming reality. The United States and Israel are heading for divorce",
@@ -922,40 +1021,18 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "12h ago",
+      "time": "14h ago",
       "timestamp": 1778312160
     },
     {
-      "title": "Los 150 pasajeros del ‘Hondius’ siguen sin síntomas de hantavirus",
-      "link": "https://www.lavanguardia.com/vida/20260509/11533686/150-pasajeros-hondius-siguen-sintomas-hantavirus-atendidos-medico-ejercito-holandes.html",
-      "summary": "Prosigue la búsqueda de positivos, tanto entre los que bajaron del crucero como entre los entraron en contacto con ellos",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "12h ago",
-      "timestamp": 1778311312
-    },
-    {
-      "title": "Moderna se dispara en la Bolsa tras anunciar trabajos para desarrollar una vacuna contra el hantavirus",
-      "link": "https://www.lavanguardia.com/economia/20260509/11534022/moderna-dispara-bolsa-anuncia-trabajos-desarrollar-vacuna-hantavirus.html",
-      "summary": "La empresa ya desarrolla trabajos preclínicos para un posible remedio junto con el Instituto de Investigación Médica de Enfermedades Infecciosas del Ejército de EE.UU.",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "12h ago",
-      "timestamp": 1778311230
-    },
-    {
-      "title": "Lanchas, vehículos 'burbuja' y aviones: Tenerife se prepara para el desembarco del crucero",
+      "title": "Lanchas, vehículos burbuja y aviones: Tenerife se prepara para el desembarco del crucero con hantavirus",
       "link": "https://www.lavanguardia.com/vida/20260509/11534006/espana-prepara-evacuar-domingo-crucero-brote-hantavirus.html",
       "summary": "El operativo, previsto para este domingo, estará supervisado por los ministros de Interior y de Sanidad y por el director general de la OMS",
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1778307468
     },
     {
@@ -966,19 +1043,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1778307210
-    },
-    {
-      "title": "Del crucero a una zódiac y en autobús al avión: cuenta atrás para el desembarco en Tenerife en el que saldrán los españoles los primeros",
-      "link": "https://www.elmundo.es/espana/2026/05/08/69fe36e221efa0752c8b45b1.html",
-      "summary": "El protocolo para la evacuación de los viajeros del barco establece que esta se hará por nacionalidades y evitando todo contacto con la población local&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "14h ago",
-      "timestamp": 1778304781
     },
     {
       "title": "Condenan al Sergas y Povisa por un triple error: 17 horas en Urgencias con una sepsis por peritonitis",
@@ -988,7 +1054,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1778299283
     },
     {
@@ -999,7 +1065,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1778299283
     },
     {
@@ -1010,18 +1076,18 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1778299282
     },
     {
-      "title": "Directo | El Clínic informa a las 10:30h sobre la persona en observación por posible contagio de hantavirus",
+      "title": "La justicia ratifica la cuarentena a la que deberán someterse los afectados",
       "link": "https://www.lavanguardia.com/vida/20260509/11533811/hantavirus-crucero-mv-hondius-cuarentena-canarias-ultima-hora-hoy-en-directo.html",
-      "summary": "Tenerife activa el Plan de Emergencia Insular en situación de prealerta ante la llegada del Mv Hondius",
+      "summary": "El MV Hondius llegará entre las 4 y las 6 de domingo y los españoles desembarcarán primero",
       "source": "La Vanguardia",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1778299216
     },
     {
@@ -1032,41 +1098,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1778299200
-    },
-    {
-      "title": "El vuelo de Johannesburgo a Amsterdam, en el centro de la investigación de posibles contactos por hantavirus",
-      "link": "https://www.lavanguardia.com/vida/20260509/11533328/vuelo-johannesburgo-amsterdam-centro-investigacion-posibles-contactos-hantavirus.html",
-      "summary": "Países Bajos monitoriza a los 388 pasajeros del avión en el que volaron la mujer holandesa contagiada que falleció el 26 de abril, además de la alicantina aislada en España, la sudafricana que pasó un",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "16h ago",
-      "timestamp": 1778299200
-    },
-    {
-      "title": "Moscú celebra el Día de la Victoria",
-      "link": "https://www.lavanguardia.com/internacional/20260509/11533393/dia-victoria-llega-moscu-precedido-ataques-cruzados-rusia-ucrania.html",
-      "summary": "El presidente estadounidense desactiva la amenaza de un ataque ucraniano con un alto el fuego de tres días suscrito por Putin y Zelenski",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "16h ago",
-      "timestamp": 1778299200
-    },
-    {
-      "title": "El puerto más polémico de Canarias se presenta al mundo para el desembarque del crucero del hantavirus",
-      "link": "https://elpais.com/sociedad/2026-05-09/el-puerto-mas-polemico-de-canarias-se-presenta-al-mundo-para-el-desembarque-del-crucero-del-hantavirus.html",
-      "summary": "Granadilla se concluyó en 2017 pese a la fuerte oposición social y continúa infrautilizado ocho años después de su inauguración",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "16h ago",
-      "timestamp": 1778297401
     },
     {
       "title": "¿Qué dicen las encuestas en Andalucía? La mayoría absoluta del PP está en el aire",
@@ -1076,19 +1109,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1778297401
-    },
-    {
-      "title": "Variante Andes: un patógeno que ni es nuevo ni ha mutado \"ni tiene potencial pandémico\"",
-      "link": "https://www.elmundo.es/ciencia-y-salud/salud/2026/05/09/69fda9ece85ece22398b4577.html",
-      "summary": "&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "20h ago",
-      "timestamp": 1778284958
     },
     {
       "title": "Cofavic y OVP exigen investigación transparente y destitución de ministro penitenciario tras muerte de Víctor Hugo Quero",
@@ -1098,19 +1120,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "21h ago",
+      "time": "1d ago",
       "timestamp": 1778278786
-    },
-    {
-      "title": "Starmer se aferra al poder tras la derrota electoral en autonómicas y locales",
-      "link": "https://www.lavanguardia.com/internacional/20260509/11533764/starmer-aferra.html",
-      "summary": "Presiones para que acepte una fecha de caducidad tras el hundimiento del Labour",
-      "source": "La Vanguardia",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "22h ago",
-      "timestamp": 1778277900
     },
     {
       "title": "Four south Florida men convicted in Haitian president’s assassination",
@@ -1120,7 +1131,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "22h ago",
+      "time": "1d ago",
       "timestamp": 1778276115
     },
     {
@@ -1131,7 +1142,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1778273510
     },
     {
@@ -1142,19 +1153,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1778273164
-    },
-    {
-      "title": "EEUU comienza a desclasificar archivos gubernamentales sobre Ovnis y vida extraterrestre",
-      "link": "https://efectococuyo.com/internacionales/eeuu-comienza-a-desclasificar-archivos-gubernamentales-sobre-ovnis-y-vida-extraterrestre/",
-      "summary": "El Departamento de Guerra acaba de liberar el primer lote de archivos clasificados sobre OVNI\nThe post EEUU comienza a desclasificar archivos gubernamentales sobre Ovnis y vida extraterrestre appeared",
-      "source": "Efecto Cocuyo",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "23h ago",
-      "timestamp": 1778271986
     },
     {
       "title": "Southeast Asian Leaders Tackle Iran War Vulnerabilities",
@@ -1164,7 +1164,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1778271534
     },
     {
@@ -1175,8 +1175,19 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1778271488
+    },
+    {
+      "title": "Sin presiones de Sheinbaum: el propio Grupo Xcaret no quiso ver a Ayuso en la gala Platino",
+      "link": "https://www.lavanguardia.com/internacional/20260508/11533804/platino-ayuso-sheinbaum-xcaret.html",
+      "summary": "El mayor parque hotelero de Riviera Maya solicitó a la organización que retirase la invitación a la presidenta madrileña a causa de sus “desafortunadas declaraciones” sobre la historia y cultura mexic",
+      "source": "La Vanguardia",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1d ago",
+      "timestamp": 1778270612
     },
     {
       "title": "A Foreign Correspondent of Animal Kingdoms",
@@ -1604,7 +1615,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "1d ago",
+      "time": "2d ago",
       "timestamp": 1778188864
     },
     {
@@ -1813,7 +1824,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2d ago",
+      "time": "3d ago",
       "timestamp": 1778104297
     },
     {
@@ -1901,7 +1912,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "3d ago",
+      "time": "4d ago",
       "timestamp": 1778015064
     },
     {
@@ -1934,7 +1945,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "8d ago",
+      "time": "9d ago",
       "timestamp": 1777581507
     },
     {
@@ -2000,7 +2011,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "10d ago",
+      "time": "11d ago",
       "timestamp": 1777407889
     },
     {
@@ -2066,7 +2077,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "17d ago",
+      "time": "18d ago",
       "timestamp": 1776805975
     },
     {
@@ -2143,7 +2154,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "3718d ago",
+      "time": "3719d ago",
       "timestamp": 1457037393
     },
     {
@@ -2187,7 +2198,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "3731d ago",
+      "time": "3732d ago",
       "timestamp": 1455920006
     },
     {
@@ -2198,7 +2209,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4019d ago",
+      "time": "4020d ago",
       "timestamp": 1431032062
     },
     {
@@ -2270,12 +2281,32 @@
   ],
   "social": [
     {
+      "handle": "EmmanuelMacron",
+      "name": "Emmanuel Macron",
+      "role": "French President",
+      "region": "europe",
+      "text": "شكرا للاسكندرية على حسن الاستقبال والكلام الشيق بالفرنسية!\n\nVideo",
+      "time": "1h ago",
+      "timestamp": 1778359071,
+      "url": "https://nitter.net/EmmanuelMacron/status/2053212875527758192#m"
+    },
+    {
+      "handle": "EmmanuelMacron",
+      "name": "Emmanuel Macron",
+      "role": "French President",
+      "region": "europe",
+      "text": "سعيد أن التقي مجددا بصديقي الرئيس عبد الفتاح السيسي، كي نعزّز بنحو أفضل الروابط القوية بين مصر وفرنسا.\n\nفمعا نفتتح الحرم الجديد لجامعة سنجور مما يعكس التزام مصر الملفت للنظر لصالح الفرنكوفونية.",
+      "time": "2h ago",
+      "timestamp": 1778358279,
+      "url": "https://nitter.net/EmmanuelMacron/status/2053209553609601337#m"
+    },
+    {
       "handle": "RTErdogan",
       "name": "Recep Erdogan",
       "role": "Turkey President",
       "region": "mena",
       "text": "Üst üste 4’üncü kez Trendyol Süper Lig Şampiyonu olan Galatasaray’ı; futbolcularıyla, teknik ekibiyle, yönetimiyle ve taraftarıyla tüm @GalatasaraySK camiasını yürekten tebrik ediyorum.",
-      "time": "39m ago",
+      "time": "2h ago",
       "timestamp": 1778355028,
       "url": "https://nitter.net/RTErdogan/status/2053195921635131426#m"
     },
@@ -2284,10 +2315,10 @@
       "name": "Javier Milei",
       "role": "Argentina President",
       "region": "latam",
-      "text": "RT by @JMilei: Image",
-      "time": "2h ago",
-      "timestamp": 1778348389,
-      "url": "https://nitter.net/Cancilleria_Ar/status/2053168073872486873#m"
+      "text": "RT by @JMilei: ¿Sabés por qué lo odian tanto a Milei?\nPorque bajó la inflación, eliminó el déficit y la economía crece sin ellos.\n\nDemostró que el Estado no es la solución… es el problema.",
+      "time": "4h ago",
+      "timestamp": 1778350548,
+      "url": "https://nitter.net/facufariaok/status/2053177130024906866#m"
     },
     {
       "handle": "EmmanuelMacron",
@@ -2295,9 +2326,19 @@
       "role": "French President",
       "region": "europe",
       "text": "Heureux de retrouver mon ami le Président Abdel Fattah al-Sissi pour renforcer encore le lien fort entre l’Égypte et la France.\n\nEnsemble nous inaugurons le nouveau campus de l’Université Senghor qui montre l’engagement remarquable de l’Égypte en faveur de la francophonie.",
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1778340041,
       "url": "https://nitter.net/EmmanuelMacron/status/2053133059327660419#m"
+    },
+    {
+      "handle": "JMilei",
+      "name": "Javier Milei",
+      "role": "Argentina President",
+      "region": "latam",
+      "text": "RT by @JMilei: JAJAJAJA LOS DE LA NACION SE ENOJARON PORQUE HAY DEFLACIÓN Y LA GENTE COMPRA ROPA:\n\n“Ahora que no hay inflación gente compra. Antes te tenías que apurar porque la cosas aumentaban. Ahora está todo mas barato que el año pasado y hay más consumo”",
+      "time": "7h ago",
+      "timestamp": 1778339822,
+      "url": "https://nitter.net/Titanfdc/status/2053132142905901205#m"
     },
     {
       "handle": "Keir_Starmer",
@@ -2305,7 +2346,7 @@
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "Thank you, @KenSkatesMS for stepping up to provide leadership for Labour in Wales and the Senedd as we begin a period of necessary reflection and rebuilding. \n\nKen is a talented and experienced MS. I know he will do a fantastic job bringing Welsh Labour together and holding the n",
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1778339154,
       "url": "https://nitter.net/Keir_Starmer/status/2053129340016071083#m"
     },
@@ -2315,7 +2356,7 @@
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "It’s important that we reflect and respond to these results - we haven’t done enough to offer people hope for the future. \n\nIn the coming days I’ll be setting out the path ahead.\n\nVideo",
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1778334539,
       "url": "https://nitter.net/Keir_Starmer/status/2053109982665556046#m"
     },
@@ -2325,39 +2366,19 @@
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "Together, we will build a stronger and fairer Britain.\n\nVideo",
-      "time": "9h ago",
+      "time": "11h ago",
       "timestamp": 1778322779,
       "url": "https://nitter.net/Keir_Starmer/status/2053060656706834786#m"
     },
     {
-      "handle": "EmmanuelMacron",
-      "name": "Emmanuel Macron",
-      "role": "French President",
-      "region": "europe",
-      "text": "C’est la journée de l’Europe.\n              \nL’Europe est aujourd’hui une évidence qui pourtant n’allait pas de soi. Elle est un héritage arraché aux ruines, un trésor façonné par le courage de celles et ceux qui ont refusé que le nationalisme et la guerre soient notre destin.\n \n",
-      "time": "13h ago",
-      "timestamp": 1778310129,
-      "url": "https://nitter.net/EmmanuelMacron/status/2053007598870315449#m"
-    },
-    {
       "handle": "JMilei",
       "name": "Javier Milei",
       "role": "Argentina President",
       "region": "latam",
-      "text": "RT by @JMilei: Hay algo distinto en el aire.\nComo si después de mucho tiempo, Argentina hubiera dejado de caminar sin rumbo.",
-      "time": "17h ago",
-      "timestamp": 1778293556,
-      "url": "https://nitter.net/inconsilio/status/2052938086842007794#m"
-    },
-    {
-      "handle": "JMilei",
-      "name": "Javier Milei",
-      "role": "Argentina President",
-      "region": "latam",
-      "text": "RT by @JMilei: estoy llorando es la mejor declaración de la galaxia, te mando un abrazo gordo q estoy seguro q estas acá entre nosotros puteando periodistas",
+      "text": "RT by @JMilei: 🚨🇦🇷 FLAVIO ARENALES DIJO VERDADES EN LA MESA DE LAURA DI MARCO Y BANCÓ A MILEI\n\n“VARIOS NEGOCIOS REPLETOS DE GENTE, EN LOS SHOPPING TAMBIÉN, HOY SIENTO UNA ESTABILIDAD QUE NO VI EN MUCHOS AÑOS” @FlavioArenales @JMilei",
       "time": "20h ago",
-      "timestamp": 1778284897,
-      "url": "https://nitter.net/nosoypitti/status/2052901771006161199#m"
+      "timestamp": 1778293800,
+      "url": "https://nitter.net/agarra_pala/status/2052939111640846834#m"
     },
     {
       "handle": "nayibbukele",
@@ -2365,7 +2386,7 @@
       "role": "El Salvador President",
       "region": "latam",
       "text": "The United States is bringing American investment power to El Salvador—next week, A/S Orr leads a delegation to San Salvador including @DFCGov and @EXIMBankUS and investors from Harpoon, Heeney Capital, HNRV, Valor Capital Group, Vashon, and other investment firms.\n\nUnder Preside",
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1778271952,
       "url": "https://nitter.net/EconAtState/status/2052847472314290527#m"
     },
@@ -2398,16 +2419,6 @@
       "time": "1d ago",
       "timestamp": 1778257800,
       "url": "https://nitter.net/RTErdogan/status/2052788117141074276#m"
-    },
-    {
-      "handle": "EmmanuelMacron",
-      "name": "Emmanuel Macron",
-      "role": "French President",
-      "region": "europe",
-      "text": "En ce 8 mai, nous nous souvenons de ces héros qui ont œuvré à la Libération de la France. Leur courage a rendu possible la Victoire, leur sacrifice a ouvert la voie de la paix.\n\nÀ nous de faire vivre ce legs. Gardons vibrantes la flamme de la mémoire et notre exigence de liberté.",
-      "time": "1d ago",
-      "timestamp": 1778255882,
-      "url": "https://nitter.net/EmmanuelMacron/status/2052780070268227642#m"
     },
     {
       "handle": "nayibbukele",
@@ -2465,13 +2476,13 @@
       "role": "US President",
       "region": "global",
       "text": "RT by @realDonaldTrump: On behalf of Erin and me, thank you to everyone for the love and support we've received. We both had an unforgettable wedding day, and we'll never forget it. We're humbled and grateful to all.\n\nTHANK YOU! 🙏🏻🇺🇸🦅🚀",
-      "time": "95d ago",
+      "time": "96d ago",
       "timestamp": 1770069859,
       "url": "https://nitter.net/DanScavino/status/2018445404027896054#m"
     }
   ],
   "failed_sources": [],
-  "total": 206,
+  "total": 207,
   "economic": {
     "regional": {
       "eur_mad": {
