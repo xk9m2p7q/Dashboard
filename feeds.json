@@ -1,6 +1,160 @@
 {
-  "updated": "2026-06-05T21:08:28.725547+00:00",
+  "updated": "2026-06-05T22:42:21.993968+00:00",
   "articles": [
+    {
+      "title": "US envoy confirms Iranian footballers granted visas for World Cup",
+      "link": "https://www.lemonde.fr/en/sports/article/2026/06/06/us-envoy-confirms-iranian-footballers-granted-visas-for-world-cup_6754193_9.html",
+      "summary": "The Iranian team is due to fly from Turkey to Spain on Saturday before traveling on to their base camp in Mexico, which has issued visas to the squad. They were originally due to be based in the US, b",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "11m ago",
+      "timestamp": 1780698544
+    },
+    {
+      "title": "Nueve años sin trasplantes en Venezuela y el reclamo de priorizar la salud en la agenda política",
+      "link": "https://www.elnacional.com/2026/06/nueve-anos-sin-trasplantes-en-venezuela-y-el-reclamo-de-priorizar-la-salud-en-la-agenda-politica/",
+      "summary": "Mientras el Estado opera en desacato continuo frente a las Medidas Cautelares dictadas por la CIDH desde 2018 y vulnera las garantías de la Lopnna, las familias y las organizaciones civiles exigen que",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "17m ago",
+      "timestamp": 1780698200
+    },
+    {
+      "title": "Ildemaro Vargas tras colisión con Max Muncy: \"Siento que choqué con un camión\"",
+      "link": "https://www.elnacional.com/2026/06/ildemaro-vargas-tras-colision-con-max-muncy-siento-que-choque-con-un-camion/",
+      "summary": "El manager de los Cascabeles de Arizona, Torey Lovullo, dijo que el venezolano quiere jugar este viernes, pero no se lo permitirá.\nThe post Ildemaro Vargas tras colisión con Max Muncy: &quot;Siento qu",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "21m ago",
+      "timestamp": 1780698000
+    },
+    {
+      "title": "Llegan a Venezuela 158 migrantes repatriados en un nuevo vuelo procedente de México",
+      "link": "https://www.elnacional.com/2026/06/llegan-a-venezuela-158-migrantes-repatriados-en-un-nuevo-vuelo-procedente-de-mexico/",
+      "summary": "Según el Ministerio de Interior, Justicia y Paz en el vuelo regresaron 38 hombres, 50 mujeres y 70 menores de edad.\nThe post Llegan a Venezuela 158 migrantes repatriados en un nuevo vuelo procedente d",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "21m ago",
+      "timestamp": 1780697995
+    },
+    {
+      "title": "Hamas condemns Israel’s killing of seven-month-old baby",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-condemns-israels-killing-seven-month-old-baby",
+      "summary": "Hamas condemns Israel’s killing of seven-month-old baby\n\n    \n    \n\n        \n    \n                Hamas says Israel’s killing of seven-month-old Sam Fahd Abu Haikal exposes “the true face” of its “bru",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "29m ago",
+      "timestamp": 1780697464
+    },
+    {
+      "title": "Mali's ruling junta sentences a DGSE agent to 20 years in prison",
+      "link": "https://www.lemonde.fr/en/international/article/2026/06/06/mali-s-ruling-junta-sentences-a-dgse-agent-to-20-years-in-prison_6754192_4.html",
+      "summary": "Yann V., who was officially registered as an agent of France's foreign intelligence service (DGSE) with Malian authorities, was arrested in August 2025 in Bamako, accused of having attempted to orches",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "29m ago",
+      "timestamp": 1780697453
+    },
+    {
+      "title": "Rodrigo Paz llama nuevamente al diálogo a los sectores que exigen su renuncia",
+      "link": "https://www.elnacional.com/2026/06/rodrigo-paz-llama-nuevamente-al-dialogo-a-los-sectores-que-exigen-su-renuncia/",
+      "summary": "\"No se dejen usar para quebrantar la Constitución y la democracia para que un señor (Morales) y su entorno de poder se salven de ir ante la Justicia\", enfatizó el presidente de Bolivia.\nThe post Rodri",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "31m ago",
+      "timestamp": 1780697399
+    },
+    {
+      "title": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/slovenias-new-prime-minister-takes-down-palestinian-flag-pro-israel-turn",
+      "summary": "Slovenia’s new prime minister takes down Palestinian flag in pro-Israel turn\n\n    \n    \n\n        \n    \n                Janez Jansa began his fourth term as Slovenia’s prime minister by ordering the&nb",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "44m ago",
+      "timestamp": 1780696583
+    },
+    {
+      "title": "Hamilton y Ferrari dominan los ensayos libre del Gran Premio de Mónaco",
+      "link": "https://www.elnacional.com/2026/06/hamilton-y-ferrari-dominan-los-ensayos-libre-del-gran-premio-de-monaco/",
+      "summary": "El piloto británico vive un buen momento después de terminar en el segundo lugar en el GP de Canadá. Este sábado buscará una buena ubicación con el sueño de alcanzar su cuarta victoria histṕporica en ",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "47m ago",
+      "timestamp": 1780696429
+    },
+    {
+      "title": "Protestaron ante el Ministerio de la Mujer para denunciar torturas y violencia sexual contra presas políticas",
+      "link": "https://www.elnacional.com/2026/06/protestaron-ante-el-ministerio-de-la-mujer-para-denunciar-torturas-y-violencia-sexual-contra-presas-politicas/",
+      "summary": "\"Son separadas de sus hijos en período de lactancia y tenemos muchísimos casos de mujeres relacionadas con la Operación Gedeón que han sido víctimas de torturas. Hay un trato diferenciado con las pres",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "49m ago",
+      "timestamp": 1780696289
+    },
+    {
+      "title": "El cañón de Wembley: el despertar de Sir Bobby Charlton",
+      "link": "https://www.elnacional.com/2026/06/el-canon-de-wembley-el-despertar-de-sir-bobby-charlton/",
+      "summary": "El gol tuvo gran importancia para los ingleses por su belleza y porque marcó el inicio de una campaña que los llevó a conquistar su primer Mundial.\nThe post El cañón de Wembley: el despertar de Sir Bo",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "56m ago",
+      "timestamp": 1780695900
+    },
+    {
+      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1780695355
+    },
+    {
+      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "summary": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1780693372
+    },
+    {
+      "title": "The U.S. Economy Is Proving Remarkably Resilient",
+      "link": "https://foreignpolicy.com/2026/06/05/us-jobs-report-trump-economy-iran-energy-tariffs/",
+      "summary": "Even in the face of tariffs and an energy crisis, the jobs report shows an economy that’s still humming.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1780692604
+    },
     {
       "title": "Iran footballers issued US visas for World Cup, says White House",
       "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
@@ -9,18 +163,18 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "17m ago",
+      "time": "1h ago",
       "timestamp": 1780692580
     },
     {
       "title": "Trump afirma que intervención en Venezuela impulsó su popularidad",
       "link": "https://www.elnacional.com/2026/06/trump-afirma-que-intervencion-en-venezuela-impulso-su-popularidad/",
-      "summary": "Aunque el mandatario sostuvo que sus decisiones internacionales no responden a cálculos políticos, utilizó el caso venezolano como ejemplo de una estrategia que, pese a las críticas iniciales, resultó",
+      "summary": "El mandatario –que sostuvo que sus decisiones internacionales no responden a cálculos políticos– utilizó el caso venezolano como ejemplo de una estrategia que, pese a las críticas iniciales, resultó e",
       "source": "El Nacional",
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "18m ago",
+      "time": "1h ago",
       "timestamp": 1780692539
     },
     {
@@ -31,7 +185,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "18m ago",
+      "time": "1h ago",
       "timestamp": 1780692515
     },
     {
@@ -42,7 +196,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "21m ago",
+      "time": "1h ago",
       "timestamp": 1780692319
     },
     {
@@ -53,7 +207,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "28m ago",
+      "time": "2h ago",
       "timestamp": 1780691893
     },
     {
@@ -64,7 +218,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "29m ago",
+      "time": "2h ago",
       "timestamp": 1780691864
     },
     {
@@ -75,7 +229,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "30m ago",
+      "time": "2h ago",
       "timestamp": 1780691806
     },
     {
@@ -86,19 +240,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "30m ago",
+      "time": "2h ago",
       "timestamp": 1780691788
-    },
-    {
-      "title": "El papa León XIV llega este sábado a Madrid | Actos, horarios y recorrido de la visita",
-      "link": "https://www.elnacional.com/2026/06/el-papa-leon-xiv-llega-este-sabado-a-madrid-actos-horarios-y-recorrido-de-la-visita/",
-      "summary": "Entre los actos figura un encuentro con la comunidad diocesana en el estadio Santiago Bernabéu antes de su salida hacia Barcelona, siguiente etapa de su viaje por España.\nThe post El papa León XIV lle",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "32m ago",
-      "timestamp": 1780691658
     },
     {
       "title": "Cobolli into final as virus-struck Arnaldi pulls out of French Open",
@@ -108,19 +251,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "34m ago",
+      "time": "2h ago",
       "timestamp": 1780691530
-    },
-    {
-      "title": "Uruguay 1950: la sorpresa jamás esperada en mundiales",
-      "link": "https://www.elnacional.com/2026/06/uruguay-1950-la-sorpresa-jamas-esperada-en-mundiales/",
-      "summary": "Al sonar el pitazo final, el estruendo de la multitud se convirtió en un silencio sepulcral: Uruguay se titulaba campeón y concretaba, contra todo pronóstico, el legendario \"Maracanazo\".\nThe post Urug",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "37m ago",
-      "timestamp": 1780691400
     },
     {
       "title": "AJK govt bans Joint Awami Action Committee under anti-terrorism act",
@@ -130,8 +262,19 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "41m ago",
+      "time": "2h ago",
       "timestamp": 1780691133
+    },
+    {
+      "title": "Zelensky’s Pen Pal Diplomacy",
+      "link": "https://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/",
+      "summary": "Zelensky offers in-person peace talks in a rare open letter to Putin. Moscow isn’t interested.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1780691037
     },
     {
       "title": "Polymarket, compañía asesorada por Trump Jr., invierte en X para divulgar narrativas a favor de políticos en América Latina",
@@ -141,7 +284,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "43m ago",
+      "time": "2h ago",
       "timestamp": 1780691025
     },
     {
@@ -152,7 +295,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "45m ago",
+      "time": "2h ago",
       "timestamp": 1780690930
     },
     {
@@ -163,7 +306,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "46m ago",
+      "time": "2h ago",
       "timestamp": 1780690820
     },
     {
@@ -174,19 +317,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "49m ago",
+      "time": "2h ago",
       "timestamp": 1780690655
-    },
-    {
-      "title": "Juez anula política migratoria de Trump que bloqueaba asilo a ciudadanos de países como Venezuela",
-      "link": "https://www.elnacional.com/2026/06/juez-anula-politica-migratoria-de-trump-que-bloqueaba-asilo-a-ciudadanos-de-paises-como-venezuela/",
-      "summary": "El magistrado John McConnell Jr. calificó las medidas de arbitrarias y caprichosas, señalando que USCIS utilizó pretextos de seguridad nacional para encubrir discriminación basada en la nacionalidad.\n",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "53m ago",
-      "timestamp": 1780690454
     },
     {
       "title": "Hamas delegation in Cairo for Gaza ceasefire talks",
@@ -196,7 +328,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "57m ago",
+      "time": "2h ago",
       "timestamp": 1780690153
     },
     {
@@ -207,7 +339,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689892
     },
     {
@@ -218,7 +350,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689740
     },
     {
@@ -229,19 +361,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689732
-    },
-    {
-      "title": "Candidatos mantendrán la misma posición en tarjetón para la segunda vuelta en Colombia",
-      "link": "https://www.elnacional.com/2026/06/candidatos-mantendran-la-misma-posicion-en-tarjeton-para-la-segunda-vuelta-en-colombia/",
-      "summary": "El cuadrante derecho de la papeleta estará reservado de manera exclusiva para la casilla del \"voto en blanco\", opción que durante la jornada electoral de la primera vuelta acumuló un total de 406.970 ",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1780689683
     },
     {
       "title": "Juez anula política de Trump que pausó proceso migratorio y de asilo a personas de 39 países",
@@ -251,7 +372,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689556
     },
     {
@@ -262,7 +383,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689494
     },
     {
@@ -273,7 +394,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689452
     },
     {
@@ -284,19 +405,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780689083
-    },
-    {
-      "title": "¿Ahora sí? El inédito baile final de Lionel Messi y Cristiano Ronaldo, al menos en Mundiales",
-      "link": "https://www.elnacional.com/2026/06/ahora-si-el-inedito-baile-final-de-lionel-messi-y-cristiano-ronaldo-al-menos-en-mundiales/",
-      "summary": "De los considerados generalmente los más grandes del fútbol de todos los tiempos, ninguno llegó al Mundial con más de 39 años, ni con tantas Copas del Mundo encima (seis). En Norteamérica 2026 lo hará",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1780688677
     },
     {
       "title": "US judge blocks Trump restrictions on legal immigration",
@@ -306,7 +416,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1780688561
     },
     {
@@ -317,19 +427,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1780688441
-    },
-    {
-      "title": "Venezolanos apuestan por la dolarización ante acelerada depreciación del bolívar",
-      "link": "https://www.elnacional.com/2026/06/venezolanos-apuestan-por-la-dolarizacion-ante-acelerada-depreciacion-del-bolivar/",
-      "summary": "Estudio publicado por Bloomberg reveló que 57% de los venezolanos está de acuerdo con reemplazar la moneda nacional por el dólar estadounidense, mientras que 30% se manifiesta en contra de esa medida.",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1780688066
     },
     {
       "title": "Maggie O’Farrell’s Most Ambitious Novel Yet",
@@ -339,7 +438,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1780687829
     },
     {
@@ -350,30 +449,8 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1780687500
-    },
-    {
-      "title": "El Mineirazo: la histórica caída de Brasil ante su público",
-      "link": "https://www.elnacional.com/2026/06/el-mineirazo-la-historica-caida-de-brasil-ante-su-publico/",
-      "summary": "El triunfo sobre los brasileños permanece en la historia como el establecimiento de un nuevo orden táctico y técnico a nivel global.\nThe post El Mineirazo: la histórica caída de Brasil ante su público",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1780686900
-    },
-    {
-      "title": "Anthropic urges AI labs to pause, warns humans risk losing control",
-      "link": "https://www.aljazeera.com/economy/2026/6/5/anthropic-urges-ai-labs-to-pause-warns-humans-risk-losing-control?traffic_source=rss",
-      "summary": "It warned that rapid advances in technology could soon allow AI systems to improve themselves faster than human control.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1780686835
     },
     {
       "title": "Israelis accuse White House officials of leaking Iran plan to Turkey",
@@ -383,7 +460,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1780686766
     },
     {
@@ -394,7 +471,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1780686600
     },
     {
@@ -405,7 +482,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1780686402
     },
     {
@@ -416,7 +493,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1780686037
     },
     {
@@ -427,7 +504,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1780686033
     },
     {
@@ -438,7 +515,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1780685837
     },
     {
@@ -449,7 +526,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1780685523
     },
     {
@@ -460,7 +537,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780684800
     },
     {
@@ -471,7 +548,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780684473
     },
     {
@@ -482,7 +559,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780684146
     },
     {
@@ -493,7 +570,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780684062
     },
     {
@@ -504,7 +581,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683704
     },
     {
@@ -515,7 +592,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683639
     },
     {
@@ -526,7 +603,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683375
     },
     {
@@ -537,7 +614,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683356
     },
     {
@@ -548,7 +625,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683336
     },
     {
@@ -559,7 +636,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683067
     },
     {
@@ -570,7 +647,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "4h ago",
       "timestamp": 1780683067
     },
     {
@@ -581,7 +658,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780682700
     },
     {
@@ -592,7 +669,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780682700
     },
     {
@@ -603,7 +680,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780682404
     },
     {
@@ -614,7 +691,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780682337
     },
     {
@@ -625,19 +702,8 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780682240
-    },
-    {
-      "title": "Iran adviser says US talks deadlocked as war risks widen",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-adviser-says-us-talks-deadlocked-war-risks-widen",
-      "summary": "Iran adviser says US talks deadlocked as war risks widen\n\n    \n    \n\n        \n    \n                A senior Iranian military adviser says talks with Washington are stuck, warning that any renewed war ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1780682155
     },
     {
       "title": "“Mi hijo solo es chofer, y lo acusan de los mismos delitos que altos funcionarios”: denuncian vicios en caso Pdvsa-Cripto",
@@ -647,7 +713,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780681965
     },
     {
@@ -658,7 +724,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780681800
     },
     {
@@ -669,7 +735,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780681513
     },
     {
@@ -680,7 +746,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1780681342
     },
     {
@@ -691,7 +757,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1780680986
     },
     {
@@ -702,7 +768,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1780680900
     },
     {
@@ -713,7 +779,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1780679865
     },
     {
@@ -724,7 +790,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1780679549
     },
     {
@@ -735,7 +801,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1780679461
     },
     {
@@ -746,7 +812,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1780679456
     },
     {
@@ -757,7 +823,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780679100
     },
     {
@@ -768,7 +834,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780678990
     },
     {
@@ -779,7 +845,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780678808
     },
     {
@@ -790,19 +856,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780678804
-    },
-    {
-      "title": "IAEA chief says US and Iran close to nuclear framework",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iaea-chief-says-us-and-iran-close-nuclear-framework",
-      "summary": "IAEA chief says US and Iran close to nuclear framework\n\n    \n    \n\n        \n    \n                \nThe United Nations nuclear watchdog chief says Iran and the US are close to agreeing on a nuclear fram",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "4h ago",
-      "timestamp": 1780678148
     },
     {
       "title": "Rabat : Arrestation pour agression sexuelle sur une mineure de 5 ans",
@@ -812,7 +867,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780677900
     },
     {
@@ -823,7 +878,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1780677389
     },
     {
@@ -834,7 +889,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1780677220
     },
     {
@@ -845,7 +900,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1780676782
     },
     {
@@ -856,19 +911,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1780676464
-    },
-    {
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "4h ago",
-      "timestamp": 1780676076
     },
     {
       "title": "Estudiantes de la UCV rechazan cualquier intento de suspensión de las elecciones del 26 de junio",
@@ -878,7 +922,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1780675644
     },
     {
@@ -889,7 +933,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1780675643
     },
     {
@@ -900,7 +944,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1780675247
     },
     {
@@ -911,7 +955,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1780674302
     },
     {
@@ -922,7 +966,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1780674088
     },
     {
@@ -933,7 +977,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1780673621
     },
     {
@@ -944,19 +988,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1780673379
-    },
-    {
-      "title": "Sleeping in Mexico, Playing in America",
-      "link": "https://foreignpolicy.com/2026/06/05/mexico-america-trump-iran-fifa-olympics-world-cup/",
-      "summary": "The journey of Iran’s World Cup team sets a dangerous precedent for international soccer.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "5h ago",
-      "timestamp": 1780672307
     },
     {
       "title": "Editors’ Choice: Get off of my cloud?",
@@ -966,7 +999,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1780671665
     },
     {
@@ -977,7 +1010,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1780671598
     },
     {
@@ -988,7 +1021,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1780671555
     },
     {
@@ -999,7 +1032,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1780671221
     },
     {
@@ -1010,7 +1043,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1780671121
     },
     {
@@ -1021,7 +1054,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1780670536
     },
     {
@@ -1032,7 +1065,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1780669500
     },
     {
@@ -1043,7 +1076,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1780668659
     },
     {
@@ -1054,7 +1087,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1780668468
     },
     {
@@ -1065,7 +1098,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1780668080
     },
     {
@@ -1076,7 +1109,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1780667919
     },
     {
@@ -1087,7 +1120,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1780666821
     },
     {
@@ -1098,19 +1131,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1780666617
-    },
-    {
-      "title": "Does the United States Have the Weapons for Trade War?",
-      "link": "https://foreignpolicy.com/2026/06/05/trade-war-trump-china-economics/",
-      "summary": "Economic strategists are pitching tougher policies for an anxious world.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "7h ago",
-      "timestamp": 1780666055
     },
     {
       "title": "Anticorrupción pide las reuniones de Leire Díez en Fiscalía General del Estado",
@@ -1120,7 +1142,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1780665992
     },
     {
@@ -1131,7 +1153,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1780664970
     },
     {
@@ -1142,7 +1164,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1780664657
     },
     {
@@ -1153,7 +1175,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1780664634
     },
     {
@@ -1164,7 +1186,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1780664392
     },
     {
@@ -1175,7 +1197,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1780664062
     },
     {
@@ -1186,7 +1208,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1780663964
     },
     {
@@ -1197,7 +1219,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1780662479
     },
     {
@@ -1208,7 +1230,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1780662429
     },
     {
@@ -1219,7 +1241,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1780661342
     },
     {
@@ -1230,7 +1252,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "9h ago",
+      "time": "10h ago",
       "timestamp": 1780661126
     },
     {
@@ -1241,7 +1263,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "9h ago",
+      "time": "10h ago",
       "timestamp": 1780660462
     },
     {
@@ -1252,7 +1274,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "9h ago",
+      "time": "10h ago",
       "timestamp": 1780659922
     },
     {
@@ -1263,7 +1285,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "9h ago",
+      "time": "11h ago",
       "timestamp": 1780659171
     },
     {
@@ -1274,7 +1296,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "9h ago",
+      "time": "11h ago",
       "timestamp": 1780657850
     },
     {
@@ -1285,7 +1307,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1780657480
     },
     {
@@ -1296,7 +1318,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1780657106
     },
     {
@@ -1307,7 +1329,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1780656597
     },
     {
@@ -1318,7 +1340,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1780655829
     },
     {
@@ -1329,7 +1351,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1780655142
     },
     {
@@ -1340,7 +1362,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1780654831
     },
     {
@@ -1351,7 +1373,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1780654814
     },
     {
@@ -1362,7 +1384,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1780654144
     },
     {
@@ -1373,7 +1395,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1780653673
     },
     {
@@ -1384,7 +1406,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "11h ago",
+      "time": "13h ago",
       "timestamp": 1780652406
     },
     {
@@ -1395,7 +1417,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "11h ago",
+      "time": "13h ago",
       "timestamp": 1780652161
     },
     {
@@ -1406,7 +1428,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "13h ago",
       "timestamp": 1780652069
     },
     {
@@ -1417,7 +1439,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "11h ago",
+      "time": "13h ago",
       "timestamp": 1780651557
     },
     {
@@ -1428,7 +1450,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "12h ago",
+      "time": "13h ago",
       "timestamp": 1780650204
     },
     {
@@ -1439,30 +1461,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "12h ago",
+      "time": "13h ago",
       "timestamp": 1780650046
-    },
-    {
-      "title": "Life under Israeli occupation inside Lebanon's 'yellow line'",
-      "link": "https://www.lemonde.fr/en/international/article/2026/06/05/life-under-israeli-occupation-inside-lebanon-s-yellow-line_6754167_4.html",
-      "summary": "In one of the few villages still inhabited within the 'yellow line,' a buffer zone occupied by the Israeli army, disappearances and restrictions on movement are alarming residents and making their liv",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "12h ago",
-      "timestamp": 1780650008
-    },
-    {
-      "title": "Ever-extreme Eric Zemmour prepares second bid for French president",
-      "link": "https://www.lemonde.fr/en/politics/article/2026/06/05/ever-extreme-eric-zemmour-prepares-second-bid-for-french-president_6754163_5.html",
-      "summary": "For a time, Zemmour's partner, Sarah Knafo, had positioned herself as a potential candidate for the couple's party, Reconquête. But the far-right polemicist is claiming the limelight again.",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "12h ago",
-      "timestamp": 1780648036
     },
     {
       "title": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
@@ -1472,7 +1472,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "13h ago",
+      "time": "14h ago",
       "timestamp": 1780646429
     },
     {
@@ -1483,7 +1483,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "13h ago",
+      "time": "14h ago",
       "timestamp": 1780646418
     },
     {
@@ -1494,7 +1494,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "13h ago",
+      "time": "14h ago",
       "timestamp": 1780646361
     },
     {
@@ -1505,7 +1505,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "14h ago",
       "timestamp": 1780645800
     },
     {
@@ -1516,7 +1516,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "15h ago",
       "timestamp": 1780644660
     },
     {
@@ -1527,7 +1527,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "13h ago",
+      "time": "15h ago",
       "timestamp": 1780644648
     },
     {
@@ -1538,7 +1538,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "14h ago",
+      "time": "15h ago",
       "timestamp": 1780642800
     },
     {
@@ -1549,7 +1549,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "14h ago",
+      "time": "16h ago",
       "timestamp": 1780640590
     },
     {
@@ -1560,7 +1560,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "14h ago",
+      "time": "16h ago",
       "timestamp": 1780640398
     },
     {
@@ -1571,7 +1571,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "14h ago",
+      "time": "16h ago",
       "timestamp": 1780640017
     },
     {
@@ -1582,7 +1582,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "16h ago",
+      "time": "17h ago",
       "timestamp": 1780635300
     },
     {
@@ -1593,7 +1593,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632114
     },
     {
@@ -1604,7 +1604,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632114
     },
     {
@@ -1615,7 +1615,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632113
     },
     {
@@ -1626,7 +1626,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632113
     },
     {
@@ -1637,7 +1637,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632000
     },
     {
@@ -1648,7 +1648,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632000
     },
     {
@@ -1659,7 +1659,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "17h ago",
+      "time": "18h ago",
       "timestamp": 1780632000
     },
     {
@@ -1670,7 +1670,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "17h ago",
+      "time": "19h ago",
       "timestamp": 1780630201
     },
     {
@@ -1681,7 +1681,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "19h ago",
+      "time": "21h ago",
       "timestamp": 1780621635
     },
     {
@@ -1692,7 +1692,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "22h ago",
+      "time": "1d ago",
       "timestamp": 1780612105
     },
     {
@@ -1703,7 +1703,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1780610700
     },
     {
@@ -1815,17 +1815,6 @@
       "tier": 2,
       "time": "1d ago",
       "timestamp": 1780564306
-    },
-    {
-      "title": "Putin en Pekín: la solidez estratégica de una relación desigual",
-      "link": "https://www.realinstitutoelcano.org/analisis/putin-en-pekin-la-solidez-estrategica-de-una-relacion-desigual/",
-      "summary": "Mensajes clave Análisis Introducción La visita resiente de Vladímir Putin a Pekín (19 y 20 de mayo de 2026) fue presentada por Rusia y China como una nueva confirmación de la solidez de sus relaciones",
-      "source": "Elcano Institute",
-      "region": "academic",
-      "tag": "academic",
-      "tier": 3,
-      "time": "1d ago",
-      "timestamp": 1780563600
     },
     {
       "title": "Oltra y Rufián compartirán un acto conjunto en València para \"inspirar\" frente a la \"salvajada\" que viene",
@@ -1960,17 +1949,6 @@
       "timestamp": 1780500759
     },
     {
-      "title": "Ucrania, de alumno a maestro",
-      "link": "https://www.realinstitutoelcano.org/comentarios/ucrania-de-alumno-a-maestro/",
-      "summary": "Si la suerte de Ucrania sólo dependiera de Vladímir Putin o de Donald Trump hace ya tiempo que la guerra habría llegado a su fin, con una estrepitosa derrota para Kyiv. Únicamente cabría elucubrar sob",
-      "source": "Elcano Institute",
-      "region": "academic",
-      "tag": "academic",
-      "tier": 3,
-      "time": "2d ago",
-      "timestamp": 1780495200
-    },
-    {
       "title": "The Rain in Spain Falls Harder on Ukraine: Rethinking the Spanish Civil War Analogy",
       "link": "https://warontherocks.com/the-rain-in-spain-falls-harder-on-ukraine-rethinking-the-spanish-civil-war-analogy/",
       "summary": "In 2023, the NATO Baltic Defense College in Tartu, Estonia devoted its entire annual conference to the Interwar Period (1919 to 1939), a theme repeated at subsequent conferences sponsored by national ",
@@ -1989,7 +1967,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2d ago",
+      "time": "3d ago",
       "timestamp": 1780437774
     },
     {
@@ -2002,17 +1980,6 @@
       "tier": 1,
       "time": "3d ago",
       "timestamp": 1780420131
-    },
-    {
-      "title": "¿Están cotizando los mercados financieros el riesgo geopolítico?",
-      "link": "https://www.realinstitutoelcano.org/comentarios/estan-cotizando-los-mercados-financieros-el-riesgo-geopolitico/",
-      "summary": "Los shocks geopolíticos se superponen. La invasión rusa de Ucrania ha entrado ya en su quinto año; Gaza y el Líbano siguen siendo focos de inestabilidad; a comienzos de 2026, la intervención estadouni",
-      "source": "Elcano Institute",
-      "region": "academic",
-      "tag": "academic",
-      "tier": 3,
-      "time": "3d ago",
-      "timestamp": 1780408800
     },
     {
       "title": "The War Room newsletter: How the character of war has changed",
@@ -2046,17 +2013,6 @@
       "tier": 1,
       "time": "4d ago",
       "timestamp": 1780334941
-    },
-    {
-      "title": "La colaboración con los proveedores de servicios en línea en la lucha contra el terrorismo: una aproximación a la Unidad Nacional para la Eliminación de Contenidos Ilícitos (UNECI)",
-      "link": "https://www.realinstitutoelcano.org/analisis/la-colaboracion-con-los-proveedores-de-servicios-en-linea-en-la-lucha-contra-el-terrorismo-una-aproximacion-a-la-unidad-nacional-para-la-eliminacion-de-contenidos-ilicitos-uneci/",
-      "summary": "Mensajes clave Análisis Internet se ha convertido en una herramienta indispensable para los grupos terroristas y extremistas violentos. En la UE, la respuesta legislativa al extremismo violento y al t",
-      "source": "Elcano Institute",
-      "region": "academic",
-      "tag": "academic",
-      "tier": 3,
-      "time": "4d ago",
-      "timestamp": 1780308000
     },
     {
       "title": "Brazil’s New ‘Terrorist’ Groups – the PCC and the Red Command – Explained",
@@ -2147,17 +2103,6 @@
       "timestamp": 1779966625
     },
     {
-      "title": "La dimisión de Joe Kent por la guerra con Irán: reconfiguración de la política de seguridad y fracturas en el movimiento MAGA",
-      "link": "https://www.realinstitutoelcano.org/analisis/la-dimision-de-joe-kent-por-la-guerra-con-iran-reconfiguracion-de-la-politica-de-seguridad-y-fracturas-en-el-movimiento-maga/",
-      "summary": "Mensajes clave[1] Análisis El pasado 17 de marzo, Joe Kent, director del NCTC de EEUU, dimitió alegando su oposición frontal a la guerra contra Irán, que considera injustificada y contraria a los inte",
-      "source": "Elcano Institute",
-      "region": "academic",
-      "tag": "academic",
-      "tier": 3,
-      "time": "8d ago",
-      "timestamp": 1779958934
-    },
-    {
       "title": "Centrists crying “Wolf!”",
       "link": "https://www.economist.com/international/2026/05/26/centrists-crying-wolf",
       "summary": "The wrong way to beat populists who deny the existence of hard problems",
@@ -2231,7 +2176,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "16d ago",
+      "time": "17d ago",
       "timestamp": 1779228336
     },
     {
@@ -2374,7 +2319,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "3758d ago",
+      "time": "3759d ago",
       "timestamp": 1455920006
     },
     {
@@ -2461,20 +2406,20 @@
       "name": "Javier Milei",
       "role": "Argentina President",
       "region": "latam",
-      "text": "Acertado.\n\n\n¿Por qué es tendencia? (@porquetendencia)\n\n\"Congreso\":\nPorque Martín Menem informó que ‘el Palacio Legislativo no reúne las condiciones de infraestructura, logística y seguridad necesarias’ para la despedida del Indio Solari\n\n\n\n\n\n—",
-      "time": "41m ago",
-      "timestamp": 1780691173,
-      "url": "https://nitter.net/Santiago_Oria/status/2062994423223394812#m"
+      "text": "RT by @JMilei: Federico Sturzenegger (@fedesturze) anticipa un cambio en el mapa económico argentino: menos concentración en AMBA y más desarrollo en provincias como Neuquén, San Juan y Corrientes.",
+      "time": "1h ago",
+      "timestamp": 1780693584,
+      "url": "https://nitter.net/Miguel_Boggiano/status/2063004533916148021#m"
     },
     {
       "handle": "JMilei",
       "name": "Javier Milei",
       "role": "Argentina President",
       "region": "latam",
-      "text": "RT by @JMilei: Me gustaría saber en que estadios y auditorios se presentan los liberales de café, porque hablan como si hubieran enseñado a millones de personas sobre liberalismo como lo ha hecho Milei, ya que no solo van con el liberalometro sino también hablan como si tuvieran ",
-      "time": "50m ago",
-      "timestamp": 1780690637,
-      "url": "https://nitter.net/DiegoMac227/status/2062992172719169541#m"
+      "text": "FENÓMENO BARRIAL\n\nArticulo de Javier Milei @JMilei\n\n\n\n\nCONTRA RELATO (@contrarelatoarg)\n\nEl artículo del Presidente Javier Milei en el Financial Times, titulado “Argentina invites AI to free itself”, se ubicó entre las columnas más leídas de la sección Opinión y fue destacado por",
+      "time": "1h ago",
+      "timestamp": 1780692525,
+      "url": "https://nitter.net/PLibertarioMx/status/2063000094727643280#m"
     },
     {
       "handle": "Keir_Starmer",
@@ -2482,7 +2427,7 @@
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "A true giant in journalism, Jon Snow has spent his life asking difficult questions and telling important stories.\n\nNow, in sharing his Alzheimer’s diagnosis, he is helping others feel less alone and raising awareness of a condition that affects so many families.",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780678961,
       "url": "https://nitter.net/Keir_Starmer/status/2062943202093461553#m"
     },
@@ -2492,7 +2437,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: PRESENTACIÓN DE CARTAS CREDENCIALES ANTE EL GRAN DUQUE DE LUXEMBURGO\n\nEl día 4 de junio, acompañado por el ministro consejero de la Embajada Argentina en Bruselas, Juan Beretervide, el embajador Fernando Iglesias @FerIglesias presentó ante Su Alteza Real, el Gran D",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780677926,
       "url": "https://nitter.net/ARGanteUE/status/2062938858845512015#m"
     },
@@ -2502,7 +2447,7 @@
       "role": "Turkey President",
       "region": "mena",
       "text": "Katılım finans sistemini Türkiye’nin ekonomik kalkınması ve finans istikrarı açısından stratejik bir unsur olarak değerlendiriyoruz.\n\n2027-2030 dönemini kapsayacak Katılım Finans Strateji Belgesi’nin hazırlıklarını sürdürüyoruz.\n\nVideo",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1780677900,
       "url": "https://nitter.net/RTErdogan/status/2062938750708330833#m"
     },
@@ -2512,7 +2457,7 @@
       "role": "Turkey President",
       "region": "mena",
       "text": "Cumhuriyetimizin en köklü kurumlarından biri olan Emlak Bankasını 2018 yılında yaptığımız düzenlemeyle Emlak Katılıma çevirmiş, böylelikle bu organizasyonu hem aslına hem de katılım finans ruhuna uygun şekilde yeniden ihya etmiştik.\n\nBu adım neticesinde kurumumuz kısa sürede katı",
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1780675200,
       "url": "https://nitter.net/RTErdogan/status/2062927426255228943#m"
     },
@@ -2522,7 +2467,7 @@
       "role": "French President",
       "region": "europe",
       "text": "Derrière cette photo de famille des Européens au Monténégro, il y a l’élan des peuples des Balkans occidentaux vers l’Europe.\n \nParce que l’Europe porte en elle cette promesse de liberté, d’égalité, de démocratie et de souveraineté.\n\nNous sommes aux côtés des peuples des Balkans ",
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1780674430,
       "url": "https://nitter.net/EmmanuelMacron/status/2062924196972310680#m"
     },
@@ -2532,7 +2477,7 @@
       "role": "Turkey President",
       "region": "mena",
       "text": "3’üncü İstanbul Dünya İslam Ekonomisi Zirvesi’nin, burada yapılacak tespit ve teşhislerin, ortaya konulacak teklif ve tenkitlerin hayırlara vesile olmasını diliyorum.\n\nTürkiye’nin yanı sıra dünyanın farklı ülkelerinden zirveye iştirak eden tüm misafirlerimize teşekkür ediyorum.",
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1780672500,
       "url": "https://nitter.net/RTErdogan/status/2062916102175228197#m"
     },
@@ -2621,24 +2566,34 @@
       "name": "Nayib Bukele",
       "role": "El Salvador President",
       "region": "latam",
-      "text": "Nayib Bukele (@nayibbukele)\n\nThe best hospital in Central America.\n\nWith every medical specialty, the most advanced technology in the world, and top-quality care.\n\nPublic. Dignified. Free. For everyone.\n\nVideo\n  \n\n\n\n\n\n—",
+      "text": "Je pense que les gens ne réalisent pas qu’une fois que tu as réglé la criminalité, que les rues sont propres et paisibles, et qu’un minuscule pourcentage de personnes cherche à gruger le système, le jeu passe littéralement en mode facile. Tu peux te concentrer sur l’économie, les",
       "time": "2d ago",
-      "timestamp": 1780485901,
-      "url": "https://nitter.net/marcorandazza/status/2062133448706335060#m"
+      "timestamp": 1780472857,
+      "url": "https://nitter.net/OuranosMK/status/2062078738590732299#m"
     },
     {
       "handle": "nayibbukele",
       "name": "Nayib Bukele",
       "role": "El Salvador President",
       "region": "latam",
-      "text": "Je pense que les gens ne réalisent pas qu’une fois que tu as réglé la criminalité, que les rues sont propres et paisibles, et qu’un minuscule pourcentage de personnes cherche à gruger le système, le jeu passe littéralement en mode facile. Tu peux te concentrer sur l’économie, les",
+      "text": "Nigeria’s economy is 6–8 times larger than El Salvador’s.\n\nEven its GDP is eight times bigger than theirs. \n\nNigeria is richer than El Salvador, and yet it cannot even boast of having a world-class hospital like this.\n\n\nNayib Bukele (@nayibbukele)\n\nThe best hospital in Central Am",
       "time": "2d ago",
-      "timestamp": 1780472857,
-      "url": "https://nitter.net/OuranosMK/status/2062078738590732299#m"
+      "timestamp": 1780469423,
+      "url": "https://nitter.net/joestackss/status/2062064337280201184#m"
+    },
+    {
+      "handle": "realDonaldTrump",
+      "name": "Donald Trump",
+      "role": "US President",
+      "region": "global",
+      "text": "Horrible Congressman Thomas Massie put out an old Endorsement, from many years ago, of him by me long before I found out that he was the Worst Congressman in the History of our Country. I endorsed Ed Gallrein, a true American Patriot, which Massie knows full well, so the statemen",
+      "time": "17d ago",
+      "timestamp": 1779220758,
+      "url": "https://nitter.net/realDonaldTrump/status/2056827052851105947#m"
     }
   ],
   "failed_sources": [],
-  "total": 223,
+  "total": 218,
   "economic": {
     "regional": {
       "eur_mad": {
