@@ -1,38 +1,808 @@
 {
-  "updated": "2026-06-25T08:22:09.641731+00:00",
+  "updated": "2026-06-25T11:15:44.226963+00:00",
   "articles": [
     {
-      "title": "Funvisis registra diez sismos de madrugada tras potentes terremotos: seis en La Guaira",
-      "link": "https://www.elnacional.com/2026/06/funvisis-registra-diez-sismos-de-madrugada-tras-potentes-terremotos-seis-en-la-guaira/",
-      "summary": "Los movimientos telúricos, con magnitudes de hasta 4,5, afectaron principalmente a La Guaira y Miranda.\nThe post Funvisis registra diez sismos de madrugada tras potentes terremotos: seis en La Guaira ",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "0m ago",
-      "timestamp": 1782375639
-    },
-    {
-      "title": "A Brazilian Ozempic Rival Takes On a $1 Billion Weight-Loss Market",
-      "link": "https://www.riotimesonline.com/brazil-ozempic-rival-hypera-semaglutide-glp1-2026/",
-      "summary": "Markets Key Facts —The move. Brazil&#8217;s Hypera filed to launch Semavy, its own semaglutide pen. —The rival. It targets the same drug class as Novo Nordisk&#8217;s Ozempic. —The market. Semaglutide",
+      "title": "Barbados Opens Its Deep Waters to Oil, Testing a Climate Champion",
+      "link": "https://www.riotimesonline.com/barbados-offshore-oil-19-blocks-mottley-climate-licensing-2026/",
+      "summary": "Barbados opened 19 ultra-deepwater blocks for oil and gas bids, testing whether a leading climate voice can drill at home while preaching restraint abroad.\nThe post Barbados Opens Its Deep Waters to O",
       "source": "Rio Times",
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "3m ago",
-      "timestamp": 1782375469
+      "time": "1m ago",
+      "timestamp": 1782385994
     },
     {
-      "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dejando al menos 32 muertos y 700 heridos",
+      "title": "Brazil Builds a New Road to Asia, Pointing West Toward the Pacific",
+      "link": "https://www.riotimesonline.com/brazil-bolivia-pacific-corridor-asia-exports-2026/",
+      "summary": "Economy Key Facts —The move. Brazil signed a plan to route exports west to Pacific ports. —The path. A land corridor would cross Bolivia from Brazil&#8217;s farm belt. —The goal. The aim is faster, ch",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "2m ago",
+      "timestamp": 1782385914
+    },
+    {
+      "title": "Billionaire who owns Camden Market 'finances' Israeli military programmes",
+      "link": "https://www.middleeasteye.net/news/uk-prize-draw-players-funding-israeli-billionaire-who-finances-military",
+      "summary": "Billionaire who owns Camden Market 'finances' Israeli military programmes\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 06/25/2026 - 11:32\n\n        \n      \n    \n      ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "2m ago",
+      "timestamp": 1782385888
+    },
+    {
+      "title": "Lithium Before Democracy: A Serbian Strongman and His German Shadow",
+      "link": "https://balkaninsight.com/2026/06/25/lithium-before-democracy-a-serbian-strongman-and-his-german-shadow/bi/",
+      "summary": "Paid from German coffers, Jörg Heeskens has been advising Serbia’s Aleksandar Vucic since almost the moment he took power. A mountain of documents obtained by BIRN/Der Spiegel show just how closely He",
+      "source": "Balkan Insight",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "3m ago",
+      "timestamp": 1782385803
+    },
+    {
+      "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
+      "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "3m ago",
+      "timestamp": 1782385787
+    },
+    {
+      "title": "Amazon pledges additional $13bn in India AI investment",
+      "link": "https://www.dawn.com/news/2010789/amazon-pledges-additional-13bn-in-india-ai-investment",
+      "summary": "E-commerce giant Amazon announced on Thursday an additional $13 billion investment by 2030 to expand its artificial intelligence footprint in India, months after declaring plans to invest more than $3",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "5m ago",
+      "timestamp": 1782385712
+    },
+    {
+      "title": "Oman says 'no transit fees' in any future arrangement on Hormuz",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-says-no-transit-fees-any-future-arrangement-hormuz",
+      "summary": "Oman says 'no transit fees' in any future arrangement on Hormuz\n\n    \n    \n\n        \n    \n                Oman's top diplomat said no transit fees would be imposed in the Strait of Hormuz on Thursday ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "6m ago",
+      "timestamp": 1782385661
+    },
+    {
+      "title": "Country observes Muharram 9 amid tight security arrangements",
+      "link": "https://www.dawn.com/news/2010752/country-observes-muharram-9-amid-tight-security-arrangements",
+      "summary": "The country is observing Muharram 9 amid tight security arrangements to commemorate the martyrdom of Hazrat Imam Hussain (RA) and his companions in the Battle of Karbala in 680 AD.\nThe central process",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "8m ago",
+      "timestamp": 1782385559
+    },
+    {
+      "title": "Colombia’s Gas Is Running Out Just as a Drought Threatens Its Power",
+      "link": "https://www.riotimesonline.com/colombia-gas-reserves-energy-import-el-nino-2026/",
+      "summary": "Energy Key Facts —The headline. Colombia&#8217;s proved gas reserves fell 16.8% in 2025, to 1,717 gigacubic feet. —The decade. Since 2018, proved gas reserves are down about 54.6%. —The cushion. At cu",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "9m ago",
+      "timestamp": 1782385471
+    },
+    {
+      "title": "Guatemala Ports Law Stalls as Quetzal Congestion Bites",
+      "link": "https://www.riotimesonline.com/guatemala-ports-law-private-concession-quetzal-congestion-2026/",
+      "summary": "Guatemala ports reform that would open terminals to private investors has stalled in Congress as its busiest Pacific harbour chokes on rising cargo.\nThe post Guatemala Ports Law Stalls as Quetzal Cong",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "12m ago",
+      "timestamp": 1782385334
+    },
+    {
+      "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
+      "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
+      "summary": "Rubio&#039;s Gulf tour is the first high-level diplomatic mission since the US-Iran framework agreement last week.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "14m ago",
+      "timestamp": 1782385184
+    },
+    {
+      "title": "White House helped Mark Zuckerberg and the Google CEO dodge a Senate grilling",
+      "link": "https://www.politico.com/news/2026/06/24/white-house-helped-mark-zuckerberg-and-the-google-ceo-dodge-a-senate-grilling-00974497?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Judiciary Chair Chuck Grassley has agreed to let the heads of the tech giants’ Instagram and YouTube brands testify in the chief executives’ place at a hearing tentatively set for next month, accordin",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "14m ago",
+      "timestamp": 1782385138
+    },
+    {
+      "title": "Venezuela earthquakes: ‘intensive’ search for survivors as death toll rises to 164 – latest updates",
+      "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
+      "summary": "Delcy Rodríguez said authorities were shifting rescue teams from other parts of the country to the hardest-hit La Guaira areaVenezuela hit by double earthquake as experts warn of high death tollHave y",
+      "source": "The Guardian",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "15m ago",
+      "timestamp": 1782385101
+    },
+    {
+      "title": "Primeros testimonios tras el terremoto: \"El edificio tenía grietas, la nevera de mi casa se desplazó metro y medio\"",
+      "link": "https://www.elmundo.es/internacional/2026/06/25/6a3cd6e021efa028098b4590.html",
+      "summary": "El doble terremoto provoca graves daños en La Guaira y sacude, entre otras zonas, Caracas, la capital venezolana&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "16m ago",
+      "timestamp": 1782385073
+    },
+    {
+      "title": "Chile Salmon Reform Could Unlock $520M a Year in Exports",
+      "link": "https://www.riotimesonline.com/chile-salmon-concession-reform-kast-export-unlock-2026/",
+      "summary": "Chile salmon producers say a permit-reform package in Kast's recovery bill could lift exports by up to 520 million dollars a year without new sea space.\nThe post Chile Salmon Reform Could Unlock $520M",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "18m ago",
+      "timestamp": 1782384973
+    },
+    {
+      "title": "Erdogan applauds Iraqi Kurds' neutrality during Iran war",
+      "link": "https://www.middleeasteye.net/news/erdogan-applauds-iraqi-kurds-neutrality-during-iran-war",
+      "summary": "Erdogan applauds Iraqi Kurds' neutrality during Iran war\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 06/25/2026 - 10:54\n\n        \n      \n    \n      \n    \n           ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "19m ago",
+      "timestamp": 1782384876
+    },
+    {
+      "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dejando al menos 164 muertos y un millar de heridos",
       "link": "https://elpais.com/america/2026-06-24/el-terremoto-en-venezuela-en-vivo.html",
-      "summary": "Los sismos de 7,2 y 7,5 de magnitud han afectado el norte del país y la capital venezolana | La Guaira, cercano a Caracas, es el estado más afectado",
+      "summary": "El Servicio Geológico de Estados Unidos estima una posibilidad del 42% de que haya entre 10.000 y 100.000 muertos | La Guaira, cercano a Caracas, es el estado más afectado por los sismos de magnitud 7",
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "3m ago",
-      "timestamp": 1782375458
+      "time": "19m ago",
+      "timestamp": 1782384842
+    },
+    {
+      "title": "German appetite for Russian cod puts EU fish sanctions at risk",
+      "link": "https://euobserver.com/224028/german-appetite-for-russian-cod-puts-eu-fish-sanctions-at-risk/",
+      "summary": "Ursula von der Leyen announced a ban on Russian cod earlier this month, as part of the next sanctions package - but at least four EU states are holding out against it.",
+      "source": "EUobserver",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "20m ago",
+      "timestamp": 1782384805
+    },
+    {
+      "title": "Europe faces another day of extreme heat after more temperature records set",
+      "link": "https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set?traffic_source=rss",
+      "summary": "France under extreme heat alert as 63 million endure 30+C temperatures, with widespread power outages in Brittany.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "21m ago",
+      "timestamp": 1782384767
+    },
+    {
+      "title": "France's public debt soars above €3.5 trillion",
+      "link": "https://www.lemonde.fr/en/politics/article/2026/06/25/france-s-public-debt-soars-above-3-5-trillion_6754865_5.html",
+      "summary": "France's debt reached €3.536 trillion at the end of March, the national statistics agency said on Thursday. This amounts to 117.5% of GDP, nearly as high as it was after the Covid-19 pandemic, and the",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "23m ago",
+      "timestamp": 1782384645
+    },
+    {
+      "title": "Sube a 164 el número de muertos y a casi 1.000 el de heridos por terremotos en Venezuela",
+      "link": "https://www.elnacional.com/2026/06/sube-a-164-el-numero-de-muertos-y-a-casi-1-000-el-de-heridos-por-terremotos-en-venezuela/",
+      "summary": "La presidenta encargada, Delcy Rodríguez, aseguró que se han contabilizado 30 réplicas en las últimas horas.\nThe post Sube a 164 el número de muertos y a casi 1.000 el de heridos por terremotos en Ven",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "23m ago",
+      "timestamp": 1782384644
+    },
+    {
+      "title": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
+      "link": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
+      "summary": "President Putin has hinted at peace talks as the economy fails, people flee cities and toxic &#039;oil rains&#039; fall.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "23m ago",
+      "timestamp": 1782384611
+    },
+    {
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "25m ago",
+      "timestamp": 1782384489
+    },
+    {
+      "title": "Argentina Finally Convicts Officials in the Odebrecht Bribery Scandal",
+      "link": "https://www.riotimesonline.com/argentina-odebrecht-officials-convicted-gas-pipelines-2026/",
+      "summary": "Economy Key Facts —The ruling. An Argentine court convicted three former officials in the Odebrecht case. —The lead figure. Former minister Julio De Vido received three years and a lifetime office ban",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "27m ago",
+      "timestamp": 1782384390
+    },
+    {
+      "title": "Death toll from Venezuela's massive twin quakes jumps to 164, nearly 1,000 injured: president",
+      "link": "https://www.dawn.com/news/2010737/death-toll-from-venezuelas-massive-twin-quakes-jumps-to-164-nearly-1000-injured-president",
+      "summary": "The death toll from Venezuela’s devastating earthquakes has risen to at least 164, with 971 people injured, interim president Delcy Rodriguez said on Thursday.\nA magnitude 7.2 earthquake hit about 160",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "30m ago",
+      "timestamp": 1782384203
+    },
+    {
+      "title": "UK doctors reject IHRA definition and back protections for staff speaking on Palestine",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-doctors-reject-ihra-definition-and-back-protections-staff-speaking",
+      "summary": "UK doctors reject IHRA definition and back protections for staff speaking on Palestine\n\n    \n    \n\n        \n    \n                The&nbsp;British&nbsp;Medical Association (BMA) has voted to drop the&n",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "30m ago",
+      "timestamp": 1782384193
+    },
+    {
+      "title": "Mapas y primeros datos del devastador doble terremoto en Venezuela",
+      "link": "https://elpais.com/internacional/2026-06-25/mapas-y-primeros-datos-del-devastador-doble-terremoto-en-venezuela.html",
+      "summary": "Se cuentan 164 fallecidos, pero las estimaciones del USGS dicen que es muy probable que haya más de 1.000 muertos, y que podrían superarse los 10.000",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "32m ago",
+      "timestamp": 1782384100
+    },
+    {
+      "title": "Ecuador Reopens Its Mining Map, With the IMF Watching the Clock",
+      "link": "https://www.riotimesonline.com/ecuador-mining-cadastre-imf-benchmark-noboa-concessions-2026/",
+      "summary": "Ecuador must reopen its frozen mining cadastre by end-June under an IMF deadline, a test of whether billions in stalled copper and gold projects move.\nThe post Ecuador Reopens Its Mining Map, With the",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "32m ago",
+      "timestamp": 1782384087
+    },
+    {
+      "title": "Venezuela earthquakes: Why is Central America so vulnerable to tremors?",
+      "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-earthquakes-why-is-central-america-so-vulnerable-to-tremors?traffic_source=rss",
+      "summary": "Venezuela and Japan are both hit by strong quakes, but Venezuela faces higher risks due to weaker building standards.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "34m ago",
+      "timestamp": 1782383998
+    },
+    {
+      "title": "France intercepts suspected Russia-linked oil tanker off the coast of Sicily",
+      "link": "https://www.lemonde.fr/en/international/article/2026/06/25/france-intercepts-suspected-russia-linked-oil-tanker-off-the-coast-of-sicily_6754864_4.html",
+      "summary": "French maritime authorities said the vessel, the fifth alleged Russian vessel France has boarded, was flying a false flag. 'We will not allow the 'shadow fleet' to circumvent sanctions and finance Rus",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "33m ago",
+      "timestamp": 1782383997
+    },
+    {
+      "title": "Three-year-old found dead in car in Paris region during France heatwave",
+      "link": "https://www.lemonde.fr/en/france/article/2026/06/25/three-year-old-found-dead-in-car-in-paris-region-during-france-heatwave_6754860_7.html",
+      "summary": "Civil defense confirmed his death in the town of Saint-Gratien in the Paris suburbs, the third such fatality of a child during the extreme weather this week.",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "36m ago",
+      "timestamp": 1782383824
+    },
+    {
+      "title": "Israeli forces kill unarmed man 'in bedroom' during West Bank home raid",
+      "link": "https://www.middleeasteye.net/news/israeli-forces-kill-unarmed-man-west-bank-home-raid",
+      "summary": "Israeli forces kill unarmed man 'in bedroom' during West Bank home raid\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nThu, 06/25/2026 - 11:13\n\n        \n      \n    \n      \n ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "38m ago",
+      "timestamp": 1782383755
+    },
+    {
+      "title": "Trumpism gains ground in Latin America",
+      "link": "https://www.lemonde.fr/en/opinion/article/2026/06/25/trumpism-gains-ground-in-latin-america_6754859_23.html",
+      "summary": "The recent electoral successes of the far right in Peru and Colombia bolster the view that the ideas of US President Donald Trump are resonating in the region and that his influence continues to grow.",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "41m ago",
+      "timestamp": 1782383553
+    },
+    {
+      "title": "Guyana Has Nearly Paid Off Exxon. Now Comes the Real Money",
+      "link": "https://www.riotimesonline.com/guyana-oil-profits-exxon-cost-bank-ring-fencing-2026/",
+      "summary": "Guyana has nearly repaid Exxon's costs for seven oil projects, a turning point that should hand it half the profits, unless ring-fencing delays it.\nThe post Guyana Has Nearly Paid Off Exxon. Now Comes",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "41m ago",
+      "timestamp": 1782383542
+    },
+    {
+      "title": "Iran, India discuss expanding energy ties after years of reduced trade",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-india-discuss-expanding-energy-ties-after-years-reduced-trade",
+      "summary": "Iran, India discuss expanding energy ties after years of reduced trade\n\n    \n    \n\n        \n    \n                Iran&nbsp;and India discussed strengthening energy cooperation and trade during a meeti",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "45m ago",
+      "timestamp": 1782383335
+    },
+    {
+      "title": "Rescatistas de al menos cinco países llegarán a Venezuela en las próximas horas",
+      "link": "https://www.elnacional.com/2026/06/rescatistas-de-al-menos-cinco-paises-llegaran-a-venezuela-en-las-proximas-horas/",
+      "summary": "Estados Unidos, El Salvador, República Dominicana, México y Francia activaron el despliegue inmediato de rescatistas, personal médico, aeronaves y toneladas de insumos para apoyar en las zonas de desa",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "53m ago",
+      "timestamp": 1782382880
+    },
+    {
+      "title": "UK doctors reject IHRA definition and back protections for staff speaking on Palestine",
+      "link": "https://www.middleeasteye.net/news/uk-doctors-reject-ihra-definition-and-back-protections-staff-speaking-palestine",
+      "summary": "UK doctors reject IHRA definition and back protections for staff speaking on Palestine\n\n    \n    \n\n          \n      \n      \n        Submitted by \nAreeb Ullah\n on \nWed, 06/24/2026 - 16:42\n\n        \n   ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "54m ago",
+      "timestamp": 1782382796
+    },
+    {
+      "title": "Estado de emergencia y \"un número devastador de muertos\" tras los dos terremotos que han sacudido Venezuela",
+      "link": "https://www.elmundo.es/internacional/2026/06/25/6a3cb61de9cf4aeb588b4593.html",
+      "summary": "Los seísmos, de 7,2 y 7,5 en la escala Richter, han destruido parte de la zona de costera y se han dejado sentir, además, en Caracas y áreas del interior&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "54m ago",
+      "timestamp": 1782382753
+    },
+    {
+      "title": "Fiktion der Einzelfallprüfung",
+      "link": "https://verfassungsblog.de/fiktion-der-einzelfallprufung/",
+      "summary": "Die Vereinbarkeit einer AfD-Mitgliedschaft mit der beamtenrechtlichen Verfassungstreuepflicht prägt den juristischen Diskurs. So auch im jüngsten Fall vor dem VG Berlin, das die Nichteinstellung eines",
+      "source": "Verfassungsblog",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "54m ago",
+      "timestamp": 1782382740
+    },
+    {
+      "title": "Dos potentes terremotos de 7,2 y 7,5 de magnitud sacuden el norte de Venezuela y golpean Caracas",
+      "link": "https://elpais.com/america/2026-06-24/un-terremoto-de-71-sacude-la-costa-norte-de-venezuela.html",
+      "summary": "Delcy Rodríguez confirma que hay al menos 164 muertos y un millar de heridos, y Estados Unidos habla de “desastre generalizado”. La Guaira, cercana a la capital, es la zona más afectada",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "55m ago",
+      "timestamp": 1782382684
+    },
+    {
+      "title": "Any US-Iran deal will ensure security of Gulf allies, Rubio assures GCC nations during Mideast tour",
+      "link": "https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour",
+      "summary": "US Secretary of State Marco Rubio told Gulf allies on Thursday that any deal with Iran would take their interests into account, as he wrapped up a Middle East trip aimed at selling the Trump administr",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "57m ago",
+      "timestamp": 1782382616
+    },
+    {
+      "title": "French presidential candidate Attal hits back at ‘looksmaxxing’ Clavicular",
+      "link": "https://www.politico.eu/article/gabriel-attal-france-fashion-week-looksmaxxing-clavicular/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "The former prime minister called the internet personality's criticism of France \"a reflection of his hatred for a nation where women will always be free and proud.\"",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "58m ago",
+      "timestamp": 1782382524
+    },
+    {
+      "title": "La Guaira, una vez más, escenario de una catástrofe natural",
+      "link": "https://www.elnacional.com/2026/06/la-guaira-una-vez-mas-escenario-de-una-catastrofe-natural/",
+      "summary": "El estado costero vive \"una verdadera tragedia\", según dijo la presidenta interina, Delcy Rodríguez, al explicar que la región, en la que viven medio millón de personas, ha sido la más afectada tras l",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782382284
+    },
+    {
+      "title": "Bourse de Casablanca : L’AMMC relève à 20% le seuil de variation des IPO",
+      "link": "https://www.yabiladi.com/articles/details/197433/bourse-casablanca-l-ammc-releve-seuil.html",
+      "summary": "L’Autorité marocaine du marché des capitaux (AMMC) a relevé à 20% le seuil maximal de variation quotidienne du cours des actions nouvellement introduites en bourse pendant leurs cinq premières séances",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782382200
+    },
+    {
+      "title": "Venezuela reels after deadliest double earthquake in 126 years",
+      "link": "https://www.lemonde.fr/en/environment/article/2026/06/25/venezuela-reels-after-deadliest-double-earthquake-in-126-years_6754858_114.html",
+      "summary": "At least 32 people have died and more than 700 have been injured after two powerful earthquakes struck Venezuela, according to an initial provisional count by authorities, who fear the toll may rise, ",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782381926
+    },
+    {
+      "title": "Casablanca : Une modernisation soutenue par la BERD ouvre le port aux navires Panamax",
+      "link": "https://www.yabiladi.com/articles/details/197424/casablanca-modernisation-soutenue-berd-ouvre.html",
+      "summary": "La Banque européenne pour la reconstruction et le développement (BERD) a renouvelé son appui à la modernisation des infrastructures portuaires du Maroc. Mercredi, le vice-président chargé des politiqu",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782381900
+    },
+    {
+      "title": "Oil prices back to pre-war levels on rising Middle East supply",
+      "link": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
+      "summary": "The price of Brent crude has reached its lowest since February 27, before the war started.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782381883
+    },
+    {
+      "title": "Datacentres facing increase in global climate-related legal cases, report finds",
+      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "summary": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation aro",
+      "source": "The Guardian",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782381834
+    },
+    {
+      "title": "Carney makes Canada a key stop for US Democratic presidential hopefuls",
+      "link": "https://www.politico.com/news/2026/06/25/canada-carney-democrat-2028-00973705?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "It’s the third time in recent weeks that a leading 2028 Democratic contender has secured a private audience with Prime Minister Mark Carney.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782381674
+    },
+    {
+      "title": "UN data shows 57 ships sailed through Hormuz since 23 June",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-data-shows-57-ships-sailed-through-hormuz-23-june",
+      "summary": "UN data shows 57 ships sailed through Hormuz since 23 June\n\n    \n    \n\n        \n    \n                Some 57 ships carrying an estimated 1,100 seafarers have transited the Strait of Hormuz since 23 Ju",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782381587
+    },
+    {
+      "title": "Los terremotos más graves en Venezuela en lo que va de siglo",
+      "link": "https://www.elnacional.com/2026/06/los-terremotos-mas-graves-en-venezuela-en-lo-que-va-de-siglo/",
+      "summary": "En julio de 1967, se produjo en las proximidades de Caracas uno de los peores sIsmos en la historia de Venezuela, en el que murieron 245 personas.\nThe post Los terremotos más graves en Venezuela en lo",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782381262
+    },
+    {
+      "title": "EU-US trade deal to take effect before Trump's deadline",
+      "link": "https://www.lemonde.fr/en/economy/article/2026/06/25/eu-us-trade-deal-to-take-effect-before-trump-s-deadline_6754857_19.html",
+      "summary": "Struck between the US president and EU chief Ursula von der Leyen in July 2025, the deal sets levies of 15% on most of EU exports to the United States and zero tariffs for US industrial goods coming i",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782381008
+    },
+    {
+      "title": "Rachel Reeves pitches to stay as UK chancellor under Burnham",
+      "link": "https://www.politico.eu/article/rachel-reeves-pitches-to-stay-uk-chancellor-under-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Reeves' bid to remain chancellor comes after reports that Andy Burnham, who's likely to become prime minister, would demote her.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782380909
+    },
+    {
+      "title": "Budapest free to celebrate Pride again, but Orbán-surveillance machine still in place",
+      "link": "https://euobserver.com/224022/budapest-free-to-celebrate-pride-again-but-orban-surveillance-machine-still-in-place/",
+      "summary": "Large trucks equipped with biometric cameras were stationed around last year's Budapest Pride march to discourage participation. The objective was not only punishment, but deterrence. Despite the new ",
+      "source": "EUobserver",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782380724
+    },
+    {
+      "title": "Amazon and Microsoft cloud services targeted under EU big tech rules",
+      "link": "https://www.euractiv.com/news/amazon-and-microsoft-cloud-services-targeted-under-eu-big-tech-rules/",
+      "summary": "This would be the first time the bloc has designated cloud providers under the Digital Markets Act (DMA)",
+      "source": "Euractiv",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782380717
+    },
+    {
+      "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
+      "link": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
+      "summary": "Before the 1979 revolution in Iran, Washington and Tehran had close trade ties. Could a peace deal revive them?",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782380592
+    },
+    {
+      "title": "Chef José Andrés donará un millón de dólares para atender la emergencia en Venezuela",
+      "link": "https://www.elnacional.com/2026/06/chef-jose-andres-donara-un-millon-de-dolares-para-atender-la-emergencia-en-venezuela/",
+      "summary": "El reconocido cocinero y filántropo español anunció que los recursos serán gestionados por la organización World Central Kitchen.\nThe post Chef José Andrés donará un millón de dólares para atender la ",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782380021
+    },
+    {
+      "title": "The secret settlements protecting Jeffrey Epstein’s friends",
+      "link": "https://www.politico.com/news/2026/06/25/secret-settlements-jeffrey-epstein-friends-00975274?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Members of Congress have discussed issuing subpoenas to find out about the NDAs between Jeffrey Epstein’s friends and his victims.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782379625
+    },
+    {
+      "title": "Venezuela capital hit by double earthquake as experts warn of high death toll",
+      "link": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
+      "summary": "Delcy Rodríguez declares state of emergency after buildings collapse across Caracas, with tremors felt in ColombiaVenezuela earthquake – latest updatesVenezuela’s interim leader, Delcy Rodríguez, has ",
+      "source": "The Guardian",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782379538
+    },
+    {
+      "title": "Nasser Bourita reçoit un émissaire de la RDC, porteur d’un message du président Félix-Antoine Tshisekedi",
+      "link": "https://www.yabiladi.com/articles/details/197426/nasser-bourita-recoit-emissaire-porteur.html",
+      "summary": "Le ministre des Affaires étrangères, de la coopération africaine et des Marocains résidant à létranger, Nasser Bourita, a reçu, mercredi à Rabat, le ministre délégué près la ministre dEtat, ministre d",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782379500
+    },
+    {
+      "title": "Marco Rubio anuncia envío inmediato de equipos de rescate y ayuda humanitaria de EE UU a Venezuela",
+      "link": "https://www.elnacional.com/2026/06/marco-rubio-anuncia-envio-inmediato-de-equipos-de-rescate-y-ayuda-humanitaria-de-ee-uu-a-venezuela/",
+      "summary": "El secretario de Estado de Estados Unidos extendió las condolencias del gobierno estadounidense al pueblo venezolano ante la tragedia.\nThe post Marco Rubio anuncia envío inmediato de equipos de rescat",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1782379495
+    },
+    {
+      "title": "Les pays de l’UE souhaitent que l’exploration pétrolière soit vue comme un investissement vert",
+      "link": "https://www.politico.eu/article/les-pays-de-lue-souhaitent-que-lexploration-petroliere-soit-vue-comme-un-investissement-vert/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Les changements proposés pourraient amener des géants pétroliers comme TotalEnergies à figurer dans des fonds d'investissement durables.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782379460
+    },
+    {
+      "title": "In pictures: Aftermath of twin earthquakes in Venezuela",
+      "link": "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss",
+      "summary": "Communities in northern Venezuela struggle after deadly quakes as rescuers race against time to find survivors.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1782378924
+    },
+    {
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1782378419
+    },
+    {
+      "title": "World reacts as devastating Venezuela earthquakes kill at least 32",
+      "link": "https://www.aljazeera.com/news/2026/6/25/world-reacts-as-devastating-venezuela-earthquakes-kill-at-least-32?traffic_source=rss",
+      "summary": "Global leaders express solidarity with Venezuela as dual earthquakes kill at least 32 and leave widespread devastation.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1782378400
+    },
+    {
+      "title": "NATO allies to pledge billions in arms deals, Ukraine aid at Ankara summit",
+      "link": "https://www.politico.eu/article/nato-allies-arms-contracts-weapon-production-ankara-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "They are also considering references to the U.S. war in Iran as part of the draft summit declaration, NATO diplomats told POLITICO.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1782378039
+    },
+    {
+      "title": "De la cárcel al Parlamento: la diversidad conquistó espacios en la política venezolana, pero no en la ley",
+      "link": "https://www.elnacional.com/2026/06/de-la-carcel-al-parlamento-la-diversidad-conquisto-espacios-en-la-politica-venezolana-pero-no-en-la-ley/",
+      "summary": "Desde Tamara Adrián hasta Rosmit Mantilla, distintas figuras de la diversidad sexual han logrado representación en la vida pública venezolana pese a las resistencias políticas, religiosas y legales qu",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1782378000
+    },
+    {
+      "title": "Un Bulevar de la risa para mirarse y sanar como sociedad",
+      "link": "https://www.elnacional.com/2026/06/un-bulevar-de-la-risa-para-mirarse-y-sanar-como-sociedad/",
+      "summary": "Seis historias cortas de los dramaturgos franceses Eugène Labiche, Georges Courteline y Georges Feydeau llegaron al Centro Cultural Chacao. Lejos de la comedia ligera, la pieza dirigida y escrita por ",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1782378000
+    },
+    {
+      "title": "Tres termómetros para un mundo en tensión",
+      "link": "https://www.realinstitutoelcano.org/comentarios/tres-termometros-para-un-mundo-en-tension/",
+      "summary": "El problema de la medición El riesgo geopolítico se ha convertido en una variable central para interpretar la economía internacional. No sólo importa a diplomáticos y analistas de seguridad. También c",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "tier": 3,
+      "time": "2h ago",
+      "timestamp": 1782378000
+    },
+    {
+      "title": "Paris Mayor Grégoire on the climate crisis: 'To adapt together, we need to change our way of life'",
+      "link": "https://www.lemonde.fr/en/politics/article/2026/06/25/paris-mayor-gregoire-on-the-climate-crisis-to-adapt-together-we-need-to-change-our-way-of-life_6754853_5.html",
+      "summary": "In an interview with Le Monde, the Socialist leader of the French capital city called individual air conditioning 'a scourge' and urged 'flexibility' and 'makeshift solutions' to respond to the urgent",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1782377496
+    },
+    {
+      "title": "Turkish Journalists Protest Accreditation Denials for NATO Summit in Ankara",
+      "link": "https://balkaninsight.com/2026/06/25/turkish-journalists-protest-accreditation-denials-for-nato-summit-in-ankara/bi/",
+      "summary": "Press freedom organisations condemn refusal to accredit dozens of Turkish journalists for alliance summit, saying unexplained decision restricts media freedom and the public’s right to information.",
+      "source": "Balkan Insight",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1782377034
+    },
+    {
+      "title": "Mondial 2026 : Mohamed Ouahbi salue la force du collectif du Maroc face à Haïti",
+      "link": "https://www.yabiladi.com/articles/details/197418/mondial-2026-mohamed-ouahbi-salue.html",
+      "summary": "L’entraîneur de la sélection marocaine, Mohamed Ouahbi, s’est félicité de la qualification de son équipe au prochain tour de la Coupe du monde, à la suite de sa victoire face à Haïti (4-2), soulignant",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1782376500
+    },
+    {
+      "title": "Listen: As heatwaves sweep across Europe, is the EU investing enough to adapt buildings to extreme heat?",
+      "link": "https://euobserver.com/224024/listen-as-heatwaves-sweep-across-europe-is-the-eu-investing-enough-to-adapt-buildings-to-extreme-heat/",
+      "summary": "While heatwaves force school closures, very little EU money is earmarked for adaptation projects to cool the buildings people depend on every day.",
+      "source": "EUobserver",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1782375676
     },
     {
       "title": "Dar says world now recognises Pakistan as a 'peacemaker' for role in US-Iran mediation",
@@ -42,63 +812,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3m ago",
+      "time": "2h ago",
       "timestamp": 1782375435
-    },
-    {
-      "title": "Ibovespa Explained: Brazil’s Stock Market and How to Invest in 2026",
-      "link": "https://www.riotimesonline.com/brazil-stock-market-ibovespa-2026-guide/",
-      "summary": "What the Ibovespa is, how Brazil's B3 exchange works, and how foreign investors buy Brazilian stocks in 2026 - with the latest index level, Selic rate and tax basics.\nThe post Ibovespa Explained: Braz",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "9m ago",
-      "timestamp": 1782375096
-    },
-    {
-      "title": "Dos potentes terremotos de 7,2 y 7,5 de magnitud sacuden el norte de Venezuela y golpean Caracas",
-      "link": "https://elpais.com/america/2026-06-24/un-terremoto-de-71-sacude-la-costa-norte-de-venezuela.html",
-      "summary": "La presidenta encargada, Delcy Rodríguez, confirma que hay al menos 32 muertos y 700 heridos. La Guaira, cercana a la capital, declarada “zona de desastre”",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "9m ago",
-      "timestamp": 1782375080
-    },
-    {
-      "title": "A Devastating Quake Strikes Venezuela Just as It Reopens to the World",
-      "link": "https://www.riotimesonline.com/venezuela-earthquake-caracas-economy-recovery-2026/",
-      "summary": "Economy Key Facts —The event. Two quakes, magnitude 7.2 and 7.5, struck Venezuela seconds apart on June 24. —The toll. Officials confirmed at least thirty-two dead and seven hundred hurt. —The fear. U",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "14m ago",
-      "timestamp": 1782374811
-    },
-    {
-      "title": "Bahrain foreign minister welcomes Oman corridor for safe passage through Hormuz",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-foreign-minister-welcomes-oman-corridor-safe-passage-through",
-      "summary": "Bahrain foreign minister welcomes Oman corridor for safe passage through Hormuz\n\n    \n    \n\n        \n    \n                Bahrain's Foreign Minister Abdullatif bin Rashid Al Zayani welcomed on Thursda",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "14m ago",
-      "timestamp": 1782374759
-    },
-    {
-      "title": "Country observes Muharram 9 amid tight security arrangements",
-      "link": "https://www.dawn.com/news/2010752/country-observes-muharram-9-amid-tight-security-arrangements",
-      "summary": "The country is observing Muharram 9 amid tight security arrangements to commemorate the martyrdom of Hazrat Imam Hussain (RA) and his companions in the Battle of Karbala in 680 AD.\nState broadcaster P",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "15m ago",
-      "timestamp": 1782374743
     },
     {
       "title": "Pakistan, China organise UNSC meeting on steps to ensure implementation of resolutions",
@@ -108,7 +823,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "17m ago",
+      "time": "3h ago",
       "timestamp": 1782374603
     },
     {
@@ -119,7 +834,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "19m ago",
+      "time": "3h ago",
       "timestamp": 1782374464
     },
     {
@@ -130,7 +845,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "19m ago",
+      "time": "3h ago",
       "timestamp": 1782374437
     },
     {
@@ -141,151 +856,19 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "20m ago",
+      "time": "3h ago",
       "timestamp": 1782374414
     },
     {
-      "title": "Venezuela earthquakes leave at least 32 dead, 700 injured and dozens of buildings collapsed – latest updates",
-      "link": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-      "summary": "Delcy Rodríguez says rescuers from others countries arriving in Venezuela over coming hours after two powerful quakes hit capitalVenezuela earthquakes: back-to-back quakes collapse buildings in capita",
-      "source": "The Guardian",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "23m ago",
-      "timestamp": 1782374205
-    },
-    {
-      "title": "Mozambique Starts Refining Its Own Graphite for Batteries",
-      "link": "https://www.riotimesonline.com/mozambique-graphite-battery-supply-chain-2026/",
-      "summary": "A new Chinese-built plant lets Mozambique refine its own graphite, as output doubles forecasts and the country pushes into the global battery supply chain.\nThe post Mozambique Starts Refining Its Own ",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "26m ago",
-      "timestamp": 1782374049
-    },
-    {
-      "title": "East Africa Weighs a Dangote-Style Oil Refinery",
-      "link": "https://www.riotimesonline.com/east-africa-oil-refinery-dangote-2026/",
-      "summary": "East African states are weighing a 650,000-barrel-a-day oil refinery as Aliko Dangote offers to build it, but he now favours Kenya's Mombasa over Tanga.\nThe post East Africa Weighs a Dangote-Style Oil",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "26m ago",
-      "timestamp": 1782374045
-    },
-    {
-      "title": "DR Congo Raises $1.25 Billion in Its First Eurobond",
-      "link": "https://www.riotimesonline.com/dr-congo-eurobond-debut-2026/",
-      "summary": "DR Congo raised $1.25bn in its first-ever Eurobond, a dual-tranche deal, joining a Sub-Saharan rush back to international debt markets in 2026.\nThe post DR Congo Raises $1.25 Billion in Its First Euro",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "26m ago",
-      "timestamp": 1782374040
-    },
-    {
-      "title": "South Africa and Morocco Lead Africa into the World Cup Last 32",
-      "link": "https://www.riotimesonline.com/african-teams-world-cup-2026-last-32/",
-      "summary": "South Africa reach the World Cup last 32 for the first time and Morocco advance, as Africa's record 10 teams chase history in 2026.\nThe post South Africa and Morocco Lead Africa into the World Cup Las",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "27m ago",
-      "timestamp": 1782374035
-    },
-    {
-      "title": "Egypt Clears $6.1 Billion in Oil and Gas Arrears",
-      "link": "https://www.riotimesonline.com/egypt-energy-arrears-cleared-2026/",
-      "summary": "Egypt has cleared its $6.1bn energy arrears to foreign oil and gas firms, settling the debt to zero and unlocking new upstream investment.\nThe post Egypt Clears $6.1 Billion in Oil and Gas Arrears app",
-      "source": "Rio Times",
-      "region": "latam",
-      "tag": "latam",
-      "tier": 2,
-      "time": "27m ago",
-      "timestamp": 1782374030
-    },
-    {
-      "title": "Burnham must break with Starmer's dishonest politics, or fail just like him",
-      "link": "https://www.middleeasteye.net/opinion/uk-burnham-must-break-starmer-dishonest-politics-fail-like-him",
-      "summary": "Burnham must break with Starmer's dishonest politics, or fail just like him\n\n    \n    \n\n          \n      \n      \n        Submitted by \nJonathan Cook\n on \nTue, 06/23/2026 - 21:05\n\n        \n      \n    \n",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "29m ago",
-      "timestamp": 1782373849
-    },
-    {
-      "title": "ICC judges sue Trump over sanctions, call measures unlawful",
-      "link": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss",
-      "summary": "Judges argue sanctions aimed to punish and coerce ICC decisions on US and Israeli war crimes cases.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "33m ago",
-      "timestamp": 1782373659
-    },
-    {
-      "title": "‘We hugged each other and ran’: Venezuelans recount earthquake horror",
-      "link": "https://www.aljazeera.com/news/2026/6/25/we-hugged-each-other-and-ran-venezuelans-recount-earthquake-horror?traffic_source=rss",
-      "summary": "Survivors describe panic and collapsing buildings during two strong quakes as thousands of people feared dead.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "34m ago",
-      "timestamp": 1782373603
-    },
-    {
-      "title": "In New York’s Astoria neighbourhood, Arab nations unite in World Cup joy",
-      "link": "https://www.aljazeera.com/sports/2026/6/25/in-new-yorks-astoria-neighbourhood-arab-nations-unite-in-world-cup-joy?traffic_source=rss",
-      "summary": "Historic World Cup match wins for Egypt, Morocco and Algeria bring together fans from the Middle Eastern diaspora.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "35m ago",
-      "timestamp": 1782373514
-    },
-    {
-      "title": "Primeros testimonios tras el terremoto en Venezuela: \"Cuando llegué a mi casa, el edificio tenía grietas\"",
-      "link": "https://www.elmundo.es/internacional/2026/06/25/6a3cd6e021efa028098b4590.html",
-      "summary": "El doble terremoto provoca graves daños en La Guaira y sacude, entre otras zonas, Caracas, la capital venezolana&nbsp;Leer",
+      "title": "Ábalos pedirá la nulidad de la sentencia que le condena a 24 años de prisión por \"vulneración de derechos fundamentales\"",
+      "link": "https://www.elmundo.es/espana/2026/06/25/6a3cdb8dfc6c839a258b4589.html",
+      "summary": "\"Es una contrariedad que el Supremo no haya protegido la presunción de inocencia\" frente al \"principio de premiar a un coimputado delator sin corroboraciones\", en referencia a Víctor de Aldama&nbsp;Le",
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "37m ago",
-      "timestamp": 1782373360
-    },
-    {
-      "title": "Israel says one soldier killed in Lebanon after vehicle overturned",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-official-says-one-soldier-killed-lebanon-after-vehicle",
-      "summary": "Israel says one soldier killed in Lebanon after vehicle overturned\n\n    \n    \n\n        \n    \n                An Israeli military official said on Thursday that a soldier was killed in southern&nbsp;Le",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "39m ago",
-      "timestamp": 1782373285
-    },
-    {
-      "title": "At least 32 dead, more than 700 injured as twin quakes rock Venezuela",
-      "link": "https://www.dawn.com/news/2010737/at-least-32-dead-more-than-700-injured-as-twin-quakes-rock-venezuela",
-      "summary": "Powerful twin earthquakes that shook Venezuela killed at least 32 people and injured more than 700, interim president Delcy Rodriguez said on Thursday.\n“At this time, we have received reports of 32 de",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "40m ago",
-      "timestamp": 1782373234
+      "time": "3h ago",
+      "timestamp": 1782373791
     },
     {
       "title": "Venezolanos duermen en la calle mientras las replicas persisten",
@@ -295,19 +878,19 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "40m ago",
+      "time": "3h ago",
       "timestamp": 1782373229
     },
     {
-      "title": "Rescuers pull survivors from rubble after Venezuela earthquakes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rescuers-pull-survivors-from-rubble-after-venezuela-earthquakes?traffic_source=rss",
-      "summary": "A major search-and-rescue effort is underway in Venezuela after two earthquakes levelled buildings and left many trapped",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
+      "title": "Oil price falls back to pre-Iran war levels",
+      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
       "tier": 1,
-      "time": "47m ago",
-      "timestamp": 1782372779
+      "time": "3h ago",
+      "timestamp": 1782372895
     },
     {
       "title": "The Importance of the Battle of the Little Bighorn",
@@ -317,7 +900,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "49m ago",
+      "time": "3h ago",
       "timestamp": 1782372653
     },
     {
@@ -328,7 +911,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "49m ago",
+      "time": "3h ago",
       "timestamp": 1782372637
     },
     {
@@ -339,19 +922,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "50m ago",
+      "time": "3h ago",
       "timestamp": 1782372603
-    },
-    {
-      "title": "Palestinian man killed in Israeli raid in occupied West Bank",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-killed-israeli-raid-occupied-west-bank",
-      "summary": "Palestinian man killed in Israeli raid in occupied West Bank\n\n    \n    \n\n        \n    \n                Israeli forces shot and killed a Palestinian man in the village of Sarta, west of Salfit, in the ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782372005
     },
     {
       "title": "FIREPOWER: NATO: One alliance, two narratives?",
@@ -361,7 +933,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782371307
     },
     {
@@ -372,7 +944,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782370974
     },
     {
@@ -383,7 +955,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782370920
     },
     {
@@ -394,7 +966,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782370858
     },
     {
@@ -405,52 +977,19 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782370822
     },
     {
-      "title": "THE HACK: Germany pushes EU-wide social media ban for under-13s",
-      "link": "https://www.euractiv.com/news/the-hack-germany-pushes-eu-wide-social-media-ban-for-under-13s/",
-      "summary": "In today's edition: Pax Silica, Digital Fairness Act, chat control comeback",
-      "source": "Euractiv",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782370572
-    },
-    {
-      "title": "Ábalos califica de “político” el juicio en el Supremo y asegura que estaba “predeterminado”",
+      "title": "Ábalos califica de “político” el juicio y asegura desde la cárcel que pedirá la nulidad de la sentencia del Supremo",
       "link": "https://elpais.com/espana/2026-06-25/abalos-califica-de-politico-el-juicio-en-el-supremo-y-asegura-que-estaba-predeterminado.html",
-      "summary": "El exministro de Transportes, condenado a 24 años por el ‘caso mascarillas’, dice que pedirá la nulidad de la sentencia del Supremo, que considera “abultada”",
+      "summary": "El exministro de Transportes, condenado a 24 años por el ‘caso mascarillas’, afirma que el fallo estaba “predeterminado”",
       "source": "El Pais",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782370436
-    },
-    {
-      "title": "Iran warns against Hormuz crossings without authorisation",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-against-hormuz-crossings-without-authorisation",
-      "summary": "Iran warns against Hormuz crossings without authorisation\n\n    \n    \n\n        \n    \n                Iran's Revolutionary Guards on Thursday warned against any crossings of the Strait of Hormuz without",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782369839
-    },
-    {
-      "title": "Iran slams NATO chief's comments on US support in war",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-nato-chiefs-comments-us-support-war",
-      "summary": "Iran slams NATO chief's comments on US support in war\n\n    \n    \n\n        \n    \n                Tehran accused Nato on Thursday of \"complicity\" in the US-Israeli war against&nbsp;Iran, after the bloc'",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782369622
     },
     {
       "title": "Un megáfono contra la opacidad: Venezuela afronta una tragedia sin apenas información",
@@ -460,19 +999,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782369334
-    },
-    {
-      "title": "Kenya passes controversial bill two years after deadly Gen Z protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/kenya-passes-controversial-bill-two-years-after-deadly-gen-z-protests?traffic_source=rss",
-      "summary": "Kenya passes controversial bill two years after deadly Gen Z protests",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782369323
     },
     {
       "title": "Terremoto en Venezuela, en directo: última hora del número de víctimas, desaparecidos y heridos tras los dos seísmos",
@@ -482,30 +1010,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782369226
-    },
-    {
-      "title": "Ethiopia is not being ‘dragged into war’",
-      "link": "https://www.aljazeera.com/opinions/2026/6/25/ethiopia-is-not-being-dragged-into-war?traffic_source=rss",
-      "summary": "A response to Redwan Hussein and Getachew Reda’s misleading opinion article.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782368957
-    },
-    {
-      "title": "Rubio visits Bahrain seeking Gulf backing for Iran deal",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-visits-bahrain-seeking-gulf-backing-iran-deal",
-      "summary": "Rubio visits Bahrain seeking Gulf backing for Iran deal \n\n    \n    \n\n        \n    \n                US&nbsp;Secretary of State Marco Rubio will meet with Bahrain officials on Thursday on the final leg ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1782368779
     },
     {
       "title": "Primer balance: 32 fallecidos y más de 700 heridos en Venezuela tras terremotos",
@@ -515,7 +1021,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782367992
     },
     {
@@ -526,19 +1032,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782367278
-    },
-    {
-      "title": "Trump sobre terremotos en Venezuela: Los primeros informes no son buenos",
-      "link": "https://www.elnacional.com/2026/06/trump-sobre-terremotos-en-venezuela-los-primeros-informes-no-son-buenos/",
-      "summary": "Según una proyección del Servicio Geológico de Estados Unidos (USGS), los terremotos registrados frente a la costa de Venezuela podrían dejar un saldo potencial de entre 10.000 y 100.000 fallecidos, d",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "2h ago",
-      "timestamp": 1782367180
     },
     {
       "title": "Early Moves Suggest Bulgaria’s New Ruling Party ‘Progressive’ in Name Only",
@@ -548,7 +1043,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782367142
     },
     {
@@ -559,7 +1054,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782367022
     },
     {
@@ -570,7 +1065,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782366620
     },
     {
@@ -581,7 +1076,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782366227
     },
     {
@@ -592,52 +1087,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782366186
-    },
-    {
-      "title": "Los terremotos de Venezuela, en imágenes",
-      "link": "https://elpais.com/america/2026-06-25/terremoto-de-75-sacude-caracas-venezuela-en-imagenes.html",
-      "summary": "Dos potentes sismos, de 7,2 y 7,5 de magnitud, afectan a la capital Caracas y el norte del país",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1782366027
-    },
-    {
-      "title": "Copa cancela vuelos a Caracas miércoles y jueves por efecto de terremotos",
-      "link": "https://www.elnacional.com/2026/06/copa-cancela-vuelos-a-caracas-miercoles-y-jueves-por-efecto-de-terremotos/",
-      "summary": "El estado La Guaira, donde está el aeropuerto internacional de Maiquetía, fue declarado \"zona de desastre\", el gobierno de Delcy Rodríguez suspendió sus vuelos a Venezuela.\nThe post Copa cancela vuelo",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "2h ago",
-      "timestamp": 1782365872
-    },
-    {
-      "title": "Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know",
-      "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-rocked-by-7-5-7-2-earthquakes-what-happened-and-what-we-know?traffic_source=rss",
-      "summary": "Rescue efforts under way as Venezuela declares a state of emergency after powerful twin quakes cause widespread damage.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1782365230
-    },
-    {
-      "title": "In pictures: Venezuela hit by twin earthquakes",
-      "link": "https://www.aljazeera.com/gallery/2026/6/25/venezuela-grapples-with-deadly-twin-quakes-over-700-injured-so-far?traffic_source=rss",
-      "summary": "Caracas airport closed, metro suspended and power outages reported after deadly quakes rock Venezuela.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1782365007
     },
     {
       "title": "Doble terremoto en Venezuela: las imágenes tras el desastre",
@@ -647,7 +1098,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1782365003
     },
     {
@@ -658,30 +1109,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1782364463
-    },
-    {
-      "title": "Estado de emergencia y \"un número devastador de muertos\" tras los dos terremotos que han sacudido Venezuela",
-      "link": "https://www.elmundo.es/internacional/2026/06/25/6a3cb61de9cf4aeb588b4593.html",
-      "summary": "Los seísmos, de 7,2 y 7,5 en la escala Richter, han destruido parte de la zona de costera y se han dejado sentir, además, en Caracas y áreas del interior&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1782364129
-    },
-    {
-      "title": "\"Decenas de edificios\" colapsaron en estado La Guaira, ya van 32 muertos por terremotos",
-      "link": "https://www.elnacional.com/2026/06/decenas-de-edificios-colapsaron-en-estado-la-guaira-ya-van-32-muertos-por-terremotos/",
-      "summary": "Delcy Rodríguez da un primer balance de víctimas: 32 muertos y más de 700 heridos, sin contar La Guaira, que es el estado más afectado por los terremotos. Las labores se centran en rescatar personas t",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "3h ago",
-      "timestamp": 1782364004
     },
     {
       "title": "Nomad #49 : Sur les traces préhistoriques de la plage d'Anza",
@@ -691,18 +1120,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
-      "timestamp": 1782363600
-    },
-    {
-      "title": "OEA: La comunidad hemisférica va a estar lista para apoyar a Venezuela",
-      "link": "https://www.elnacional.com/2026/06/oea-la-comunidad-hemisferica-va-a-estar-lista-para-apoyar-a-venezuela/",
-      "summary": "La Guaira es la región más afectada por los seísmos, con decenas de edificios colapsados. Las autoridades realizan labores de rescate en ese estado para salvar vidas, mientras esperan la llegada de re",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "3h ago",
+      "time": "6h ago",
       "timestamp": 1782363600
     },
     {
@@ -713,7 +1131,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "3h ago",
+      "time": "6h ago",
       "timestamp": 1782363027
     },
     {
@@ -724,7 +1142,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "6h ago",
       "timestamp": 1782362115
     },
     {
@@ -735,7 +1153,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "6h ago",
       "timestamp": 1782361501
     },
     {
@@ -746,7 +1164,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "6h ago",
       "timestamp": 1782361255
     },
     {
@@ -757,19 +1175,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1782361101
-    },
-    {
-      "title": "México venció a República Checa 3-0 y terminó de forma perfecta la primera fase",
-      "link": "https://www.elnacional.com/2026/06/mexico-vencio-a-republica-checa-3-0-y-termino-de-forma-perfecta-la-primera-fase/",
-      "summary": "El marcador holgado ante República Checa le permitió al entrenador “Vasco” Aguirre darle tiempo de juego al veterano portero Guillermo 'Memo' Ochoa, que participa en su sexto Mundial.\nThe post México ",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "4h ago",
-      "timestamp": 1782360633
     },
     {
       "title": "Dos potentes terremotos sacuden Venezuela dejando numerosos muertos",
@@ -779,19 +1186,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782360535
-    },
-    {
-      "title": "Rebuilding Ukraine under the shadow of a presidential row",
-      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/rebuilding-ukraine-under-the-shadow-of-a-presidential-row/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Presented by Team Poland.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "4h ago",
-      "timestamp": 1782360300
     },
     {
       "title": "Moncloa cree que la corrupción se volverá contra Feijóo como un bumerán: “¿Qué hará con Ayuso?\"",
@@ -801,7 +1197,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782360085
     },
     {
@@ -812,7 +1208,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782360085
     },
     {
@@ -823,7 +1219,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782360085
     },
     {
@@ -834,7 +1230,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782360068
     },
     {
@@ -845,41 +1241,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782360062
-    },
-    {
-      "title": "Sudáfrica celebra un triunfo histórico ante Corea y pasa a dieciseisavos",
-      "link": "https://www.elnacional.com/2026/06/sudafrica-celebra-un-triunfo-historico-ante-corea-y-pasa-a-dieciseisavos/",
-      "summary": "Los Bafana-Bafana clasificaron por primera vez a la segunda ronda de un Mundial y se lo agradecen a Thapelo Maseko, autor del único gol del partido.\nThe post Sudáfrica celebra un triunfo histórico ant",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "4h ago",
-      "timestamp": 1782359940
-    },
-    {
-      "title": "Horror in Karachi's Quaidabad after 3-year-old’s body found dumped outside her home",
-      "link": "https://www.dawn.com/news/2010607/horror-in-karachis-quaidabad-after-3-year-olds-body-found-dumped-outside-her-home",
-      "summary": "• Girl subjected to ‘violent rape’ before being murdered• Police surgeon describes it as ‘one of the most horrific cases in her career’• IGP forms special team to bring culprits to justice\nKARACHI: A ",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "4h ago",
-      "timestamp": 1782359670
-    },
-    {
-      "title": "Terremotos golpean a Catia La Mar y otras zonas de La Guaira: reportan edificios colapsados, incendios y fallas masivas de servicios",
-      "link": "https://www.elnacional.com/2026/06/terremotos-golpean-a-catia-la-mar-y-otras-zonas-de-la-guaira/",
-      "summary": "A medida que avanzó la tarde-noche de este miércoles, comenzaron a difundirse imágenes y videos que muestran severos daños en distintos sectores de La Guaira.\nThe post Terremotos golpean a Catia La Ma",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "4h ago",
-      "timestamp": 1782358911
     },
     {
       "title": "Venezuela, sacudida por un doblete sísmico: un siglo de energía liberada en una hora",
@@ -889,7 +1252,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1782358526
     },
     {
@@ -900,7 +1263,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1782357137
     },
     {
@@ -911,19 +1274,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1782356618
-    },
-    {
-      "title": "France's far-right RN banks on vague 'air conditioning plan' for heatwaves",
-      "link": "https://www.lemonde.fr/en/politics/article/2026/06/25/france-s-far-right-rn-banks-on-vague-air-conditioning-plan-for-heatwaves_6754851_5.html",
-      "summary": "In response to France's record temperatures in May and June, Marine Le Pen touted an unbudgeted and unclear 'major plan' for AC, which she announced a year ago. Meanwhile, the far-right leader plans t",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "5h ago",
-      "timestamp": 1782356406
     },
     {
       "title": "Pakistan links Iran trade prospects to sanctions relief",
@@ -933,7 +1285,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1782355578
     },
     {
@@ -944,30 +1296,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1782355288
-    },
-    {
-      "title": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
-      "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two quakes hit the capital seconds apart, the first at a magnitude of 7.2 and the second at 7.5.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "5h ago",
-      "timestamp": 1782354447
-    },
-    {
-      "title": "Trump helps fix toxic relationship between Macron and Meloni",
-      "link": "https://www.politico.eu/article/donald-trump-helps-fix-toxic-relationship-between-emmanuel-macron-and-giorgia-meloni/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The French and Italian leaders are mending their rifts with a summit on the French Riviera and a flurry of deals.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "5h ago",
-      "timestamp": 1782354300
     },
     {
       "title": "Decretan estado de emergencia y cierran aeropuerto de Maiquetía, tras dos terremotos en Venezuela",
@@ -977,41 +1307,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1782354271
-    },
-    {
-      "title": "FBR didn’t capitalise on super tax potential, audit finds",
-      "link": "https://www.dawn.com/news/2010659/fbr-didnt-capitalise-on-super-tax-potential-audit-finds",
-      "summary": "• AGP’s report laid before NA, will now be taken up by PAC• Auditors flag irregularities in Discos, petroleum division• NTC serving private clients ‘beyond its mandate’• Railways ‘encroaching’ 1,500 k",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "6h ago",
-      "timestamp": 1782353843
-    },
-    {
-      "title": "By putting a French flag or Eiffel Tower on products, 'Frenchwashing' blurs lines over origin",
-      "link": "https://www.lemonde.fr/en/economy/article/2026/06/25/by-putting-a-french-flag-or-eiffel-tower-on-products-frenchwashing-blurs-lines-over-origin_6754850_19.html",
-      "summary": "Baby accessories, lighting, textiles: A study published on Thursday has identified 70 non-food products sold in various stores and specialty outlets that feature markings suggesting a French origin, p",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1782353783
-    },
-    {
-      "title": "EU wants influencers to cover its summits — but only if they love the bloc",
-      "link": "https://www.politico.eu/article/eu-wants-influencers-to-cover-its-summits-but-only-if-they-love-the-bloc/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Content creators to be invited to top EU meetings, but they have to respect the bloc's values and not want to be a politician.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1782352800
     },
     {
       "title": "Sismo en Venezuela: “Primero vino el alerta y luego todo empezó a moverse como nunca antes”",
@@ -1021,7 +1318,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1782351846
     },
     {
@@ -1032,7 +1329,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1782351697
     },
     {
@@ -1043,7 +1340,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1782351059
     },
     {
@@ -1054,19 +1351,8 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1782350940
-    },
-    {
-      "title": "PNV y Bildu sellan un 'Lizarra lingüístico' que impone el euskera",
-      "link": "https://www.elmundo.es/espana/2026/06/25/6a3c25d521efa0db698b45c3.html",
-      "summary": "Pactan que cada institución fije a su antojo las plazas que exigen el vasco&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1782350697
     },
     {
       "title": "Los 'amigos' del comisionista ZP: el georgiano Zurab, que conecta con Begoña, y los pagadores venezolanos de las hijas",
@@ -1076,41 +1362,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1782350696
-    },
-    {
-      "title": "China remains on the sidelines of the World Cup",
-      "link": "https://www.lemonde.fr/en/international/article/2026/06/25/china-remains-on-the-sidelines-of-the-world-cup_6754848_4.html",
-      "summary": "The global superpower, which relishes the opportunity to excel at major international events, has only managed to qualify once, in 2002. Despite Xi Jinping's determination, the poor performance of the",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "7h ago",
-      "timestamp": 1782350383
-    },
-    {
-      "title": "Duck off: World Cup hero Merlín barred from Mexico game due to Fifa’s animal ban",
-      "link": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup",
-      "summary": "World’s sixth-most famous duck falls short of dreamTwo-year-old must watch Czechia game from distanceMerlín the duck’s bid to see his beloved Mexico live has hit a snag after he was barred from El Tri",
-      "source": "The Guardian",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "7h ago",
-      "timestamp": 1782349685
-    },
-    {
-      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "7h ago",
-      "timestamp": 1782348688
     },
     {
       "title": "Fueron dos los terremotos en Venezuela, uno tras otro",
@@ -1120,19 +1373,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1782347579
-    },
-    {
-      "title": "Venezuela declares state of emergency after powerful twin quakes leave at least 32 dead, more than 700 injured",
-      "link": "https://www.lemonde.fr/en/international/article/2026/06/25/two-strong-earthquakes-strike-venezuela-buildings-collapse-in-caracas_6754847_4.html",
-      "summary": "The two quakes struck the same area just minutes apart, causing damage in the capital, Caracas, and sowing panic and chaos as people rushed into the streets.",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "8h ago",
-      "timestamp": 1782345191
     },
     {
       "title": "Terremoto en Venezuela, réplicas y viviendas colapsadas",
@@ -1142,52 +1384,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "8h ago",
+      "time": "11h ago",
       "timestamp": 1782345034
-    },
-    {
-      "title": "Venezuela earthquake: fatal back-to-back earthquakes in Caracas as experts warn of heavy death toll",
-      "link": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks",
-      "summary": "Homes and buildings collapse after double quake, with tremors felt in neighbouring ColombiaVenezuela earthquakes: follow live updatesVenezuela’s interim leader, Delcy Rodríguez, has declared a state o",
-      "source": "The Guardian",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "8h ago",
-      "timestamp": 1782345005
-    },
-    {
-      "title": "ICC judges sue Trump over US sanctions",
-      "link": "https://www.lemonde.fr/en/international/article/2026/06/25/icc-judges-sue-trump-administration-over-us-sanctions_6754846_4.html",
-      "summary": "Three judges argue the measures imposed on them amount to unlawful political retaliation over the court's investigations into Israel and Prime Minister Benjamin Netanyahu.",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "8h ago",
-      "timestamp": 1782343922
-    },
-    {
-      "title": "France records its hottest day with relief on the horizon",
-      "link": "https://www.lemonde.fr/en/environment/article/2026/06/25/france-records-its-hottest-day-with-relief-on-the-horizon_6754845_114.html",
-      "summary": "With an average day-night temperature of 30°C, Wednesday, June 24 set a new heat record in France. Forecasters expect a gradual end to the heatwave in the western part of the country by the end of the",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "9h ago",
-      "timestamp": 1782342670
-    },
-    {
-      "title": "Trump criticises European allies over lack of support during war on Iran",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-criticises-european-allies-over-lack-support-during-war-iran",
-      "summary": "Trump criticises European allies over lack of support during war on Iran\n\n    \n    \n\n        \n    \n                US President Donald Trump has criticised several European allies for what he describe",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "9h ago",
-      "timestamp": 1782341259
     },
     {
       "title": "Philippines bans video game played by alleged high school shooter",
@@ -1197,30 +1395,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "10h ago",
+      "time": "12h ago",
       "timestamp": 1782339252
-    },
-    {
-      "title": "Genève : Des ONG sahraouies dressent un réquisitoire contre le Polisario",
-      "link": "https://www.yabiladi.com/articles/details/197404/geneve-sahraouies-dressent-requisitoire-contre.html",
-      "summary": "Les représentants d’ONG sahraouies ont demandé à des rapporteurs des Nations unies chargés des droits de l’Homme de rompre avec les déclarations timides et diplomatiques pour condamner les violations ",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "10h ago",
-      "timestamp": 1782339060
-    },
-    {
-      "title": "Albares : «Nous sommes pour l'octroi de la nationalité espagnole aux Sahraouis»",
-      "link": "https://www.yabiladi.com/articles/details/197403/albares-nous-sommes-pour-l-octroi.html",
-      "summary": "Le ministre espagnol des Affaires étrangères, José Manuel Albares, a démenti ce mercredi les rumeurs concernant un supposé «blocage» du gouvernement sur lattribution de la nationalité espagnole aux Sa",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "10h ago",
-      "timestamp": 1782337920
     },
     {
       "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
@@ -1230,7 +1406,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1782337158
     },
     {
@@ -1241,19 +1417,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1782336806
-    },
-    {
-      "title": "Two killed in Israeli strike in South Lebanon, Hezbollah denounces ceasefire 'violation'",
-      "link": "https://www.lemonde.fr/en/international/article/2026/06/24/two-killed-in-israeli-strike-in-south-lebanon-hezbollah-denounces-true-violation_6754843_4.html",
-      "summary": "Two people were killed in southern Lebanon on Wednesday in an Israeli drone strike that Hezbollah said was the latest breach of a ceasefire agreement between the two sides.",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1782336350
     },
     {
       "title": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?",
@@ -1263,7 +1428,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1782335593
     },
     {
@@ -1274,7 +1439,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1782333563
     },
     {
@@ -1285,7 +1450,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1782333549
     },
     {
@@ -1296,7 +1461,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1782333527
     },
     {
@@ -1307,7 +1472,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1782333511
     },
     {
@@ -1318,7 +1483,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "12h ago",
+      "time": "15h ago",
       "timestamp": 1782330360
     },
     {
@@ -1329,7 +1494,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1782327006
     },
     {
@@ -1340,7 +1505,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1782326995
     },
     {
@@ -1351,7 +1516,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1782326989
     },
     {
@@ -1362,7 +1527,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1782326979
     },
     {
@@ -1373,19 +1538,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1782325479
-    },
-    {
-      "title": "European leaders pledge stronger role in NATO before Trump-Rutte talks",
-      "link": "https://www.politico.eu/article/european-leaders-e5-stronger-role-nato-donald-trump-mark-rutte-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The E5 group also called for Ukraine aid to rank high on the agenda at the upcoming  alliance summit in Ankara.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "14h ago",
-      "timestamp": 1782324626
     },
     {
       "title": "Europe’s ugly anti‑migrant politics just found a new stage: South Africa",
@@ -1395,7 +1549,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1782324000
     },
     {
@@ -1406,19 +1560,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1782323891
-    },
-    {
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "14h ago",
-      "timestamp": 1782322308
     },
     {
       "title": "Nuclear Stability in the Age of AI",
@@ -1428,41 +1571,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1782322228
-    },
-    {
-      "title": "RN : Bardella est-il faillible ?",
-      "link": "https://www.politico.eu/podcast/playbook-paris-podcast/rn-bardella-est-il-faillible/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Présenté par Groupement Mousquetaires.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "14h ago",
-      "timestamp": 1782322032
-    },
-    {
-      "title": "Czech constitutional court says president should attend NATO summit",
-      "link": "https://www.politico.eu/article/czech-constitutional-court-petr-pavel-nato-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The preliminary injunction partially resolves the ongoing dispute between Pavel and Prime Minister Andrej Babiš.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "14h ago",
-      "timestamp": 1782321714
-    },
-    {
-      "title": "EU countries want oil exploration to be classed as a green investment",
-      "link": "https://www.politico.eu/article/eu-countries-oil-exploration-green-investment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The proposed changes could see oil giants like TotalEnergies showing up in sustainable investment funds.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "15h ago",
-      "timestamp": 1782319563
     },
     {
       "title": "Croatia President Strips Branimir Glavas of Decorations After War Crimes Ruling",
@@ -1472,7 +1582,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1782319060
     },
     {
@@ -1483,7 +1593,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1782318554
     },
     {
@@ -1494,7 +1604,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "16h ago",
+      "time": "18h ago",
       "timestamp": 1782317904
     },
     {
@@ -1505,7 +1615,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "16h ago",
+      "time": "19h ago",
       "timestamp": 1782317181
     },
     {
@@ -1516,7 +1626,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "16h ago",
+      "time": "19h ago",
       "timestamp": 1782316735
     },
     {
@@ -1527,7 +1637,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "16h ago",
+      "time": "19h ago",
       "timestamp": 1782316091
     },
     {
@@ -1538,7 +1648,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "17h ago",
+      "time": "19h ago",
       "timestamp": 1782314201
     },
     {
@@ -1549,7 +1659,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "20h ago",
       "timestamp": 1782312841
     },
     {
@@ -1560,7 +1670,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "17h ago",
+      "time": "20h ago",
       "timestamp": 1782311630
     },
     {
@@ -1571,7 +1681,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "20h ago",
       "timestamp": 1782311328
     },
     {
@@ -1582,7 +1692,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "20h ago",
       "timestamp": 1782310535
     },
     {
@@ -1593,19 +1703,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "21h ago",
       "timestamp": 1782310114
-    },
-    {
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "18h ago",
-      "timestamp": 1782309084
     },
     {
       "title": "The Politics of European Society",
@@ -1615,7 +1714,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "19h ago",
+      "time": "22h ago",
       "timestamp": 1782305914
     },
     {
@@ -1626,7 +1725,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "19h ago",
+      "time": "22h ago",
       "timestamp": 1782305872
     },
     {
@@ -1637,7 +1736,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "20h ago",
+      "time": "23h ago",
       "timestamp": 1782303081
     },
     {
@@ -1648,41 +1747,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "20h ago",
-      "timestamp": 1782302520
-    },
-    {
-      "title": "EU tax reform promises €8bn in savings, but shell companies untouched",
-      "link": "https://euobserver.com/223852/eu-tax-reform-promises-e8bn-in-savings-but-shell-companies-untouched/",
-      "summary": "The most impactful change is the abolition of taxes charged on cross-border payments of dividends, interest and royalties between companies. This alone accounts for around €5.3bn of the projected savi",
-      "source": "EUobserver",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "20h ago",
-      "timestamp": 1782301639
-    },
-    {
-      "title": "Listen: Could the UK really rejoin the EU?",
-      "link": "https://euobserver.com/223848/listen-could-the-uk-really-rejoin-the-eu/",
-      "summary": "With most Britons now saying Brexit was a mistake, any future bid to rejoin would still force the UK to swallow full free movement and EU rules again. Is that actually a realistic possibility?",
-      "source": "EUobserver",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "22h ago",
-      "timestamp": 1782294803
-    },
-    {
-      "title": "The European Union’s culture of secrecy is a threat to democracy",
-      "link": "https://euobserver.com/223533/the-european-unions-culture-of-secrecy-is-a-threat-to-democracy/",
-      "summary": "The EU is tightening its restrictions on the disclosure of its activities and documents. Of particular concern is the pending legislation on information security, which would introduce security classi",
-      "source": "EUobserver",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
       "time": "23h ago",
-      "timestamp": 1782292124
+      "timestamp": 1782302520
     },
     {
       "title": "Designing Drones for Africa",
@@ -1692,7 +1758,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1782289832
     },
     {
@@ -1727,28 +1793,6 @@
       "tier": 2,
       "time": "1d ago",
       "timestamp": 1782279742
-    },
-    {
-      "title": "Czech Icon’s Legacy at Risk as Vaclav Havel Library Descends into Chaos",
-      "link": "https://balkaninsight.com/2026/06/24/czech-icons-legacy-at-risk-as-vaclav-havel-library-descends-into-chaos/rd/",
-      "summary": "The possible collapse of the Vaclav Havel Library has sparked a wider debate about how to approach the legacy of Czechia’s first president and democratic icon - as his widow revokes her consent for hi",
-      "source": "Balkan Insight",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "1d ago",
-      "timestamp": 1782279511
-    },
-    {
-      "title": "Albania’s Disregard for Environmental Protection ‘Hurting EU Accession Hopes’",
-      "link": "https://balkaninsight.com/2026/06/24/albanias-disregard-for-environmental-protection-hurting-eu-accession-hopes/bi/",
-      "summary": "Amid continuing street protests, Albania is coming under increasing pressure to reverse its weakening of environmental protections in the interests of ‘luxury tourism’, or risk a setback in its pursui",
-      "source": "Balkan Insight",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "1d ago",
-      "timestamp": 1782279324
     },
     {
       "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
@@ -1817,17 +1861,6 @@
       "timestamp": 1782217082
     },
     {
-      "title": "New Genomic Techniques in Food and Feed",
-      "link": "https://verfassungsblog.de/new-genomic-techniques/",
-      "summary": "On 17 June 2026, the European Parliament adopted new rules on plants obtained by certain new genomic techniques (NGTs), including the famous genetic scissors CRISPR-Cas9, and the food and feed made fr",
-      "source": "Verfassungsblog",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "1d ago",
-      "timestamp": 1782215849
-    },
-    {
       "title": "A Claim to Lead, a Hesitation to Act: Germany’s New Military Strategy",
       "link": "https://warontherocks.com/a-claim-to-lead-a-hesitation-to-act-germanys-new-military-strategy/",
       "summary": "In the public perception, it seems like a big deal for Germany to publish a military strategy for the first time. But let me pour a little cold water on that. A form of military strategy has always ex",
@@ -1848,6 +1881,28 @@
       "tier": 1,
       "time": "2d ago",
       "timestamp": 1782156307
+    },
+    {
+      "title": "Ucrania y Moldavia: ¿una ampliación geopolítica?",
+      "link": "https://www.realinstitutoelcano.org/comentarios/ucrania-y-moldavia-una-ampliacion-geopolitica/",
+      "summary": "El (largo) camino hacia la Unión Europea El pasado 15 de junio, los Estados miembros acordaron la apertura de las negociaciones del primer grupo de capítulos para la adhesión de Ucrania y Moldavia a l",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "tier": 3,
+      "time": "2d ago",
+      "timestamp": 1782129600
+    },
+    {
+      "title": "La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores",
+      "link": "https://www.realinstitutoelcano.org/comentarios/la-puesta-en-marcha-del-pacto-europeo-de-migracion-y-asilo-un-acuerdo-de-minimos-entre-dudas-y-certezas-apoyos-y-detractores/",
+      "summary": "El Pacto Europeo de Migración y Asilo (PEMA), es decir el núcleo de la nueva política europea de inmigración y asilo, lleva una década diseñándose, negociándose, dibujándose y decidiéndose. Europa se ",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "tier": 3,
+      "time": "3d ago",
+      "timestamp": 1782118800
     },
     {
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
@@ -1916,6 +1971,17 @@
       "timestamp": 1781809554
     },
     {
+      "title": "Estados Unidos y Cuba: una relación presa de la Historia, la inercia estratégica y las políticas internas",
+      "link": "https://www.realinstitutoelcano.org/analisis/estados-unidos-y-cuba-una-relacion-presa-de-la-historia-la-inercia-estrategica-y-las-politicas-internas/",
+      "summary": "Mensajes clave Análisis Las relaciones entre EEUU y Cuba constituyen uno de los casos más singulares y duraderos de confrontación bilateral en la política internacional contemporánea. Desde el triunfo",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "tier": 3,
+      "time": "6d ago",
+      "timestamp": 1781791200
+    },
+    {
       "title": "Meet the world’s new peacemakers",
       "link": "https://www.economist.com/international/2026/06/18/meet-the-worlds-new-peacemakers",
       "summary": "Autocracies are taking over conflict mediation. The deals they are making look different",
@@ -1945,8 +2011,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6d ago",
+      "time": "7d ago",
       "timestamp": 1781777650
+    },
+    {
+      "title": "Salvar la asimetría y la fricción: propuestas para la mejora de las relaciones España-Alemania en la UE",
+      "link": "https://www.realinstitutoelcano.org/analisis/salvar-la-asimetria-y-la-friccion-propuestas-para-la-mejora-de-las-relaciones-espana-alemania-en-la-ue/",
+      "summary": "Mensajes clave[1] Análisis Introducción La relación entre Alemania y España está indudablemente tensionada. El incómodo episodio ocurrido durante la visita del canciller alemán Friedrich Merz a la Cas",
+      "source": "Elcano Institute",
+      "region": "academic",
+      "tag": "academic",
+      "tier": 3,
+      "time": "7d ago",
+      "timestamp": 1781773200
     },
     {
       "title": "If the UK wants to rejoin the European Union, it first needs to understand it",
@@ -2077,7 +2154,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "16d ago",
+      "time": "17d ago",
       "timestamp": 1780907340
     },
     {
@@ -2198,7 +2275,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "35d ago",
+      "time": "36d ago",
       "timestamp": 1779268740
     },
     {
@@ -2330,7 +2407,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4249d ago",
+      "time": "4250d ago",
       "timestamp": 1415183695
     },
     {
@@ -2341,7 +2418,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4249d ago",
+      "time": "4250d ago",
       "timestamp": 1415183695
     },
     {
@@ -2352,18 +2429,58 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4249d ago",
+      "time": "4250d ago",
       "timestamp": 1415183695
     }
   ],
   "social": [
+    {
+      "handle": "EmmanuelMacron",
+      "name": "Emmanuel Macron",
+      "role": "French President",
+      "region": "europe",
+      "text": "Je viens d’échanger avec @delcyrodriguezv, à la suite du violent séisme qui a frappé Caracas et plusieurs régions du pays.                             \n\nJ’ai exprimé la solidarité de la France envers le peuple vénézuélien et adressé nos pensées aux victimes et à leurs proches.\n\nL",
+      "time": "1h ago",
+      "timestamp": 1782380811,
+      "url": "https://nitter.net/EmmanuelMacron/status/2070081279480013176#m"
+    },
+    {
+      "handle": "EmmanuelMacron",
+      "name": "Emmanuel Macron",
+      "role": "French President",
+      "region": "europe",
+      "text": "La Marine Nationale a arraisonné mardi le pétrolier Deliver alors qu’il transitait au large de la Sicile en infraction avec le droit de la mer.             \n\nCette nouvelle action contre la flotte fantôme, conduite quelques jours après une opération similaire par le Royaume-Uni i",
+      "time": "1h ago",
+      "timestamp": 1782380215,
+      "url": "https://nitter.net/EmmanuelMacron/status/2070078777443410023#m"
+    },
+    {
+      "handle": "IsraeliPM",
+      "name": "Israeli PM Office",
+      "role": "Israel Government",
+      "region": "mena",
+      "text": "Prime Minister Benjamin Netanyahu:\n“Together with all citizens of Israel, my wife and I received with deep sorrow the news about Master Sergeant (Res.) Basel Sweid, of blessed memory, during operational activity in southern Lebanon.\n\nBasel, of blessed memory, a resident of the to",
+      "time": "1h ago",
+      "timestamp": 1782379435,
+      "url": "https://nitter.net/IsraeliPM/status/2070075504904822846#m"
+    },
+    {
+      "handle": "Keir_Starmer",
+      "name": "Keir Starmer",
+      "role": "UK Prime Minister",
+      "region": "europe",
+      "text": "RT by @Keir_Starmer: My thoughts are with those affected by the devastating earthquakes in Venezuela. We are working with partners to assess the needs & help with the global response. British nationals should follow local authority advice & check FCDO travel advice pages for late",
+      "time": "2h ago",
+      "timestamp": 1782378420,
+      "url": "https://nitter.net/YvetteCooperMP/status/2070071250349690891#m"
+    },
     {
       "handle": "RTErdogan",
       "name": "Recep Erdogan",
       "role": "Turkey President",
       "region": "mena",
       "text": "Venezuela’da meydana gelen iki ayrı depremde hayatını kaybedenlerin acısını yürekten paylaşıyor, dost Venezuela halkına ve hükûmetine başsağlığı ve geçmiş olsun dileklerimi iletiyor, yaralılara acil şifalar temenni ediyorum.\n\nTürkiye olarak bu acı ve zor günlerinde Venezuelalı do",
-      "time": "23m ago",
+      "time": "3h ago",
       "timestamp": 1782374283,
       "url": "https://nitter.net/RTErdogan/status/2070053896471368061#m"
     },
@@ -2373,7 +2490,7 @@
       "role": "French President",
       "region": "europe",
       "text": "Pensées et soutien au peuple vénézuélien après le séisme qui a frappé le pays. J’adresse toute ma solidarité aux victimes, à leurs proches et à celles et ceux mobilisés sur le terrain.",
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1782370338,
       "url": "https://nitter.net/EmmanuelMacron/status/2070037349476491436#m"
     },
@@ -2383,7 +2500,7 @@
       "role": "El Salvador President",
       "region": "latam",
       "text": "Agradezco al presidente Nayib Bukele su ofrecimiento de apoyo al pueblo de Venezuela para las labores de rescate y atención primaria ante los sismos ocurridos este 24 de junio.\n\nHe instruido a la Cancillería venezolana a coordinar de inmediato los mecanismos necesarios con las\n\n\n",
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1782357654,
       "url": "https://nitter.net/delcyrodriguezv/status/2069984151223038148#m"
     },
@@ -2393,7 +2510,7 @@
       "role": "Venezuela President",
       "region": "venezuela",
       "text": "Ante el poderoso terremoto que ha golpeado a nuestra Patria, nuestras oraciones por las familias venezolanas afectadas. En esta hora difícil el llamado es a la unión nacional, a la serenidad y al amor. ¡Nuestro corazón con toda Venezuela!",
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1782355411,
       "url": "https://nitter.net/NicolasMaduro/status/2069974742648455614#m"
     },
@@ -2403,7 +2520,7 @@
       "role": "El Salvador President",
       "region": "latam",
       "text": "En este momento, hemos ofrecido ayuda al Gobierno de Venezuela a través de nuestra Cancillería.\n\n300 rescatistas y paramédicos, junto con 50 toneladas de equipo, medicamentos e insumos de primera necesidad, están listos para partir hacia Caracas 🇸🇻🇻🇪",
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1782351636,
       "url": "https://nitter.net/nayibbukele/status/2069958907045249176#m"
     },
@@ -2413,7 +2530,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "La adhesión de la Argentina a Pax Silica representa una oportunidad histórica para nuestro país y demuestra que una relación estratégica con Estados Unidos puede traducirse en beneficios concretos para los argentinos. \n\nQuiero reconocer el gran trabajo realizado junto a mi amigo ",
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1782348058,
       "url": "https://nitter.net/alejandrito/status/2069943903428497564#m"
     },
@@ -2423,7 +2540,7 @@
       "role": "El Salvador President",
       "region": "latam",
       "text": "Nuestro corazón está con el pueblo de Venezuela en estos momentos difíciles. Les enviamos toda nuestra solidaridad y nuestras oraciones.\n\nFuerza Venezuela 🇻🇪",
-      "time": "8h ago",
+      "time": "11h ago",
       "timestamp": 1782346448,
       "url": "https://nitter.net/nayibbukele/status/2069937147868512434#m"
     },
@@ -2433,7 +2550,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "Este proyecto es mucho más que una reforma de la ley general de sociedades. Es un cambio de paradigma en el derecho societario argentino. Pasamos de un modelo centrado en restringir la pulsión emprendedora a uno que la libera. Uno de los proyectos más importantes en búsqueda del ",
-      "time": "8h ago",
+      "time": "11h ago",
       "timestamp": 1782346101,
       "url": "https://nitter.net/slcaputo/status/2069935694265331960#m"
     },
@@ -2443,19 +2560,9 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: Exposición completa del Ministro de Economía, @LuisCaputoAR, en la 31° Exposición Internacional de la Construcción y la Vivienda que se realizó en La Rural de Buenos Aires.",
-      "time": "8h ago",
+      "time": "11h ago",
       "timestamp": 1782344605,
       "url": "https://nitter.net/MinEconomia_Ar/status/2069929417183203773#m"
-    },
-    {
-      "handle": "EmmanuelMacron",
-      "name": "Emmanuel Macron",
-      "role": "French President",
-      "region": "europe",
-      "text": "Depuis le G7 d’Évian, nous vivons un moment important : la reconvergence entre Européens et Américains sur l'Ukraine et le Moyen-Orient.\n\nPour avancer et soutenir cet élan, je retrouve à Berlin, nos partenaires allemand, anglais, italien et polonais.\n      \nProchaine étape clé : ",
-      "time": "12h ago",
-      "timestamp": 1782329336,
-      "url": "https://nitter.net/EmmanuelMacron/status/2069865374582292807#m"
     },
     {
       "handle": "IsraeliPM",
@@ -2463,7 +2570,7 @@
       "role": "Israel Government",
       "region": "mena",
       "text": "Excerpt from Prime Minister Benjamin Netanyahu remarks, today, at the Federation of Local Authorities in Israel Conference:\n“It’s true, Hezbollah is still in Lebanon, but there is something else there now. Today, there is a security zone there that prevents Hezbollah and its remn",
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1782323289,
       "url": "https://nitter.net/IsraeliPM/status/2069840011655020655#m"
     },
@@ -2473,7 +2580,7 @@
       "role": "Turkey President",
       "region": "mena",
       "text": "Katliam şebekesi ne yaparsa yapsın, bölgemizde sulh-u sükûnun, adaletin, istikrarın, refahın egemen olmasını Allah’ın izniyle engelleyemeyecek.\n\nVideo",
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1782319500,
       "url": "https://nitter.net/RTErdogan/status/2069824119408054732#m"
     },
@@ -2483,7 +2590,7 @@
       "role": "Turkey President",
       "region": "mena",
       "text": "Tekrar bir “Yenikapı ruhu” aranıyorsa bunun vücut bulması gereken zemin Terörsüz Türkiye sürecidir.\n\nSiyaset kurumu, tıpkı Millî Dayanışma, Kardeşlik ve Demokrasi Komisyonu çalışmalarında olduğu gibi farklılıklarını bir yana koymalı, sürece destek olmalı, bu meselenin milletin gü",
-      "time": "16h ago",
+      "time": "19h ago",
       "timestamp": 1782316801,
       "url": "https://nitter.net/RTErdogan/status/2069812800885498031#m"
     },
@@ -2493,19 +2600,9 @@
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "Change promised by a Labour government.\n\nChange delivered by a Labour government.\n\nVideo",
-      "time": "19h ago",
+      "time": "22h ago",
       "timestamp": 1782303879,
       "url": "https://nitter.net/Keir_Starmer/status/2069758603100090826#m"
-    },
-    {
-      "handle": "EmmanuelMacron",
-      "name": "Emmanuel Macron",
-      "role": "French President",
-      "region": "europe",
-      "text": "La France demeurera, quoi qu’il arrive, la patrie dont Marc Bloch ne saurait déraciner son cœur.\n\nVideo",
-      "time": "1d ago",
-      "timestamp": 1782253167,
-      "url": "https://nitter.net/EmmanuelMacron/status/2069545898867134548#m"
     },
     {
       "handle": "IsraeliPM",
@@ -2518,34 +2615,14 @@
       "url": "https://nitter.net/IsraeliPM/status/2069482543036944648#m"
     },
     {
-      "handle": "IsraeliPM",
-      "name": "Israeli PM Office",
-      "role": "Israel Government",
-      "region": "mena",
-      "text": "R to @IsraeliPM: Prime Minister Netanyahu: \"Right now, we are standing against Iran and its proxies. We have dealt them blows. It is not over yet, but it depends on our strength. Where we will be 30 years from now depends on our strength. Therefore, what we are doing right now is",
-      "time": "1d ago",
-      "timestamp": 1782208402,
-      "url": "https://nitter.net/IsraeliPM/status/2069358140613632253#m"
-    },
-    {
       "handle": "Keir_Starmer",
       "name": "Keir Starmer",
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "Watch live: My statement. nitter.net/i/broadcasts/1XGyggXMD…\n\nLink\n\n\n\nKeir Starmer\n\nWatch live: My statement.",
-      "time": "2d ago",
+      "time": "3d ago",
       "timestamp": 1782117014,
       "url": "https://nitter.net/Keir_Starmer/status/2068974834676342973#m"
-    },
-    {
-      "handle": "Keir_Starmer",
-      "name": "Keir Starmer",
-      "role": "UK Prime Minister",
-      "region": "europe",
-      "text": "Being a dad is my greatest joy.\n\nToday, I’m thinking about my dad, and the father I am to my children because of him.\n\nHappy Father’s Day.",
-      "time": "4d ago",
-      "timestamp": 1782027308,
-      "url": "https://nitter.net/Keir_Starmer/status/2068598578214285549#m"
     },
     {
       "handle": "realDonaldTrump",
@@ -2569,7 +2646,7 @@
     }
   ],
   "failed_sources": [],
-  "total": 214,
+  "total": 221,
   "economic": {
     "regional": {
       "eur_mad": {
