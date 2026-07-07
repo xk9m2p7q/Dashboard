@@ -1,6 +1,633 @@
 {
-  "updated": "2026-07-07T08:21:48.031714+00:00",
+  "updated": "2026-07-07T11:25:01.818186+00:00",
   "articles": [
+    {
+      "title": "ECP warns KP, Islamabad again over delays in local govt polls",
+      "link": "https://www.dawn.com/news/2013591/ecp-warns-kp-islamabad-again-over-delays-in-local-govt-polls",
+      "summary": "ISLAMABAD: The Election Commission of Pakistan (ECP) on Tuesday again warned the Khyber Pakhtunkhwa government and the federal authorities against delaying local government (LG) elections, directing t",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "3m ago",
+      "timestamp": 1783423222
+    },
+    {
+      "title": "The EU poured millions into Gaza — and looks away when it’s turned to rubble",
+      "link": "https://euobserver.com/226107/the-eu-poured-millions-into-gaza-and-looks-away-when-its-turned-to-rubble/",
+      "summary": "Recent answers from the European Commission to parliamentary questions we submitted confirm what journalists, humanitarian organisations and Palestinians themselves have documented for years",
+      "source": "EUobserver",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "5m ago",
+      "timestamp": 1783423097
+    },
+    {
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "6m ago",
+      "timestamp": 1783422990
+    },
+    {
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "8m ago",
+      "timestamp": 1783422899
+    },
+    {
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "source": "BBC World",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "11m ago",
+      "timestamp": 1783422720
+    },
+    {
+      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
+      "link": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "summary": "Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deathsElon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial ",
+      "source": "The Guardian",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "23m ago",
+      "timestamp": 1783422006
+    },
+    {
+      "title": "Will the Iran-US MoU reshape economic relations in the Gulf?",
+      "link": "https://www.middleeasteye.net/news/will-iran-us-mou-reshape-economic-relations-gulf",
+      "summary": "Will the Iran-US MoU reshape economic relations in the Gulf?\n\n    \n    \n\n          \n      \n      \n        Submitted by \nZahra Ladha\n on \nTue, 07/07/2026 - 09:52\n\n        \n      \n    \n      \n    \n     ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "24m ago",
+      "timestamp": 1783421920
+    },
+    {
+      "title": "El Gobierno aprueba un techo de gasto récord de 226.032 millones para elaborar los Presupuestos de 2027, un incremento del 6,6%",
+      "link": "https://www.elmundo.es/economia/macroeconomia/2026/07/07/6a4cdae1e9cf4a52208b458d.html",
+      "summary": "Es lo máximo que podría elevarse el gasto público el año que viene&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "28m ago",
+      "timestamp": 1783421691
+    },
+    {
+      "title": "Qatari LNG tanker and Saudi crude oil ship damaged in Hormuz",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-lng-tanker-and-saudi-crude-oil-ship-damaged-hormuz",
+      "summary": "Qatari LNG tanker and Saudi crude oil ship damaged in Hormuz\n\n    \n    \n\n        \n    \n                The Qatari liquefied natural gas tanker Al Rekayyat reported that it had been struck overnight an",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "28m ago",
+      "timestamp": 1783421691
+    },
+    {
+      "title": "Rima Hassan denounces 'political and judicial harassment' over Israel criticism",
+      "link": "https://www.middleeasteye.net/news/french-palestinian-mep-rima-hassan-denounces-political-judicial-harassment-suppress-israel-criticism",
+      "summary": "Rima Hassan denounces 'political and judicial harassment' over Israel criticism\n\n    \n    \n\n          \n      \n      \n        Submitted by \nPauline Ertel\n on \nThu, 07/02/2026 - 12:36\n\n        \n      \n ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "35m ago",
+      "timestamp": 1783421273
+    },
+    {
+      "title": "Maroc : Jusqu'à 47°C de mardi à jeudi (bulletin d'alerte)",
+      "link": "https://www.yabiladi.com/articles/details/198151/maroc-jusqu-a-mardi-jeudi-bulletin.html",
+      "summary": "Une vague de chaleur est attendue dans plusieurs provinces du Maroc, de mardi à jeudi, a indiqué la Direction générale de la météorologie (DGM) dans un bulletin dalerte météorologique de niveau de vig",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "38m ago",
+      "timestamp": 1783421100
+    },
+    {
+      "title": "Marine Le Pen's embezzlement trial: Ruling set to determine French far-right leader's eligibility to run for president",
+      "link": "https://www.lemonde.fr/en/france/live/2026/07/07/marine-le-pen-s-embezzlement-trial-ruling-set-to-determine-french-far-right-leader-s-eligibility-to-run-for-president_6755231_7.html",
+      "summary": "The Paris appeals court will deliver its ruling on Tuesday afternoon. If it upholds the lower court's sentence, which included prison time and a ban on holding elected office, Marine Le Pen would be u",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "38m ago",
+      "timestamp": 1783421096
+    },
+    {
+      "title": "El Gobierno eleva el techo de gasto hasta un récord de 226.032 millones para 2027",
+      "link": "https://elpais.com/economia/2026-07-07/el-gobierno-eleva-el-techo-de-gasto-hasta-un-record-de-226032-millones-para-2027.html",
+      "summary": "El Consejo de Ministros aprueba una subida del 6,6% del límite de gasto no financiero, dando un paso más hacia la elaboración de los Presupuestos",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "39m ago",
+      "timestamp": 1783421046
+    },
+    {
+      "title": "Llega a Venezuela el primer lote de ayuda humanitaria china tras los terremotos",
+      "link": "https://www.elnacional.com/2026/07/llega-a-venezuela-el-primer-lote-de-ayuda-humanitaria-china-tras-los-terremotos/",
+      "summary": "La portavoz de la Cancillería china, Mao Ning, informó que el cargamento incluye generadores, purificadores de agua, tiendas de campaña y mantas.\nThe post Llega a Venezuela el primer lote de ayuda hum",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "41m ago",
+      "timestamp": 1783420920
+    },
+    {
+      "title": "The Responsibility to Protect doctrine can be resurrected",
+      "link": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss",
+      "summary": "The legal norm has been manipulated and forgotten. But today it is needed more than ever",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "41m ago",
+      "timestamp": 1783420910
+    },
+    {
+      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
+      "link": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss",
+      "summary": "Hillsides collapse at four locations at camps in Cox&#039;s Bazar in southeastern Bangladesh amid monsoon rains.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "42m ago",
+      "timestamp": 1783420887
+    },
+    {
+      "title": "Ukrainian drones hit Russian fuel tankers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss",
+      "summary": "Ukrainian drones hit Russian fuel tankers",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "42m ago",
+      "timestamp": 1783420875
+    },
+    {
+      "title": "What is the new Gaza administration as Hamas dissolves government?",
+      "link": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government?traffic_source=rss",
+      "summary": "The NCAG will oversee civilian affairs such as health and education, as well as security.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "45m ago",
+      "timestamp": 1783420683
+    },
+    {
+      "title": "UK High Court to rule in Prince Harry’s Daily Mail privacy case",
+      "link": "https://www.aljazeera.com/news/2026/7/7/uk-high-court-to-rule-in-prince-harrys-daily-mail-privacy-case?traffic_source=rss",
+      "summary": "UK High Court to rule on a privacy case brought by Prince Harry against Daily Mail publisher.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "48m ago",
+      "timestamp": 1783420533
+    },
+    {
+      "title": "Vik Muniz Gets His Biggest-Ever Retrospective, Free in Central Rio",
+      "link": "https://www.riotimesonline.com/vik-muniz-a-olho-nu-ccbb-rio-retrospective-2026/",
+      "summary": "Art Key Facts —The show. “Vik Muniz – A Olho Nu” is the largest career survey ever staged of the Brazilian artist, at the CCBB in central Rio. —The scale. Nearly 250 works from 43 series, spanning 198",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "50m ago",
+      "timestamp": 1783420377
+    },
+    {
+      "title": "Explosions in Damascus during Macron visit: What we know",
+      "link": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+      "summary": "Blasts occurred near hotel French president was reportedly staying in shortly after he departs for presidential palace.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "50m ago",
+      "timestamp": 1783420371
+    },
+    {
+      "title": "Europe Is Struggling to Lead NATO",
+      "link": "https://foreignpolicy.com/2026/07/07/europe-germany-france-nato-lead-trump/",
+      "summary": "Germany and France are at the center of a clash over the alliance’s future.",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "51m ago",
+      "timestamp": 1783420343
+    },
+    {
+      "title": "\"Cruza una línea roja\": por qué fue tan escandalosa la decisión de la FIFA de suspender la sanción al goleador de EE.UU., Folarin Balogun, tras una llamada de Trump",
+      "link": "https://www.elnacional.com/2026/07/cruza-una-linea-roja-por-que-fue-tan-escandalosa-la-decision-de-la-fifa-de-suspender-la-sancion-al-goleador-de-ee-uu-folarin-balogun-tras-una-llamada-de-trump/",
+      "summary": "El delantero estadounidense Balogun, expulsado contra Bosnia-Herzegovina, debería haber cumplido la suspensión para el partido de octavos de final contra Bélgica, que se jugó este lunes.\nThe post &quo",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "57m ago",
+      "timestamp": 1783419960
+    },
+    {
+      "title": "Maroc : Le youtubeur Ben Nesnas condamné à huit mois de prison",
+      "link": "https://www.yabiladi.com/articles/details/198138/maroc-youtubeur-nesnas-condamne-huit.html",
+      "summary": "Le tribunal de première instance de Témara a condamné, lundi, le youtubeur connu sous le nom de Ben Nesnas, à huit mois de prison et à une amende de 20 000 dirhams. Le mis en cause apparaissait dévora",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "58m ago",
+      "timestamp": 1783419900
+    },
+    {
+      "title": "São Paulo’s Anime Friends Closes Its Biggest Edition Ever at 230,000",
+      "link": "https://www.riotimesonline.com/anime-friends-2026-record-attendance-economic-impact/",
+      "summary": "Culture Key Facts —The record. The 2026 edition drew 230,000 visitors over four days, a new attendance high for the event. —The dates. It ran July 2 to 5 at the Distrito Anhembi convention grounds in ",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "58m ago",
+      "timestamp": 1783419896
+    },
+    {
+      "title": "Whose European Society?",
+      "link": "https://verfassungsblog.de/whose-european-society/",
+      "summary": "Commission v Hungary must be understood in the context of the European rule of law saga and the ongoing struggle for true European solidarity. The CJEU confirmed the autonomous justiciability of Artic",
+      "source": "Verfassungsblog",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783419574
+    },
+    {
+      "title": "Belgium considers becoming latest EU country to recognise Palestinian statehood",
+      "link": "https://www.middleeasteye.net/news/belgium-moves-towards-recognising-palestinian-statehood-after-hamas-dissolves-government-body",
+      "summary": "Belgium considers becoming latest EU country to recognise Palestinian statehood\n\n    \n    \n\n          \n      \n      \n        Submitted by \nFleur Hargreaves\n on \nTue, 07/07/2026 - 10:24\n\n        \n     ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783419547
+    },
+    {
+      "title": "Debating European Society",
+      "link": "https://verfassungsblog.de/debating-european-society/",
+      "summary": "Antoine Vauchez famously stated that the “constitutionalization of Europe” flourished in the hills of Fiesole. The Academy of European Law (AEL) at the European University Institute organizes an annua",
+      "source": "Verfassungsblog",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783419541
+    },
+    {
+      "title": "NFL Rio Game: What Cowboys and Ravens Fans Need to Plan the Trip",
+      "link": "https://www.riotimesonline.com/nfl-rio-game-2026-tickets-fan-guide-maracana/",
+      "summary": "Sport Key Facts —The fixture. The Baltimore Ravens face the Dallas Cowboys at the Maracanã on Sunday, September 27, 2026. —A first. It is the NFL&#8217;s first regular-season game in Rio, and the thir",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783419517
+    },
+    {
+      "title": "Poll: 30 percent of American Jews believe Israel committed genocide in Gaza",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/poll-30-percent-american-jews-believe-israel-committed-genocide-gaza",
+      "summary": "Poll: 30 percent of American Jews believe Israel committed genocide in Gaza\n\n    \n    \n\n        \n    \n                About one-third of Americans, including a similar share of American Jews, believe ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783419485
+    },
+    {
+      "title": "Syria’s capital rocked by blasts during Macron visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/syrias-capital-rocked-by-blasts-during-macron-visit?traffic_source=rss",
+      "summary": "Syria’s capital rocked by blasts during Macron visit",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783419344
+    },
+    {
+      "title": "Los calcetines del minuto '119', un bebé camino de Los Ángeles y la fe ciega en Mikel: \"Si hacía falta, iba a su casa a cogerle en brazos\"",
+      "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/07/6a4c4873e85ece1f388b45ad.html",
+      "summary": "Merino vuelve a vivir un día grande con España en vísperas de San Fermín. \"Se ha demostrado que muchas veces son más importantes los que salen desde el banquillo\", dice Cucurella&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783419300
+    },
+    {
+      "title": "LATAM Races Toward 410 Aircraft, Its First Embraer Jets Included",
+      "link": "https://www.riotimesonline.com/latam-fleet-410-aircraft-2026-embraer/",
+      "summary": "Aviation Key Facts —The target. LATAM plans to grow its fleet to around 410 aircraft by the end of 2026. —The additions. The group expects 41 new aircraft this year, having ended 2025 with 371. —The f",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783419273
+    },
+    {
+      "title": "High Rates Push a Wave of Brazilian Companies to Restructure Debt",
+      "link": "https://www.riotimesonline.com/brazil-debt-restructuring-2026-out-of-court-wave/",
+      "summary": "Markets Key Facts —The surge. Debts in out-of-court restructurings reached more than 109 billion reais in 2026, up from 41.5 billion reais in 2024. —The count. Filings rose from 16 in 2021 to 84 last ",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783419208
+    },
+    {
+      "title": "Syria says 18 wounded in Damascus blasts during French President Macron's visit",
+      "link": "https://www.dawn.com/news/2013577/syria-says-18-wounded-in-damascus-blasts-during-french-president-macrons-visit",
+      "summary": "Two bombs exploded near the hotel in Damascus where Emmanuel Macron held meetings on Tuesday, Syrian state media said, but the French president’s office said he did not hear the explosions and he met ",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783419031
+    },
+    {
+      "title": "Milei Is Selling Off Argentina’s Nuclear Crown Jewels, and Critics Are Alarmed",
+      "link": "https://www.riotimesonline.com/argentina-nuclear-2026-milei-privatization-carem/",
+      "summary": "Energy Key Facts &#8212;The opening. Argentina is opening its state nuclear sector to private and foreign capital under President Milei. &#8212;The sale. The state plans to sell 44 percent of nuclear ",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783418832
+    },
+    {
+      "title": "Gobierno prevé retomar vuelos internacionales usando pista paralela del aeropuerto de Maiquetía",
+      "link": "https://www.elnacional.com/2026/07/gobierno-preve-retomar-vuelos-internacionales-usando-pista-paralela-del-aeropuerto-de-maiquetia/",
+      "summary": "La presidenta encargada, Delcy Rodríguez, inspeccionó los trabajos de recuperación del aeropuerto, pero no precisó cuándo tienen prevista la reanudación.\nThe post Gobierno prevé retomar vuelos interna",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783418640
+    },
+    {
+      "title": "Everyone Wants in on Brazil’s Rare Earths",
+      "link": "https://foreignpolicy.com/2026/07/07/brazil-rare-earth-critical-mineral-us-china/",
+      "summary": "But is Brasília ready to meet the moment?",
+      "source": "Foreign Policy",
+      "region": "global",
+      "tag": "global",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783418447
+    },
+    {
+      "title": "The One Crop Brazil Still Can’t Grow Enough Of: Wheat",
+      "link": "https://www.riotimesonline.com/brazil-wheat-2026-falling-crop-rising-imports/",
+      "summary": "Agribusiness Key Facts &#8212;The exception. Wheat is the one major grain Brazil cannot supply for itself, unlike soy and corn. &#8212;The fall. The 2026 wheat crop is set to shrink, with production f",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783418444
+    },
+    {
+      "title": "Flying to Venezuela Again: Iberia Returns as Caracas Airport Stays Crippled",
+      "link": "https://www.riotimesonline.com/venezuela-flights-2026-iberia-returns-maiquetia/",
+      "summary": "Aviation Key Facts &#8212;The return. Iberia resumes flights to Venezuela in early July, weeks after the June earthquakes. &#8212;The reroute. The service runs Madrid to Valencia, not Caracas, with a ",
+      "source": "Rio Times",
+      "region": "latam",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783418431
+    },
+    {
+      "title": "Diego Arria: Sigue la narcotiranía, pero apoyada por EE UU",
+      "link": "https://www.elnacional.com/2026/07/diego-arria-critica-estrategia-trump-venezuela/",
+      "summary": "El exembajador Diego Arria analiza el impacto de los terremotos del 24 de junio y critica con dureza la estrategia de Washington en Venezuela, sosteniendo que la administración de Donald Trump prefiri",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783418400
+    },
+    {
+      "title": "El Gobierno pone al frente de la Agencia Tributaria al inspector Antonio Ansón tras la desbandada de la cúpula",
+      "link": "https://www.elmundo.es/economia/macroeconomia/2026/07/07/6a4cccf521efa046438b4580.html",
+      "summary": "Sustituye a Soledad Fernández Doctor, quien ha dimitido por desaveniencias con el Ministerio ante las cesiones a Cataluña&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783418120
+    },
+    {
+      "title": "'We were scared to die': The West Bank workers hiding in bins to reach Israel",
+      "link": "https://www.middleeasteye.net/news/palestine-west-bank-workers-risking-their-lives-reach-israel",
+      "summary": "'We were scared to die': The West Bank workers hiding in bins to reach Israel\n\n    \n    \n\n          \n      \n      \n        Submitted by \nJared Hillel\n on \nMon, 07/06/2026 - 18:29\n\n        \n      \n    ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783418044
+    },
+    {
+      "title": "Ayuso, sobre los presupuestos generales: “Buscan financiar a Cataluña por encima de Madrid, otro paso más para crear una nación paralegal”",
+      "link": "https://elpais.com/espana/madrid/2026-07-07/ayuso-sobre-los-presupuestos-generales-buscan-financiar-a-cataluna-por-encima-de-madrid-otro-paso-mas-para-crear-una-nacion-paralegal.html",
+      "summary": "La presidenta autonómica califica de “paripé” la reunión del ministro de Hacienda con las comunidades el lunes para hablar de déficit, deuda y regla de gasto, y dice que solo quiere contentar al indep",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783418003
+    },
+    {
+      "title": "Mamdani reclama a Trump que restablezca el TPS para los venezolanos tras los terremotos",
+      "link": "https://www.elnacional.com/2026/07/mamdani-reclama-a-trump-que-restablezca-el-tps-para-los-venezolanos-tras-los-terremotos/",
+      "summary": "El alcalde de Nueva York realizó la solicitud luego de visitar el restaurante venezolano Lulla's, en Brooklyn, convertido en uno de los mayores centros de la región para la donación de comida, medicin",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783417740
+    },
+    {
+      "title": "USA crashes out after 4–1 defeat to Belgium",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/usa-crashes-out-after-4-1-defeat-to?traffic_source=rss",
+      "summary": "Belgium thrashed the USA 4–1 to knock the host nation out of the World Cup, leaving home fans stunned.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783417514
+    },
+    {
+      "title": "Syria says 18 wounded in Damascus blasts during Macron visit",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-says-18-wounded-damascus-blasts-during-macron-visit",
+      "summary": "Syria says 18 wounded in Damascus blasts during Macron visit\n\n    \n    \n\n        \n    \n                The blasts occurred in central Damascus near the hotel where France's president spent the night, ",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783417334
+    },
+    {
+      "title": "Sahara : le Polisario tente de préserver ses derniers soutiens africains",
+      "link": "https://www.yabiladi.com/articles/details/198117/sahara-polisario-tente-preserver-derniers.html",
+      "summary": "Fragilisé par une série de revers diplomatiques en Amérique latine et confronté à une érosion de ses soutiens internationaux, le Polisario multiplie les initiatives en Afrique australe, considérée com",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783417320
+    },
+    {
+      "title": "One killed, 4 injured in quadcopter attack in KP's Bannu: police",
+      "link": "https://www.dawn.com/news/2013585/one-killed-4-injured-in-quadcopter-attack-in-kps-bannu-police",
+      "summary": "PESHAWAR: One person was killed and four others were injured in a quadcopter attack in the Bakakhel area of Bannu district, police said on Tuesday.\nAccording to Bannu’s District Police Officer (DPO) M",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783417175
+    },
+    {
+      "title": "Nato foreign ministers to meet Gulf Arab counterparts to discuss Hormuz tensions",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-foreign-ministers-meet-gulf-arab-counterparts-discuss-hormuz",
+      "summary": "Nato foreign ministers to meet Gulf Arab counterparts to discuss Hormuz tensions\n\n    \n    \n\n        \n    \n                Nato foreign ministers will meet Gulf Arab counterparts on Tuesday to address",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783416882
+    },
+    {
+      "title": "Big EU banks must set out AI risk plan, top ECB official",
+      "link": "https://www.politico.eu/article/major-eu-banks-must-set-out-ai-risk-plan-top-supervisor-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "BRUSSELS — The EU’s biggest lenders should set out how they will tackle risks from cutting-edge artificial intelligence models by the end of October, the bloc’s top banking supervisor said today. Chai",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1783416674
+    },
+    {
+      "title": "Pakistan, Kyrgyzstan reaffirm commitment to boosting bilateral ties, stress importance of deepening trade",
+      "link": "https://www.dawn.com/news/2013582/pakistan-kyrgyzstan-reaffirm-commitment-to-boosting-bilateral-ties-stress-importance-of-deepening-trade",
+      "summary": "President Asif Ali Zardari and Kyrgyzstan President Sadyr Zhaparov on Tuesday reaffirmed their commitment to boosting bilateral ties between Pakistan and Kyrgyzstan, particularly deepening trade, econ",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783416430
+    },
+    {
+      "title": "M'diq : Les champions marocains brillent à la 22e Semaine nautique internationale",
+      "link": "https://www.yabiladi.com/articles/details/198141/m-diq-champions-marocains-brillent-semaine.html",
+      "summary": "Les champions marocains ont signé une remarquable performance lors de la 22e édition de la Semaine nautique internationale de Mdiq (SNIM. Les représentants de lAssociation Dalia des sports nautiques s",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1783416300
+    },
+    {
+      "title": "Le Portugal demande l’aide du Maroc face à la menace des incendies de forêt",
+      "link": "https://www.yabiladi.com/articles/details/198130/portugal-demande-l-aide-maroc-face.html",
+      "summary": "Le Portugal a sollicité le Maroc, l’Espagne et l’Union européenne pour mettre en alerte supplémentaire des avions de lutte contre les incendies, par anticipation du risque accru de feux de forêt penda",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1783416000
+    },
+    {
+      "title": "Análisis visual | El gol quirúrgico de Mikel Merino contra Portugal, fotograma a fotograma",
+      "link": "https://elpais.com/deportes/mundial-futbol/2026-07-07/analisis-visual-la-jugada-perfecta-hasta-el-gol-de-mikel-merino-fotograma-a-fotograma.html",
+      "summary": "El tanto en el minuto 90 decide un partido igualado",
+      "source": "El Pais",
+      "region": "spain",
+      "tag": "eu",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1783415427
+    },
+    {
+      "title": "Rutte to NATO: Admit it — Trump was right",
+      "link": "https://www.politico.eu/article/mark-rutte-nato-admit-it-donald-trump-was-right/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "The military alliance chief has more warm words for the U.S. president in an interview with POLITICO, where he credits him with getting Europeans to spend more on defense.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "2h ago",
+      "timestamp": 1783414774
+    },
+    {
+      "title": "Large solidarité arabe avec le Maroc après la mise en échec de projets terroristes",
+      "link": "https://www.yabiladi.com/articles/details/198126/large-solidarite-arabe-avec-maroc.html",
+      "summary": "La solidarité arabe avec le Maroc s’est exprimée dès l’annonce, hier, de la mise en échec de projets terroristes qualifiés d’«extrêmement dangereux» dans le royaume. Ceux-ci visaient à porter atteinte",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1783414200
+    },
     {
       "title": "9 cops martyred in terrorist attack on police post in Ziarat",
       "link": "https://www.dawn.com/news/2013564/9-cops-martyred-in-terrorist-attack-on-police-post-in-ziarat",
@@ -9,30 +636,41 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "1m ago",
-      "timestamp": 1783412307
+      "time": "2h ago",
+      "timestamp": 1783414162
     },
     {
-      "title": "Rodri se disculpa con Bernardo Silva tras su polémica celebración \"Me he equivocado\"",
+      "title": "La Chambre des représentants adopte deux projets de loi sur le HCP et le système statistique",
+      "link": "https://www.yabiladi.com/articles/details/198127/chambre-representants-adopte-deux-projets.html",
+      "summary": "La Chambre des représentants a adopté à lunanimité, lundi lors dune séance législative, le projet de loi 047.26 relatif au Haut-Commissariat au Plan (HCP) et le projet de loi 046.26 relatif au système",
+      "source": "Yabiladi",
+      "region": "morocco",
+      "tag": "mena",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1783413600
+    },
+    {
+      "title": "IHC grants final adjournment to Imran's counsel in £190m corruption case",
+      "link": "https://www.dawn.com/news/2013578/ihc-grants-final-adjournment-to-imrans-counsel-in-ps190m-corruption-case",
+      "summary": "ISLAMABAD: The Islamabad High Court (IHC) on Tuesday granted a final adjournment to the counsel for former prime minister Imran Khan in the £190 million corruption case.\nThe court warned that no furth",
+      "source": "Dawn",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 2,
+      "time": "2h ago",
+      "timestamp": 1783413334
+    },
+    {
+      "title": "Rodri se disculpa con Bernardo Silva tras su polémica celebración: \"Me he equivocado\"",
       "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/07/6a4ca748fc6c83c0338b4578.html",
       "summary": "El español, MVP del partido, celebró el fallo del portugués en los instantes finales del duelo de octavos entre ambas selecciones&nbsp;Leer",
       "source": "El Mundo",
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7m ago",
+      "time": "3h ago",
       "timestamp": 1783411986
-    },
-    {
-      "title": "Israeli forces demolish two houses in Ramallah, detain four Palestinians in Jenin",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-demolish-two-houses-ramallah-detain-four-palestinians",
-      "summary": "Israeli forces demolish two houses in Ramallah, detain four Palestinians in Jenin\n\n    \n    \n\n        \n    \n                Citing head of the Shuqba Village Council, Khalaf Qadah, WAFA reported that ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "10m ago",
-      "timestamp": 1783411782
     },
     {
       "title": "Explosions rock Damascus during Macron's visit",
@@ -42,7 +680,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "10m ago",
+      "time": "3h ago",
       "timestamp": 1783411769
     },
     {
@@ -53,7 +691,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "17m ago",
+      "time": "3h ago",
       "timestamp": 1783411359
     },
     {
@@ -64,41 +702,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "19m ago",
+      "time": "3h ago",
       "timestamp": 1783411242
-    },
-    {
-      "title": "What to expect from Trump's meetings with Erdogan and Sharaa in Ankara",
-      "link": "https://www.middleeasteye.net/news/nato-ankara-summit-what-expect-trump-meetings-erdogan-and-sharaa",
-      "summary": "What to expect from Trump's meetings with Erdogan and Sharaa in Ankara\n\n    \n    \n\n          \n      \n      \n        Submitted by \nYasmine El-Sabawi\n on \nMon, 07/06/2026 - 18:58\n\n        \n      \n    \n ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "19m ago",
-      "timestamp": 1783411218
-    },
-    {
-      "title": "Explosion heard in Damascus during French president's visit",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-heard-damascus-during-french-presidents-visit",
-      "summary": "Explosion heard in Damascus during French president's visit\n\n    \n    \n\n        \n    \n                An explosion was heard in central Damascus on Tuesday as French President Emmanuel Macron visited ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "26m ago",
-      "timestamp": 1783410828
-    },
-    {
-      "title": "Spain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive",
-      "link": "https://www.middleeasteye.net/news/beyond-symbolism-has-spain-become-israels-most-fervent-adversary",
-      "summary": "Spain may style itself as Israel's most fervent adversary, but its sanctions are far from comprehensive \n\n    \n    \n\n          \n      \n      \n        Submitted by \nAna Maria Monjardino\n on \nMon, 07/06",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "27m ago",
-      "timestamp": 1783410766
     },
     {
       "title": "Major terrorist plot in Karachi thwarted as 2 BLA terrorists arrested: Sindh CTD",
@@ -108,19 +713,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "44m ago",
+      "time": "3h ago",
       "timestamp": 1783409751
-    },
-    {
-      "title": "Explosions heard in Syria’s Damascus",
-      "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-      "summary": "Television footage shows plumes of smoke rising in the sky; cause of the blasts not immediately clear.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "48m ago",
-      "timestamp": 1783409524
     },
     {
       "title": "Sinews of War at Sea: The Armed Services Need a Common Watercraft Family",
@@ -130,7 +724,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "49m ago",
+      "time": "3h ago",
       "timestamp": 1783409446
     },
     {
@@ -141,7 +735,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "52m ago",
+      "time": "3h ago",
       "timestamp": 1783409272
     },
     {
@@ -152,7 +746,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "52m ago",
+      "time": "3h ago",
       "timestamp": 1783409225
     },
     {
@@ -163,30 +757,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "54m ago",
+      "time": "3h ago",
       "timestamp": 1783409118
-    },
-    {
-      "title": "PM Shehbaz calls for comprehensive strategy to boost SMEs’ access to financing",
-      "link": "https://www.dawn.com/news/2013571/pm-shehbaz-calls-for-comprehensive-strategy-to-boost-smes-access-to-financing",
-      "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday directed that a comprehensive strategy be formulated to improve small and medium-sized enterprises’ (SMEs) access to financing.\nHe made these remark",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1783408527
-    },
-    {
-      "title": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-      "summary": "Defence spending and support for Ukraine&#039;s military needs are expected to top the agenda of summit in Turkish capital.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1783408167
     },
     {
       "title": "Indonesia to buy BrahMos missiles, Indian govt official says as Modi kicks off 2-day Jakarta visit",
@@ -196,19 +768,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1783408113
-    },
-    {
-      "title": "On its 250th birthday, America must leave behind the illusion of primacy",
-      "link": "https://www.middleeasteye.net/opinion/250-its-time-awaken-dream-american-primacy",
-      "summary": "On its 250th birthday, America must leave behind the illusion of primacy\n\n    \n    \n\n          \n      \n      \n        Submitted by \nJeffrey D. Sachs\n on \nMon, 07/06/2026 - 15:21\n\n        \n      \n    \n",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1783407867
     },
     {
       "title": "Babiš coalition retreats from plan to cut back conflict-of-interest rules",
@@ -218,19 +779,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1783407660
-    },
-    {
-      "title": "Watch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-crowds-march-through-tehran-during-funeral-procession-irans-slain",
-      "summary": "Watch: Crowds march through Tehran during funeral procession for Iran's slain Supreme Leader\n\n    \n    \n\n        \n    \n                Aerial footage from the funeral procession of Iran's late Supreme",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1783407181
     },
     {
       "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
@@ -240,7 +790,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1783405831
     },
     {
@@ -251,52 +801,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "1h ago",
+      "time": "4h ago",
       "timestamp": 1783405736
-    },
-    {
-      "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
-      "link": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1783405384
-    },
-    {
-      "title": "Araghchi says US-Iran talks will not start if Washington threats continue",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-us-iran-talks-will-not-start-if-washington-threats",
-      "summary": "Araghchi&nbsp;says US-Iran talks will not start if Washington threats continue\n\n    \n    \n\n        \n    \n                Iranian foreign minister Abbas Araghchi&nbsp;indicated that discussions between",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "1h ago",
-      "timestamp": 1783405372
-    },
-    {
-      "title": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-      "link": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss",
-      "summary": "The far-right leader could be prevented from running for president in 2027 if embezzlement charges are upheld.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1783404940
-    },
-    {
-      "title": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-      "link": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
-      "summary": "Trump warns NATO members ahead of summit, as European nations prepare to announce record defence spending.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1783404739
     },
     {
       "title": "Primer encierro de San Fermín 2026: emoción y nobleza de Fuente Ymbro en un encierro veloz",
@@ -306,19 +812,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1783404697
-    },
-    {
-      "title": "China sentences former local official to death in $324m corruption case",
-      "link": "https://www.aljazeera.com/economy/2026/7/7/china-sentences-former-local-official-to-death-in-324m-corruption-case?traffic_source=rss",
-      "summary": "Yang Youlin, an ex-official in the eastern city Nanjing, accepted bribes in exchange for business favours, court says.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1783404115
     },
     {
       "title": "En 1908, un projet de constitution évoquait les libertés individuelles au Maroc",
@@ -328,19 +823,8 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1783404000
-    },
-    {
-      "title": "Palestine weekly: One thousand days of genocide in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-      "summary": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1783403317
     },
     {
       "title": "Minefields: How Bosnia’s Frontline Still Divides Today",
@@ -350,7 +834,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1783403202
     },
     {
@@ -361,7 +845,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1783403171
     },
     {
@@ -372,63 +856,19 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "2h ago",
+      "time": "5h ago",
       "timestamp": 1783403088
     },
     {
-      "title": "Morning update",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-579",
-      "summary": "Morning update\n\n    \n    \n\n        \n    \n                Good morning Middle East Eye readers,\n\nTensions have reignited amid an attack on an oil tanker off the coast of Oman, with severe damage to the",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
+      "title": "Ni con los favores de Trump y la FIFA: EEUU, eliminada en octavos por una gran Bélgica",
+      "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/07/6a4c8417fdddffea108b4572.html",
+      "summary": "Dos goles de De Ketelaere lideran el contundente triunfo de los Diablos Rojos, que se medirán a España en cuartos (1-4).&nbsp;Leer",
+      "source": "El Mundo",
+      "region": "spain",
+      "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1783403032
-    },
-    {
-      "title": "Oil tanker hit by 'unknown projectile' in Strait of Hormuz region, says maritime agency",
-      "link": "https://www.dawn.com/news/2013561/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-says-maritime-agency",
-      "summary": "An “unknown projectile” struck and caused a fire on an oil tanker off the coast of Oman near the Strait of Hormuz on Monday, British maritime security agency United Kingdom Maritime Trade Operations (",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "2h ago",
-      "timestamp": 1783402382
-    },
-    {
-      "title": "Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve",
-      "link": "https://www.aljazeera.com/sports/2026/7/7/sorry-usa-riled-for-world-cup-thrashing-by-belgium-despite-balogun-reprieve?traffic_source=rss",
-      "summary": "Belgium midfielder Nicolas Raskin said his side’s win felt like a measure of justice after FIFA’s decision on Balogun.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "2h ago",
-      "timestamp": 1783402375
-    },
-    {
-      "title": "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
-      "link": "https://www.aljazeera.com/news/2026/7/7/limited-damage-upcoming-bollywood-film-angers-kashmir-pellet-gun-victims?traffic_source=rss",
-      "summary": "Makers of Chauhaan accused of mocking more than 1,000 Kashmiris partially or completely blinded by pellet shotguns.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1783401113
-    },
-    {
-      "title": "Nomad #61 : Le parc national d’Ifrane, dayas et nature pour se ressourcer",
-      "link": "https://www.yabiladi.com/articles/details/61391/nomad-parc-national-d-ifrane-dayas.html",
-      "summary": "En cette période de grand froid et de neige, le parc national d’Ifrane est couvert d’un joli manteau blanc. En été, c’est un lieu propice à la balade et aux piques-niques.",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "3h ago",
-      "timestamp": 1783400400
+      "time": "6h ago",
+      "timestamp": 1783399776
     },
     {
       "title": "A 12 días del terremoto en La Guaira, familias no desisten de   buscar a los suyos",
@@ -438,7 +878,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "3h ago",
+      "time": "6h ago",
       "timestamp": 1783398279
     },
     {
@@ -449,18 +889,18 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783397899
     },
     {
-      "title": "US team loses to Belgium, sending World Cup dream to a halt",
+      "title": "US loses to Belgium, ending World Cup dream",
       "link": "https://www.lemonde.fr/en/international/article/2026/07/07/us-team-loses-to-belgium-sending-world-cup-dream-to-a-halt_6755222_4.html",
       "summary": "Belgium, motivated by the uproar surrounding US striker Folarin Balogun, dismantled any hope of the US reaching a first World Cup quarter-final in 24 years.",
       "source": "Le Monde",
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783397332
     },
     {
@@ -471,7 +911,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783397221
     },
     {
@@ -482,7 +922,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783397100
     },
     {
@@ -493,7 +933,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783396822
     },
     {
@@ -504,7 +944,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783396822
     },
     {
@@ -515,7 +955,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783396822
     },
     {
@@ -526,7 +966,7 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783396800
     },
     {
@@ -537,30 +977,8 @@
       "region": "academic",
       "tag": "academic",
       "tier": 3,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783396800
-    },
-    {
-      "title": "Hunt on for attackers after 3 killed in Hanna Urak clashes",
-      "link": "https://www.dawn.com/news/2013515/hunt-on-for-attackers-after-3-killed-in-hanna-urak-clashes",
-      "summary": "• Minister says seven civilians kidnapped, nine wounded in gun battle; suspects TTP involvement• Several policemen injured, four ‘terrorists’ killed in subsequent operation• CM orders joint checkposts",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "4h ago",
-      "timestamp": 1783396473
-    },
-    {
-      "title": "Belgium thrash USA to end FIFA World Cup dream",
-      "link": "https://www.dawn.com/news/2013525/belgium-thrash-usa-to-end-fifa-world-cup-dream",
-      "summary": "Belgium brought the United States’ World Cup party to a shattering halt on Monday, thrashing the tournament co-hosts 4-1 to set up a quarter-final showdown with Spain.\nCharles De Ketelaere scored twic",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "4h ago",
-      "timestamp": 1783395962
     },
     {
       "title": "Gianni Infantino, un presidente de la FIFA que ha pasado de becario de LaLiga a protagonizar el bochorno de Balogun",
@@ -570,30 +988,19 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "7h ago",
       "timestamp": 1783395001
     },
     {
-      "title": "Conmoción en la Ribera del Duero por la muerte de la familia de un conocido bodeguero: “Es una pesadilla, no nos lo creemos”",
-      "link": "https://elpais.com/espana/2026-07-07/conmocion-en-la-ribera-del-duero-por-la-muerte-de-la-familia-de-un-conocido-bodeguero-es-una-pesadilla-no-nos-lo-creemos.html",
-      "summary": "El accidente que acabó con la vida de Iván Sanz Cid, su esposa y sus dos hijos enmudece a los vecinos de Pesquera",
-      "source": "El Pais",
-      "region": "spain",
+      "title": "‘Trump management’: Everyone else has a plan to keep NATO summit on the rails",
+      "link": "https://www.politico.eu/article/donald-trump-preparations-nato-summit-ankara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Military allies hope money, rearmament and a gesture on Iran will keep the U.S. president happy.",
+      "source": "POLITICO Europe",
+      "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
-      "timestamp": 1783395001
-    },
-    {
-      "title": "Despedida conservadora",
-      "link": "https://elpais.com/opinion/2026-07-07/despedida-conservadora.html",
-      "summary": "Vox ha logrado que no se conciba un escenario donde los populares gobiernen solos",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "4h ago",
-      "timestamp": 1783395001
+      "time": "8h ago",
+      "timestamp": 1783393500
     },
     {
       "title": "As US disengages from NATO, Europe's militaries ramp up scattered and unsynchronized",
@@ -603,7 +1010,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1783393200
     },
     {
@@ -614,7 +1021,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1783392367
     },
     {
@@ -625,30 +1032,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1783392365
-    },
-    {
-      "title": "Erika Kirk attends hearing for suspect charged with husband's murder",
-      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "5h ago",
-      "timestamp": 1783391598
-    },
-    {
-      "title": "Pakistan taking on mantle of mediation for war-torn Libya",
-      "link": "https://www.dawn.com/news/2013507/pakistan-taking-on-mantle-of-mediation-for-war-torn-libya",
-      "summary": "ISLAMABAD: Pakis­tan has quietly begun mediating between Libya’s rival eastern and western power centres, a previously-unreported effort that would further raise Islamabad’s diplomatic profile if it s",
-      "source": "Dawn",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 2,
-      "time": "5h ago",
-      "timestamp": 1783391054
     },
     {
       "title": "Bélgica goleó a Estados Unidos y dejó el Mundial 2026 sin anfitriones",
@@ -658,7 +1043,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1783390563
     },
     {
@@ -669,29 +1054,18 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1783390294
     },
     {
-      "title": "Marine Le Pen to find out whether she can run for president",
-      "link": "https://www.lemonde.fr/en/politics/article/2026/07/07/marine-le-pen-to-find-out-whether-she-can-run-for-president_6755218_5.html",
-      "summary": "A court will rule on Tuesday in Marine Le Pen's appeal trial over alleged misappropriation of European Union funds. Its decision will determine whether she can run in the 2027 presidential election.",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1783389604
-    },
-    {
-      "title": "It’s Judgment Day for Marine Le Pen",
+      "title": "It’s Judgment Day for Le Pen",
       "link": "https://www.politico.eu/article/marine-le-pen-to-finally-learn-if-she-can-run-for-president-france-court-verdict/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "summary": "A Paris appeals court delivers its verdict Tuesday in a case that could reshape France’s next presidential election.",
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1783389600
     },
     {
@@ -702,40 +1076,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1783389600
-    },
-    {
-      "title": "Leave ‘Queen’ Meloni alone, Belgian defense minister warns Trump",
-      "link": "https://www.politico.eu/article/dont-touch-queen-meloni-belgian-defense-minister-warns-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Belgium is one of the EU's defense laggards and can't afford to anger the U.S. president, but Theo Francken draws the line at his attacks on the Italian PM.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1783389600
-    },
-    {
-      "title": "Leftist MEP Rima Hassan says her terrorism trial is about silencing pro-Palestinian voices",
-      "link": "https://www.politico.eu/article/french-mep-rima-hassan-trial-over-accusations-glorifying-terrorism/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "The European lawmaker was charged for sharing a quote attributed to the author of a 1972 mass killing in Israel.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
-      "timestamp": 1783389600
-    },
-    {
-      "title": "Top Burnham adviser says Whitehall is too focused on the US",
-      "link": "https://www.politico.eu/article/andy-burnham-adviser-jim-oneill-uk-focus-us/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Former Treasury minister Jim O’Neill — who has been advising Britain's likely next prime minister Andy Burnham — says the second Trump administration has been a \"wake up call\" to civil servants.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1783389600
     },
     {
@@ -746,7 +1087,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1783388967
     },
     {
@@ -757,7 +1098,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1783386898
     },
     {
@@ -768,7 +1109,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1783386605
     },
     {
@@ -779,7 +1120,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1783385163
     },
     {
@@ -790,19 +1131,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "10h ago",
       "timestamp": 1783384076
-    },
-    {
-      "title": "Netanyahu government's legal coup challenges Israel's justice system: 'The final nail in the coffin of democracy'",
-      "link": "https://www.lemonde.fr/en/international/article/2026/07/07/netanyahu-government-s-legal-coup-challenges-israel-s-justice-system-the-final-nail-in-the-coffin-of-democracy_6755216_4.html",
-      "summary": "By declaring he would not comply with a Supreme Court ruling, Israeli Prime Minister Benjamin Netanyahu is directly confronting the country's highest legal authority, plunging Israel into a constituti",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "8h ago",
-      "timestamp": 1783382565
     },
     {
       "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
@@ -812,63 +1142,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "8h ago",
+      "time": "11h ago",
       "timestamp": 1783382153
-    },
-    {
-      "title": "Yordan Álvarez y Otto López brillan como los Jugadores de la Semana en MLB",
-      "link": "https://www.elnacional.com/2026/07/yordan-alvarez-y-otto-lopez-brillan-como-los-jugadores-de-la-semana-en-mlb/",
-      "summary": "Los toleteros latinos se impusieron a solo días de su participación en el Juego de Estrellas de las Grandes Ligas.\nThe post Yordan Álvarez y Otto López brillan como los Jugadores de la Semana en MLB a",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "8h ago",
-      "timestamp": 1783381458
-    },
-    {
-      "title": "Argentina quiere disipar las dudas ante Egipto en el duelo Messi-Salah de octavos",
-      "link": "https://www.elnacional.com/2026/07/argentina-quiere-disipar-las-dudas-ante-egipto-en-el-duelo-messi-salah-de-octavos/",
-      "summary": "El \"10\" argentino viene de acumular 120 minutos frente a Cabo Verde y Egipto monitorea de cerca la lesión de Mohamed Salah.\nThe post Argentina quiere disipar las dudas ante Egipto en el duelo Messi-Sa",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "8h ago",
-      "timestamp": 1783380805
-    },
-    {
-      "title": "Murió Panchita, el loro rescatado tras siete días bajo los escombros en La Guaira",
-      "link": "https://www.elnacional.com/2026/07/murio-panchita-el-loro-rescatado-tras-siete-dias-bajo-los-escombros-en-la-guaira/",
-      "summary": "Aunque su partida ha generado tristeza, su caso se mantiene como un testimonio conmovedor de la tragedia en la costa central venezolana, sirviendo como un recordatorio del valor de cada vida y del imp",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "8h ago",
-      "timestamp": 1783380699
-    },
-    {
-      "title": "Duelo de invictos: Colombia y Suiza se retan por un pase a los cuartos de final",
-      "link": "https://www.elnacional.com/2026/07/duelo-de-invictos-colombia-y-suiza-se-retan-por-un-pase-a-los-cuartos-de-final/",
-      "summary": "Colombianos y suizos cerrarán los octavos de final con la mirada puesta en la siguiente fase. Por primera vez los neogranadinos jugarán en territorio canadiense.\nThe post Duelo de invictos: Colombia y",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "8h ago",
-      "timestamp": 1783380453
-    },
-    {
-      "title": "Cobolli mantiene intacto el sueño en Wimbledon tras ser finalista en Roland Garros",
-      "link": "https://www.elnacional.com/2026/07/cobolli-mantiene-intacto-el-sueno-en-wimbledon-tras-ser-finalista-en-roland-garros/",
-      "summary": "El italiano se medirá en cuartos con el último británico en carrera, Arthur Féry, número 114 del ranking, que venció al búlgaro Grigor Dimitrov.\nThe post Cobolli mantiene intacto el sueño en Wimbledon",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "9h ago",
-      "timestamp": 1783379642
     },
     {
       "title": "'Never before have 11,000 hectares burned this early in the summer in southern France in at least the past 20 years'",
@@ -878,7 +1153,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "9h ago",
+      "time": "12h ago",
       "timestamp": 1783379133
     },
     {
@@ -889,7 +1164,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "9h ago",
+      "time": "12h ago",
       "timestamp": 1783378404
     },
     {
@@ -900,7 +1175,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783376345
     },
     {
@@ -911,7 +1186,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783376007
     },
     {
@@ -922,7 +1197,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375997
     },
     {
@@ -933,7 +1208,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375842
     },
     {
@@ -944,7 +1219,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375500
     },
     {
@@ -955,7 +1230,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375500
     },
     {
@@ -966,7 +1241,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375387
     },
     {
@@ -977,7 +1252,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375322
     },
     {
@@ -988,7 +1263,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375260
     },
     {
@@ -999,41 +1274,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783375150
-    },
-    {
-      "title": "Cuando brilla, gana, y cuando no, también: un gol de Mikel Merino en el 91 despide a Cristiano y manda a España a los cuartos",
-      "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/06/6a4beb55fdddff47338b459e.html",
-      "summary": "La selección sobrevivió a un 'thriller' psicológico de hora y media en Dallas gracias a una asistencia de Ferran y al tanto del hombre al que De la Fuente esperó hasta casi lo inexplicable&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1783374883
-    },
-    {
-      "title": "Aparece Rodri, aparece España: MVP del partido contra Portugal, el jugador ha recuperado la finura poco a poco",
-      "link": "https://elpais.com/deportes/mundial-futbol/2026-07-06/aparece-rodri-aparece-espana-mvp-del-partido-contra-portugal-el-jugador-ha-recuperado-la-finura-poco-a-poco.html",
-      "summary": "El capitán de la Selección presenta su mejor versión y se impone a Vitinha en la batalla del centro del campo",
-      "source": "El Pais",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1783374750
-    },
-    {
-      "title": "Mikel Merino, el héroe que grita ¡Viva San Fermín!: \"Me acuerdo de las noches duras en que pensaba que no iba a formar parte de este equipo\"",
-      "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/06/6a4be5e421efa0d2268b4599.html",
-      "summary": "El navarro, como en Stuttgart hace dos años, marca el gol de su vida tras subirse el último al avión del Mundial. \"Los jugadores importantes son los que están en el banquillo\", advierte De la Fuente e",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1783374494
     },
     {
       "title": "El fado de España",
@@ -1043,19 +1285,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783374407
-    },
-    {
-      "title": "Jazzablanca 2026 : Naïka et Oxlade célèbrent les musiques afro-contemporaines",
-      "link": "https://www.yabiladi.com/articles/details/198116/jazzablanca-2026-naika-oxlade-celebrent.html",
-      "summary": "La scène Casa Anfa a accueilli, dimanche, dans le cadre de la 19è édition du festival Jazzablanca, une soirée consacrée aux musiques afro-contemporaines, portée par les prestations d’Oxlade et de Naïk",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "10h ago",
-      "timestamp": 1783374000
     },
     {
       "title": "If ludicrous Trump flattery can save NATO, bring it on",
@@ -1065,7 +1296,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783373872
     },
     {
@@ -1076,7 +1307,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783373814
     },
     {
@@ -1087,19 +1318,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783373801
-    },
-    {
-      "title": "Lancement de la plateforme nationale e-commerce B2B à l’export eTrade.ma",
-      "link": "https://www.yabiladi.com/articles/details/198114/lancement-plateforme-nationale-e-commerce-l-export.html",
-      "summary": "Le secrétariat dÉtat chargé du Commerce extérieur a procédé, lundi au campus de Benguérir de l’Université Mohammed VI polytechnique (UM6P), au lancement de eTrade.ma, une plateforme nationale d’e-comm",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "10h ago",
-      "timestamp": 1783373400
     },
     {
       "title": "'A despicable woman unworthy of her office': Kylian Mbappé responds to racist remarks from Paraguayan senator",
@@ -1109,7 +1329,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "13h ago",
       "timestamp": 1783373257
     },
     {
@@ -1120,30 +1340,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1783372819
-    },
-    {
-      "title": "Accord Royaume-Uni - UE : Gibraltar met fin à sa liaison avec le Maroc",
-      "link": "https://www.yabiladi.com/articles/details/198104/accord-royaume-uni-ue-gibraltar-liaison-avec.html",
-      "summary": "Le gouvernement de Gibraltar a annoncé la fin de la liaison maritime avec le Maroc, exploitée par DFDS (anciennement FRS), à la suite du nouvel accord entre le Royaume-Uni et l’Union européenne qui do",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "11h ago",
-      "timestamp": 1783372800
-    },
-    {
-      "title": "Khrib, Behja, Denya Jate… Ces tissus nobles qui font les caftans au Maroc",
-      "link": "https://www.yabiladi.com/articles/details/198110/khrib-behja-denya-jate-tissus.html",
-      "summary": "Matière première des caftans au Maroc, les tissus nobles ont dessiné le prestige et l’élégance de cet habit traditionnel, en l’érigeant au rang de l’œuvre d’art vestimentaire. Choisir entre Khrib, Beh",
-      "source": "Yabiladi",
-      "region": "morocco",
-      "tag": "mena",
-      "tier": 2,
-      "time": "11h ago",
-      "timestamp": 1783372200
     },
     {
       "title": "Un heroico Merino acaba con la resistencia de Portugal y mete a España en cuartos del Mundial",
@@ -1153,7 +1351,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1783371821
     },
     {
@@ -1164,7 +1362,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1783370257
     },
     {
@@ -1175,30 +1373,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "14h ago",
       "timestamp": 1783369574
-    },
-    {
-      "title": "La querella de Delcy contra Aldama por injurias choca con la doctrina del Supremo",
-      "link": "https://www.elmundo.es/espana/2026/07/06/6a4bd983fdddff08528b45a4.html",
-      "summary": "El Alto Tribunal impidió que el PSOE y un constructor pleitearan contra el empresario&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "11h ago",
-      "timestamp": 1783369542
-    },
-    {
-      "title": "Sánchez llega a la cumbre de la OTAN dispuesto al choque tras ser señalado por el gasto militar",
-      "link": "https://www.elmundo.es/internacional/2026/07/06/6a4beb2be9cf4ae4708b4594.html",
-      "summary": "Rutte marca el paso a España y le exige un plan \"creíble\" para alcanzar el 5% del PIB. Moncloa se resiste y reta a la Alianza a probar que no cumple&nbsp;Leer",
-      "source": "El Mundo",
-      "region": "spain",
-      "tag": "eu",
-      "tier": 1,
-      "time": "11h ago",
-      "timestamp": 1783369378
     },
     {
       "title": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
@@ -1208,19 +1384,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "12h ago",
+      "time": "15h ago",
       "timestamp": 1783366209
-    },
-    {
-      "title": "Trump confirms he asked Fifa to review Balogun ban",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
-      "source": "BBC World",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "13h ago",
-      "timestamp": 1783364794
     },
     {
       "title": "\"Lo que logramos fue gracias al feminismo\": 10 años desde que las mujeres hicieron suyo el rugido de La Manada",
@@ -1230,7 +1395,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1783362734
     },
     {
@@ -1241,7 +1406,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1783362734
     },
     {
@@ -1252,7 +1417,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1783362718
     },
     {
@@ -1263,7 +1428,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1783362700
     },
     {
@@ -1274,8 +1439,19 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "13h ago",
+      "time": "16h ago",
       "timestamp": 1783362685
+    },
+    {
+      "title": "France faces new heatwave with temperatures reaching 40°C",
+      "link": "https://www.lemonde.fr/en/environment/article/2026/07/06/france-faces-new-heatwave-with-temperatures-reaching-40-c_6755211_114.html",
+      "summary": "Heat swept across much of the country on Monday, with temperatures reaching up to 38°C and even 40°C in the southwest. The third major heatwave of the year is expected to be both intense and prolonged",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "17h ago",
+      "timestamp": 1783360814
     },
     {
       "title": "Is Berlin about to go from conservative to hard-left?",
@@ -1285,7 +1461,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1783360800
     },
     {
@@ -1296,7 +1472,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1783360639
     },
     {
@@ -1307,7 +1483,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "14h ago",
+      "time": "17h ago",
       "timestamp": 1783359731
     },
     {
@@ -1318,7 +1494,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1783357379
     },
     {
@@ -1329,7 +1505,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1783356107
     },
     {
@@ -1340,7 +1516,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1783355728
     },
     {
@@ -1351,7 +1527,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "16h ago",
+      "time": "19h ago",
       "timestamp": 1783353506
     },
     {
@@ -1362,7 +1538,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "20h ago",
       "timestamp": 1783350991
     },
     {
@@ -1373,7 +1549,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "17h ago",
+      "time": "20h ago",
       "timestamp": 1783348678
     },
     {
@@ -1384,7 +1560,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "21h ago",
       "timestamp": 1783347218
     },
     {
@@ -1395,7 +1571,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "18h ago",
+      "time": "21h ago",
       "timestamp": 1783346763
     },
     {
@@ -1406,7 +1582,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "22h ago",
       "timestamp": 1783344006
     },
     {
@@ -1417,7 +1593,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "19h ago",
+      "time": "22h ago",
       "timestamp": 1783340746
     },
     {
@@ -1428,7 +1604,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "20h ago",
+      "time": "23h ago",
       "timestamp": 1783339237
     },
     {
@@ -1439,7 +1615,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "20h ago",
+      "time": "23h ago",
       "timestamp": 1783338893
     },
     {
@@ -1450,7 +1626,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "20h ago",
+      "time": "1d ago",
       "timestamp": 1783336982
     },
     {
@@ -1461,30 +1637,8 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "21h ago",
+      "time": "1d ago",
       "timestamp": 1783336289
-    },
-    {
-      "title": "The U.S. Can’t ‘Yield Even an Inch’ to Xi, Top Democrat Says",
-      "link": "https://foreignpolicy.com/2026/07/06/senator-duckworth-taiwan-visit-china-trump-xi-jinping/",
-      "summary": "Sen. Tammy Duckworth tells FP why she is traveling to Taiwan.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "21h ago",
-      "timestamp": 1783335605
-    },
-    {
-      "title": "False flags and a war of nerves. Russia is too weak to fight Nato militarily. But it can attack in other ways",
-      "link": "https://euobserver.com/225872/false-flags-and-a-war-of-nerves-russia-is-too-weak-to-fight-nato-militarily-but-it-can-attack-in-other-ways/",
-      "summary": "Russia is too weak militarily to invade any Nato country. It is building some military infrastructure, notably on the border with Finland, but it has no soldiers to put there. Whatever Russia is plann",
-      "source": "EUobserver",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "21h ago",
-      "timestamp": 1783335600
     },
     {
       "title": "Bosnia and Herzegovina’s 2026 Elections Will Test Democratic Delivery",
@@ -1494,7 +1648,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "21h ago",
+      "time": "1d ago",
       "timestamp": 1783335547
     },
     {
@@ -1505,7 +1659,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "22h ago",
+      "time": "1d ago",
       "timestamp": 1783332052
     },
     {
@@ -1516,7 +1670,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "22h ago",
+      "time": "1d ago",
       "timestamp": 1783331173
     },
     {
@@ -1527,7 +1681,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1783326743
     },
     {
@@ -1584,17 +1738,6 @@
       "tier": 2,
       "time": "1d ago",
       "timestamp": 1783317776
-    },
-    {
-      "title": "Jimmy Carter Knew What Ails America",
-      "link": "https://foreignpolicy.com/2026/07/06/jimmy-carter-speech-malaise/",
-      "summary": "One of history’s most misunderstood speeches is also one of its most important.",
-      "source": "Foreign Policy",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "1d ago",
-      "timestamp": 1783310476
     },
     {
       "title": "A Better Way to Build AI",
@@ -1683,28 +1826,6 @@
       "tier": 3,
       "time": "3d ago",
       "timestamp": 1783098429
-    },
-    {
-      "title": "Venezuela After the Earthquakes",
-      "link": "https://verfassungsblog.de/venezuela-after-the-earthquakes/",
-      "summary": "On June 24, 2026, two earthquakes struck Venezuela with magnitudes of 7.2 and 7.5. As of 2 July, the official death toll has climbed past 2,295, and more than 38,600 people remain unaccounted for. Hav",
-      "source": "Verfassungsblog",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "3d ago",
-      "timestamp": 1783096442
-    },
-    {
-      "title": "Nach den Beben in Venezuela",
-      "link": "https://verfassungsblog.de/nach-den-beben-in-venezuela/",
-      "summary": "Am 24. Juni 2026 erschütterten zwei schwere Erdbeben der Stärken 7,2 und 7,5 Venezuela. Bis zum 2. Juli stieg die offizielle Zahl der Todesopfer auf über 2.295. Mehr als 38.600 Menschen gelten weiterh",
-      "source": "Verfassungsblog",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 2,
-      "time": "3d ago",
-      "timestamp": 1783096428
     },
     {
       "title": "Jobanis de Jesús Ávila Villadiego, alias ‘Chiquito Malo’",
@@ -1848,17 +1969,6 @@
       "tier": 3,
       "time": "4d ago",
       "timestamp": 1783051200
-    },
-    {
-      "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
-      "link": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
-      "summary": "Indian prime minister has a habit of collecting awards on his travels, some as their first and only recipientAs Narendra Modi touched down in Seychelles over the weekend, the archipelago nation in the",
-      "source": "The Guardian",
-      "region": "global",
-      "tag": "global",
-      "tier": 1,
-      "time": "4d ago",
-      "timestamp": 1783036813
     },
     {
       "title": "Larry Amaury Álvarez Núñez, alias ‘Larry Changa’",
@@ -2011,7 +2121,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "10d ago",
+      "time": "11d ago",
       "timestamp": 1782471120
     },
     {
@@ -2055,7 +2165,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "24d ago",
+      "time": "25d ago",
       "timestamp": 1781263200
     },
     {
@@ -2099,7 +2209,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "28d ago",
+      "time": "29d ago",
       "timestamp": 1780907340
     },
     {
@@ -2231,7 +2341,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4261d ago",
+      "time": "4262d ago",
       "timestamp": 1415183695
     },
     {
@@ -2242,7 +2352,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4261d ago",
+      "time": "4262d ago",
       "timestamp": 1415183695
     },
     {
@@ -2253,18 +2363,28 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4261d ago",
+      "time": "4262d ago",
       "timestamp": 1415183695
     }
   ],
   "social": [
+    {
+      "handle": "EmmanuelMacron",
+      "name": "Emmanuel Macron",
+      "role": "French President",
+      "region": "europe",
+      "text": "Rien ne pourra étouffer l’aspiration des Syriennes et des Syriens à vivre dans une Syrie pleinement souveraine, sûre, pluraliste, unie.\n\nCe matin j’ai rencontré la Syrie dans toute sa diversité. J’ai vu la dignité, le courage et la détermination.\n\nMa visite se poursuit.",
+      "time": "1h ago",
+      "timestamp": 1783417391,
+      "url": "https://nitter.net/EmmanuelMacron/status/2074429009329308088#m"
+    },
     {
       "handle": "JMilei",
       "name": "Javier Milei",
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: ¿Emitir dinero debería ser un delito? ⛔️ Analizamos la relación entre la emisión monetaria, la inflación y el rol del Estado en la economía. Lo debatimos con Ricardo Rojas 👈🏼",
-      "time": "5h ago",
+      "time": "8h ago",
       "timestamp": 1783394031,
       "url": "https://nitter.net/neuramedia/status/2074331030467588311#m"
     },
@@ -2274,7 +2394,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: 🚨🇦🇷 | SE PRIVATIZA TODO: El ministro @LuisCaputoAR detalló los avances en las concesiones de rutas nacionales, una medida que busca optimizar su administración y mantenimiento mediante financiamiento privado, erradicando de manera definitiva la corrupción kirchneri",
-      "time": "6h ago",
+      "time": "9h ago",
       "timestamp": 1783388400,
       "url": "https://nitter.net/laderechadiario/status/2074307411163181135#m"
     },
@@ -2284,7 +2404,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: LOS CONCEPTOS QUE JAVIER MILEI DEVOLVIÓ AL DEBATE PÚBLICO Laissez-faire Función empresarial Efecto Cantillon Ley de Gresham Crítica al mercantilismo La fábula de las abejas División del trabajo Mano invisible Ley de las ventajas comparativas Ley de Say Lo que se ve",
-      "time": "6h ago",
+      "time": "10h ago",
       "timestamp": 1783387319,
       "url": "https://nitter.net/AmoaHamlet/status/2074302876613034470#m"
     },
@@ -2294,7 +2414,7 @@
       "role": "French President",
       "region": "europe",
       "text": "Un but de plus pour Kylian Mbappé. Contre le racisme cette fois. Tout mon soutien. Quand les mots salissent, nos valeurs répondent : dignité, respect, fraternité. @KMbappe 👏",
-      "time": "9h ago",
+      "time": "12h ago",
       "timestamp": 1783377147,
       "url": "https://nitter.net/EmmanuelMacron/status/2074260211733291407#m"
     },
@@ -2304,7 +2424,7 @@
       "role": "French President",
       "region": "europe",
       "text": "Je viens dire l’engagement de la France auprès du peuple syrien. Pour une Syrie souveraine, unie dans sa pluralité et en paix avec ses voisins. Ensemble, ouvrons une nouvelle page de stabilité et de paix.",
-      "time": "15h ago",
+      "time": "18h ago",
       "timestamp": 1783356944,
       "url": "https://nitter.net/EmmanuelMacron/status/2074175478227669488#m"
     },
@@ -2314,7 +2434,7 @@
       "role": "UK Prime Minister",
       "region": "europe",
       "text": "I am sad to hear of the passing of Sir George Howarth. \n\nA lifetime of public service, George served his party, his country, and the people of Knowsley with distinction. \n\nMy thoughts, and those of the entire Labour movement, are with his family at this difficult time.",
-      "time": "17h ago",
+      "time": "20h ago",
       "timestamp": 1783349179,
       "url": "https://nitter.net/Keir_Starmer/status/2074142908828041598#m"
     },
@@ -2324,19 +2444,9 @@
       "role": "Turkey President",
       "region": "mena",
       "text": "RT by @RTErdogan: Beştepe Gündemi: Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın son bir haftada gerçekleştirdiği önemli program ve temaslardan öne çıkan başlıklar.",
-      "time": "22h ago",
+      "time": "1d ago",
       "timestamp": 1783331461,
       "url": "https://nitter.net/iletisim/status/2074068593159929991#m"
-    },
-    {
-      "handle": "EmmanuelMacron",
-      "name": "Emmanuel Macron",
-      "role": "French President",
-      "region": "europe",
-      "text": "Solidarité avec nos compatriotes des Pyrénées-Orientales, de l’Hérault, du Gard, de la Drôme, de l’Aude, de l’Ariège, de la Haute-Loire et des Alpes-de-Haute-Provence, touchés par les incendies.\n\nPensées pour nos sapeurs-pompiers blessés, à qui j’exprime le soutien de la Nation. ",
-      "time": "23h ago",
-      "timestamp": 1783326072,
-      "url": "https://nitter.net/EmmanuelMacron/status/2074045991607538156#m"
     },
     {
       "handle": "Keir_Starmer",
@@ -2419,6 +2529,16 @@
       "url": "https://nitter.net/nayibbukele/status/2073781031635677242#m"
     },
     {
+      "handle": "realDonaldTrump",
+      "name": "Donald Trump",
+      "role": "US President",
+      "region": "global",
+      "text": "nitter.net/i/broadcasts/1yxBeeAql…\n\nLink\n\n\n\nThe White House\n\nPresident Trump Delivers Remarks at the Salute to America Celebration",
+      "time": "2d ago",
+      "timestamp": 1783221437,
+      "url": "https://nitter.net/realDonaldTrump/status/2073607119878623432#m"
+    },
+    {
       "handle": "nayibbukele",
       "name": "Nayib Bukele",
       "role": "El Salvador President",
@@ -2447,10 +2567,20 @@
       "time": "2d ago",
       "timestamp": 1783179014,
       "url": "https://nitter.net/RTErdogan/status/2073429183808614541#m"
+    },
+    {
+      "handle": "realDonaldTrump",
+      "name": "Donald Trump",
+      "role": "US President",
+      "region": "global",
+      "text": "POLL…\n\nPoll\n\n38% — ICE Agents\n62% — NICE Agents\n532,775 votes • Final results",
+      "time": "16d ago",
+      "timestamp": 1781972930,
+      "url": "https://nitter.net/realDonaldTrump/status/2068370500334637542#m"
     }
   ],
   "failed_sources": [],
-  "total": 205,
+  "total": 215,
   "economic": {
     "regional": {
       "eur_mad": {
