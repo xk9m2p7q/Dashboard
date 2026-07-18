@@ -1,6 +1,94 @@
 {
-  "updated": "2026-07-18T22:15:23.011447+00:00",
+  "updated": "2026-07-18T23:26:17.478773+00:00",
   "articles": [
+    {
+      "title": "Iran closes two border crossings with Kurdish region of Iraq",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-closes-two-border-crossings-kurdish-region-iraq",
+      "summary": "Iran closes two border crossings with Kurdish region of Iraq\n\n    \n    \n\n        \n    \n                Iran has closed the Marivan and Hawraman border crossings with Iraq and urged residents to stay a",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "3m ago",
+      "timestamp": 1784416894
+    },
+    {
+      "title": "Expertos forenses colombianos llegaron a Venezuela para ayudar con la identificación de los cuerpos tras los terremotos",
+      "link": "https://www.elnacional.com/2026/07/expertos-forenses-colombianos-llegaron-a-venezuela-para-ayudar-con-la-identificacion-de-los-cuerpos-tras-los-terremotos/",
+      "summary": "La prioridad del equipo colombiano es tomar muestras biológicas bajo estrictos criterios de parentesco en línea directa (hijos o padres).\nThe post Expertos forenses colombianos llegaron a Venezuela pa",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "5m ago",
+      "timestamp": 1784416798
+    },
+    {
+      "title": "Trump wants the US to host another World Cup, but without Mexico and Canada",
+      "link": "https://www.politico.com/news/2026/07/17/trump-world-cup-us-01003946?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "The president also revealed that the FIFA president proposed having the U.S. and China co-host a World Cup.",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "21m ago",
+      "timestamp": 1784415785
+    },
+    {
+      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
+      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
+      "summary": "While no tickets are available on FIFA&#039;s sales platform, they are being resold for sky-high prices on resale sites.",
+      "source": "Al Jazeera",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "43m ago",
+      "timestamp": 1784414507
+    },
+    {
+      "title": "US launches new strikes on Iran after deaths of service members in Jordan",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-new-strikes-iran-after-deaths-service-members-jordan",
+      "summary": "US launches new strikes on Iran after deaths of service members in Jordan\n\n    \n    \n\n        \n    \n                US forces have begun launching new air strikes against Iran at President Donald Trum",
+      "source": "Middle East Eye",
+      "region": "mena",
+      "tag": "mena",
+      "tier": 1,
+      "time": "48m ago",
+      "timestamp": 1784414156
+    },
+    {
+      "title": "Global Empowerment Mission espera ayudar por cinco años a afectados por terremotos en Venezuela",
+      "link": "https://www.elnacional.com/2026/07/global-empowerment-mission-espera-ayudar-por-cinco-anos-a-afectados-por-terremotos-en-venezuela/",
+      "summary": "Además de alimentos y productos de higiene personal,  la organización estadounidense ha  aportado carpas, generadores eléctricos, así como fórmulas para bebés.\nThe post Global Empowerment Mission espe",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "54m ago",
+      "timestamp": 1784413859
+    },
+    {
+      "title": "Suben a 5.119 los muertos por el doble terremoto del 24 de junio en Venezuela",
+      "link": "https://www.elnacional.com/2026/07/suben-a-5-119-los-muertos-por-el-doble-terremoto-del-24-de-junio-en-venezuela/",
+      "summary": "La cifra de heridos y rescatados se mantiene en 16.740 y 6.462 personas, respectivamente, de acuerdo al boletín publicado en Telegram.\nThe post Suben a 5.119 los muertos por el doble terremoto del 24 ",
+      "source": "El Nacional",
+      "region": "venezuela",
+      "tag": "latam",
+      "tier": 2,
+      "time": "1h ago",
+      "timestamp": 1784413231
+    },
+    {
+      "title": "Wie sich Europa für den Ernstfall vorbereitet. Mit NATO-General Laubenthal",
+      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-sich-europa-fur-den-ernstfall-vorbereitet-mit-nato-general-laubenthal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "summary": "Der NATO-Gipfel in Ankara hat der Allianz wichtige Entscheidungen für neue Aufklärungssysteme gebracht. Im Interview mit Gordon Repinski blickt Bundeswehr-General Markus Laubenthal, Chief of Staff im ",
+      "source": "POLITICO Europe",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1784413029
+    },
     {
       "title": "Balance de terremotos: 5.119 fallecidos y 16.740 heridos hasta este 18 de julio",
       "link": "https://efectococuyo.com/la-humanidad/balance-de-terremotos-5-119-fallecidos-y-16-740-heridos-hasta-este-18-de-julio/",
@@ -9,8 +97,19 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "3m ago",
+      "time": "1h ago",
       "timestamp": 1784412630
+    },
+    {
+      "title": "Wildfire haze hangs over eastern US ahead of World Cup final",
+      "link": "https://www.lemonde.fr/en/international/article/2026/07/19/wildfire-haze-hangs-over-eastern-us-ahead-of-world-cup-final_6755610_4.html",
+      "summary": "The wildfires burning in Canada have sent noxious smog to settle over much of the eastern United States. At one point on Saturday, the smoke made New York the  most polluted city in the world – only o",
+      "source": "Le Monde",
+      "region": "europe",
+      "tag": "eu",
+      "tier": 1,
+      "time": "1h ago",
+      "timestamp": 1784412422
     },
     {
       "title": "2 US service members killed in Iranian attack on Jordan",
@@ -20,7 +119,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7m ago",
+      "time": "1h ago",
       "timestamp": 1784412366
     },
     {
@@ -31,7 +130,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "8m ago",
+      "time": "1h ago",
       "timestamp": 1784412344
     },
     {
@@ -42,7 +141,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "15m ago",
+      "time": "1h ago",
       "timestamp": 1784411863
     },
     {
@@ -53,18 +152,18 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "28m ago",
+      "time": "1h ago",
       "timestamp": 1784411137
     },
     {
       "title": "US defence secretary says deaths of US service members ‘stiffens our resolve‘",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-secretary-says-deaths-us-service-members-stiffens-our-resolve",
-      "summary": "US defence secretary says deaths of US service members ‘stiffens our resolve‘\n\n    \n    \n\n        \n    \n                US Defence Secretary Pete Hegseth has reacted to the Iran's killing of two US se",
+      "summary": "US defence secretary says deaths of US service members ‘stiffens our resolve‘\n\n    \n    \n\n        \n    \n                US Defence Secretary Pete Hegseth has reacted to deaths of two US service member",
       "source": "Middle East Eye",
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "29m ago",
+      "time": "1h ago",
       "timestamp": 1784411059
     },
     {
@@ -75,7 +174,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "31m ago",
+      "time": "1h ago",
       "timestamp": 1784410916
     },
     {
@@ -86,7 +185,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "42m ago",
+      "time": "1h ago",
       "timestamp": 1784410267
     },
     {
@@ -97,7 +196,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "52m ago",
+      "time": "2h ago",
       "timestamp": 1784409700
     },
     {
@@ -108,7 +207,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "56m ago",
+      "time": "2h ago",
       "timestamp": 1784409480
     },
     {
@@ -119,7 +218,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784409149
     },
     {
@@ -130,7 +229,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784409148
     },
     {
@@ -141,7 +240,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784408614
     },
     {
@@ -152,7 +251,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784408564
     },
     {
@@ -163,7 +262,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784408400
     },
     {
@@ -174,7 +273,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784407771
     },
     {
@@ -185,7 +284,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784407537
     },
     {
@@ -196,7 +295,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784407174
     },
     {
@@ -207,19 +306,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784406922
-    },
-    {
-      "title": "Realizan pruebas técnicas en planta termoeléctrica en Zulia para incorporar 150 MW al Sistema Eléctrico Nacional",
-      "link": "https://www.elnacional.com/2026/07/realizan-pruebas-tecnicas-en-planta-termoelectrica-en-zulia-para-incorporar-150-mw-al-sistema-electrico-nacional/",
-      "summary": "El vicepresidente Sectorial de Obras Públicas y Servicios, Juan José Ramírez, junto al ministro para la Energía Eléctrica, Rolando Alcalá, y el gobernador del Zulia, Luis Caldera, supervisaron las pru",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "1h ago",
-      "timestamp": 1784406817
     },
     {
       "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
@@ -229,7 +317,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784406291
     },
     {
@@ -240,7 +328,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "1h ago",
+      "time": "3h ago",
       "timestamp": 1784405926
     },
     {
@@ -251,7 +339,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784404880
     },
     {
@@ -262,7 +350,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784404769
     },
     {
@@ -273,19 +361,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784404516
-    },
-    {
-      "title": "Kylian Mbappé despide a Didier Deschamps de Francia: “Debimos darte un mejor final”",
-      "link": "https://www.elnacional.com/2026/07/kylian-mbappe-despide-a-didier-deschamps-de-francia-debimos-darte-un-mejor-final/",
-      "summary": "El máximo artillero de la historia de Francia le deseó \"lo mejor\" al entrenador en su nueva etapa.\nThe post Kylian Mbappé despide a Didier Deschamps de Francia: &#8220;Debimos darte un mejor final&#82",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "2h ago",
-      "timestamp": 1784404465
     },
     {
       "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
@@ -295,7 +372,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784403747
     },
     {
@@ -306,7 +383,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784403476
     },
     {
@@ -317,19 +394,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784403256
-    },
-    {
-      "title": "La lucha de la senadora Jennifer Pedraza por los derechos de las mujeres en Colombia",
-      "link": "https://www.elnacional.com/2026/07/la-lucha-de-la-senadora-jennifer-pedraza-por-los-derechos-de-las-mujeres-en-colombia/",
-      "summary": "Representando al partido izquierdista Dignidad y Compromiso (Dignidad y Compromiso), en los últimos años su trabajo ha ayudado a impulsar leyes que prohíben el matrimonio infantil, la mutilación genit",
-      "source": "El Nacional",
-      "region": "venezuela",
-      "tag": "latam",
-      "tier": 2,
-      "time": "2h ago",
-      "timestamp": 1784403120
     },
     {
       "title": "Thousands rally in London in support of Gaza, demand new PM take action",
@@ -339,7 +405,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784403030
     },
     {
@@ -350,7 +416,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 1,
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784402843
     },
     {
@@ -361,7 +427,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784401873
     },
     {
@@ -372,7 +438,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784401709
     },
     {
@@ -383,7 +449,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784401500
     },
     {
@@ -394,7 +460,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784401200
     },
     {
@@ -405,19 +471,8 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784401200
-    },
-    {
-      "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-      "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
-      "summary": "Mojtaba Khamenei says Trump&#039;s signature is &#039;worthless&#039; and that &#039;bullying&#039; is a core element of US foreign policy.",
-      "source": "Al Jazeera",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1784400905
     },
     {
       "title": "Autoridades en alerta en los estados Apure y Amazonas por lluvias constantes e inundaciones",
@@ -427,19 +482,8 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784400753
-    },
-    {
-      "title": "UKMTO reports tanker incident involving military forces east of Oman's Duqm",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-tanker-incident-involving-military-forces-east-omans-duqm",
-      "summary": "UKMTO reports tanker incident involving military forces east of Oman's Duqm\n\n    \n    \n\n        \n    \n                A merchant vessel and military forces have been involved in an incident about 100 ",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1784400163
     },
     {
       "title": "Trump administration finalises overhaul of foreign journalists' visas, ends 'duration of status' system",
@@ -449,19 +493,8 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784399245
-    },
-    {
-      "title": "World Cup 2026: Palestinian flags become a target at US-based games",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/world-cup-2026-palestinian-flags-become-target-us-based-games",
-      "summary": "World Cup 2026: Palestinian flags become a target at US-based games\n\n    \n    \n\n        \n    \n                \n\nThe&nbsp;Palestinian&nbsp;flag has become one of the most visible, and most targeted, sy",
-      "source": "Middle East Eye",
-      "region": "mena",
-      "tag": "mena",
-      "tier": 1,
-      "time": "3h ago",
-      "timestamp": 1784398754
     },
     {
       "title": "Lawyers Action Committee terms JCP judge appointment process 'horse trading', announces nationwide movement",
@@ -471,7 +504,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784397475
     },
     {
@@ -482,7 +515,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784397436
     },
     {
@@ -493,7 +526,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784397135
     },
     {
@@ -504,7 +537,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396882
     },
     {
@@ -515,7 +548,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396481
     },
     {
@@ -526,7 +559,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396473
     },
     {
@@ -537,7 +570,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396464
     },
     {
@@ -548,7 +581,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396452
     },
     {
@@ -559,7 +592,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396121
     },
     {
@@ -570,7 +603,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784395829
     },
     {
@@ -581,7 +614,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784395790
     },
     {
@@ -592,7 +625,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784395706
     },
     {
@@ -603,7 +636,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1784395001
     },
     {
@@ -614,7 +647,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "4h ago",
+      "time": "6h ago",
       "timestamp": 1784394968
     },
     {
@@ -625,7 +658,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1784394010
     },
     {
@@ -636,18 +669,18 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "5h ago",
+      "time": "6h ago",
       "timestamp": 1784393447
     },
     {
       "title": "Trump’s rhetoric is more dangerous than voting machine flaws, experts say",
-      "link": "https://www.politico.eu/article/trumps-rhetoric-is-more-dangerous-than-voting-machine-flaws-experts-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "link": "https://www.politico.com/news/2026/07/18/trumps-rhetoric-voting-machine-flaws-01004123?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
       "summary": "U.S. states have stepped up the security of voting machines over the past decade, and largely moved away from electronic devices.",
       "source": "POLITICO Europe",
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "5h ago",
+      "time": "7h ago",
       "timestamp": 1784391283
     },
     {
@@ -658,7 +691,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1784390736
     },
     {
@@ -669,7 +702,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1784389952
     },
     {
@@ -680,7 +713,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1784389696
     },
     {
@@ -691,7 +724,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "6h ago",
+      "time": "7h ago",
       "timestamp": 1784388709
     },
     {
@@ -702,7 +735,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1784388211
     },
     {
@@ -713,7 +746,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "6h ago",
+      "time": "8h ago",
       "timestamp": 1784388189
     },
     {
@@ -724,7 +757,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784387405
     },
     {
@@ -735,7 +768,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784387203
     },
     {
@@ -746,7 +779,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784387043
     },
     {
@@ -757,7 +790,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784386970
     },
     {
@@ -768,7 +801,7 @@
       "region": "venezuela",
       "tag": "latam",
       "tier": 2,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784386800
     },
     {
@@ -779,7 +812,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784386098
     },
     {
@@ -790,7 +823,7 @@
       "region": "morocco",
       "tag": "mena",
       "tier": 2,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784385540
     },
     {
@@ -801,7 +834,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "8h ago",
       "timestamp": 1784385431
     },
     {
@@ -812,7 +845,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1784384287
     },
     {
@@ -823,7 +856,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "7h ago",
+      "time": "9h ago",
       "timestamp": 1784384016
     },
     {
@@ -834,7 +867,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1784383900
     },
     {
@@ -845,7 +878,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1784383842
     },
     {
@@ -856,7 +889,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1784383379
     },
     {
@@ -867,7 +900,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1784383200
     },
     {
@@ -878,7 +911,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "8h ago",
+      "time": "9h ago",
       "timestamp": 1784382816
     },
     {
@@ -889,7 +922,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1784381085
     },
     {
@@ -900,19 +933,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "8h ago",
+      "time": "10h ago",
       "timestamp": 1784380497
-    },
-    {
-      "title": "German conservative parliamentary leader resigns over surrogacy debate",
-      "link": "https://www.politico.eu/article/german-conservative-parliamentary-leader-resigns-over-surrogacy-debate-jens-spahn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "Jens Spahn quits leadership post after facing accusations of hypocrisy over use of surrogate mother.",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "9h ago",
-      "timestamp": 1784380202
     },
     {
       "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
@@ -922,19 +944,8 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "9h ago",
+      "time": "10h ago",
       "timestamp": 1784379985
-    },
-    {
-      "title": "Hungary's new government dismantles Orban-era think tanks",
-      "link": "https://www.lemonde.fr/en/international/article/2026/07/18/hungary-s-new-government-dismantles-orban-era-think-tanks_6755601_4.html",
-      "summary": "The pro-European government of new Hungarian Prime Minister Péter Magyar has ordered the closure of the Mathias Corvinus Collegium and the network of institutions that enabled his nationalist predeces",
-      "source": "Le Monde",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "9h ago",
-      "timestamp": 1784379727
     },
     {
       "title": "Dimite el jefe del grupo conservador de Merz tras recurrir a la gestación subrogada",
@@ -944,7 +955,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "9h ago",
+      "time": "10h ago",
       "timestamp": 1784379373
     },
     {
@@ -955,7 +966,7 @@
       "region": "mena",
       "tag": "mena",
       "tier": 2,
-      "time": "9h ago",
+      "time": "11h ago",
       "timestamp": 1784377398
     },
     {
@@ -966,7 +977,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 2,
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1784374775
     },
     {
@@ -977,19 +988,8 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "10h ago",
+      "time": "11h ago",
       "timestamp": 1784374063
-    },
-    {
-      "title": "Inside the White House debate over Trump’s elections speech",
-      "link": "https://www.politico.com/news/2026/07/18/pulte-got-really-scared-inside-the-white-house-debate-over-trumps-elections-speech-01003920?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "summary": "",
-      "source": "POLITICO Europe",
-      "region": "europe",
-      "tag": "eu",
-      "tier": 1,
-      "time": "10h ago",
-      "timestamp": 1784373548
     },
     {
       "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
@@ -999,7 +999,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1784373020
     },
     {
@@ -1010,7 +1010,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "11h ago",
+      "time": "12h ago",
       "timestamp": 1784371081
     },
     {
@@ -1021,7 +1021,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 1,
-      "time": "12h ago",
+      "time": "13h ago",
       "timestamp": 1784368867
     },
     {
@@ -1032,7 +1032,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "15h ago",
+      "time": "16h ago",
       "timestamp": 1784358319
     },
     {
@@ -1043,7 +1043,7 @@
       "region": "europe",
       "tag": "eu",
       "tier": 2,
-      "time": "15h ago",
+      "time": "16h ago",
       "timestamp": 1784357760
     },
     {
@@ -1054,7 +1054,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784347270
     },
     {
@@ -1065,7 +1065,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784347270
     },
     {
@@ -1076,7 +1076,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 2,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784347270
     },
     {
@@ -1087,7 +1087,7 @@
       "region": "global",
       "tag": "global",
       "tier": 1,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784347247
     },
     {
@@ -1098,7 +1098,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784347200
     },
     {
@@ -1109,7 +1109,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784347200
     },
     {
@@ -1120,7 +1120,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "18h ago",
+      "time": "19h ago",
       "timestamp": 1784346923
     },
     {
@@ -1131,7 +1131,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "19h ago",
+      "time": "20h ago",
       "timestamp": 1784343600
     },
     {
@@ -1142,7 +1142,7 @@
       "region": "spain",
       "tag": "eu",
       "tier": 1,
-      "time": "23h ago",
+      "time": "1d ago",
       "timestamp": 1784327400
     },
     {
@@ -2187,7 +2187,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "2464d ago",
+      "time": "2465d ago",
       "timestamp": 1571439708
     },
     {
@@ -2264,7 +2264,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4182d ago",
+      "time": "4183d ago",
       "timestamp": 1423005377
     },
     {
@@ -2275,7 +2275,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4182d ago",
+      "time": "4183d ago",
       "timestamp": 1423004925
     },
     {
@@ -2286,7 +2286,7 @@
       "region": "latam",
       "tag": "latam",
       "tier": 1,
-      "time": "4182d ago",
+      "time": "4183d ago",
       "timestamp": 1423004620
     },
     {
@@ -2325,12 +2325,22 @@
   ],
   "social": [
     {
+      "handle": "Keir_Starmer",
+      "name": "Keir Starmer",
+      "role": "UK Prime Minister",
+      "region": "europe",
+      "text": "Great result tonight @England. \n\nYou’ve done us proud.\n\n\nEngland (@England)\n\nThe #ThreeLions' best-ever World Cup finish on foreign soil 👊\n\n\n\n\n\n—",
+      "time": "18m ago",
+      "timestamp": 1784415999,
+      "url": "https://nitter.net/Keir_Starmer/status/2078617474396791185#m"
+    },
+    {
       "handle": "EmmanuelMacron",
       "name": "Emmanuel Macron",
       "role": "French President",
       "region": "europe",
       "text": "Une page de l’histoire du football français se tourne ce soir. Merci Didier Deschamps pour les victoires légendaires, les émotions fortes, pour avoir porté durant des années nos Bleus et fait vibrer la France. Quatorze années : la génération Deschamps.\n\nVideo",
-      "time": "1h ago",
+      "time": "2h ago",
       "timestamp": 1784407151,
       "url": "https://nitter.net/EmmanuelMacron/status/2078580362200908227#m"
     },
@@ -2340,7 +2350,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: Fuerte baja en el IPC Nucleo. Excelente. Chart @econviews",
-      "time": "2h ago",
+      "time": "3h ago",
       "timestamp": 1784404800,
       "url": "https://nitter.net/julianyosovitch/status/2078570504454349159#m"
     },
@@ -2350,7 +2360,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: ¡ISRAEL ESTÁ CON ARGENTINA! Aquí, alentando junto al Primer Ministro, Benjamín Netanyahu. @netanyahu @JMilei",
-      "time": "3h ago",
+      "time": "4h ago",
       "timestamp": 1784401341,
       "url": "https://nitter.net/axelwahnish/status/2078555992753627228#m"
     },
@@ -2360,7 +2370,7 @@
       "role": "El Salvador President",
       "region": "latam",
       "text": "Hace apenas un mes asestamos el golpe más contundente al narcotráfico en la historia de El Salvador. Hoy, nuestra Marina Nacional vuelve a golpear a las organizaciones del crimen transnacional.\n\nEl 17 de julio, nuestra Marina Nacional interceptó una LMFB (Lancha con Motor Fuera d",
-      "time": "3h ago",
+      "time": "5h ago",
       "timestamp": 1784399108,
       "url": "https://nitter.net/nayibbukele/status/2078546630899282045#m"
     },
@@ -2370,7 +2380,7 @@
       "role": "Argentina President",
       "region": "latam",
       "text": "RT by @JMilei: Prime Minister Benjamin Netanyahu met in his office with the Ambassador of Argentina to Israel, Rabbi Shimon Axel Wahnish, and wished great success to the Argentine national team in the World Cup final taking place tomorrow. Ambassador Wahnish presented the Prime M",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784398344,
       "url": "https://nitter.net/IsraeliPM/status/2078543426266468423#m"
     },
@@ -2380,7 +2390,7 @@
       "role": "Israel Government",
       "region": "mena",
       "text": "Prime Minister Benjamin Netanyahu met in his office with the Ambassador of Argentina to Israel, Rabbi Shimon Axel Wahnish, and wished great success to the Argentine national team in the World Cup final taking place tomorrow.\n\nAmbassador Wahnish presented the Prime Minister with a",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784398344,
       "url": "https://nitter.net/IsraeliPM/status/2078543426266468423#m"
     },
@@ -2390,7 +2400,7 @@
       "role": "Israel Government",
       "region": "mena",
       "text": "Prime Minister Benjamin Netanyahu spoke yesterday with reservist fighter A. and his family following his effort-intensive release from prolonged detention (8 months) during his honeymoon in Thailand with his wife M.\n\nThe Prime Minister congratulated the couple upon their return t",
-      "time": "4h ago",
+      "time": "5h ago",
       "timestamp": 1784396676,
       "url": "https://nitter.net/IsraeliPM/status/2078536427290190301#m"
     },
@@ -2465,16 +2475,6 @@
       "url": "https://nitter.net/RTErdogan/status/2077513544099299639#m"
     },
     {
-      "handle": "Keir_Starmer",
-      "name": "Keir Starmer",
-      "role": "UK Prime Minister",
-      "region": "europe",
-      "text": "Gutted. Tonight wasn’t the result we all hoped for, but this England team has given it their all.\n\nThe passion and energy they’ve shown representing the badge has made us all proud.",
-      "time": "3d ago",
-      "timestamp": 1784150459,
-      "url": "https://nitter.net/Keir_Starmer/status/2077503718044443108#m"
-    },
-    {
       "handle": "RTErdogan",
       "name": "Recep Erdogan",
       "role": "Turkey President",
@@ -2493,26 +2493,6 @@
       "time": "3d ago",
       "timestamp": 1784148300,
       "url": "https://nitter.net/RTErdogan/status/2077494662659764245#m"
-    },
-    {
-      "handle": "realDonaldTrump",
-      "name": "Donald Trump",
-      "role": "US President",
-      "region": "global",
-      "text": "nitter.net/i/broadcasts/1yxBeeAql…\n\nLink\n\n\n\nThe White House\n\nPresident Trump Delivers Remarks at the Salute to America Celebration",
-      "time": "13d ago",
-      "timestamp": 1783221437,
-      "url": "https://nitter.net/realDonaldTrump/status/2073607119878623432#m"
-    },
-    {
-      "handle": "realDonaldTrump",
-      "name": "Donald Trump",
-      "role": "US President",
-      "region": "global",
-      "text": "POLL…\n\nPoll\n\n38% — ICE Agents\n62% — NICE Agents\n532,775 votes • Final results",
-      "time": "28d ago",
-      "timestamp": 1781972930,
-      "url": "https://nitter.net/realDonaldTrump/status/2068370500334637542#m"
     }
   ],
   "failed_sources": [],
